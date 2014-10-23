@@ -1,0 +1,50 @@
+{
+    "laws" : [
+        { "name" : "Law 1: - The Ground",
+          "value": ["Definitions","1.1 Surface of the playing enclosure","1.2 Required dimensions for the playing enclosure",
+                            "1.3 Lines on the playing enclosure","1.4 Dimensions for goal posts and crossbar",
+                            "1.5 Flag posts","1.6 Objections to the ground"],
+          "content" : [ {"section" : "Definitions",
+                         "sectioncontents": [
+                                    { "type": "image",
+                                      "value" : "the_plan_may2013"},
+                                    { "type": "image",
+                                      "value" : "playing_enclosure_en"
+                                    },
+                                    { "type": "definitions",
+                                      "value":"<b>DEFINITIONS<b><br /><b>The Ground is the total</b> area shown on the plan. The Ground includes:<br /><b>The Field of play</b> is the area (as shown on the plan) between the goal lines and the touchlines. These lines are not part of the field of play.<br /><b>The Playing Area</b> is the field of play and the in-goal areas (as shown on the plan). The touchlines, touch-in-goal lines and dead ball lines are not part of the playing area.<br /><b>The Playing Enclosure</b> is the playing area and a space around it, not less than 5 metres where practicable, which is known as the perimeter area.<br /><b>In-goal</b> is the area between the goal line and the dead ball line, and between the touch-in-goal lines. It includes the goal line but it does not include the dead ball line or the touch-in-goal lines.<br /><b>‘The 22’</b> is the area between the goal line and the 22-metre line, including the 22-metre line but excluding the goal line.<br /><b>The Plan,</b> including all the words and figures on it, is part of the Laws."
+                                    }]
+                         }]
+        },
+        { "name": "Law 2: - The Ball",
+          "value": ["2.1 Shape","2.2 Dimensions","2.3 Materials","2.4 Weight","2.5 Air pressure at the start of play",
+                            "2.6 Spare balls","2.7 Smaller balls"]
+        },
+        { "name" : "Law 3: - Number of Player - The Team",
+          "value": ["Definitions","3.1 Maximum number of players on the playing area", "3.2 Team with more than the permitted number of players",
+                    "3.3 When there are fewer than fifteen players","3.4 Players nominated as substitutes"," 3.5 The front row - replacements and substitutions",
+                    "3.6 Sent off the field for foul play","3.7 Permanent replacement","3.8 The decision for permanent replacement",
+                    "3.9 The referee’s power to stop an injured player from continuing","3.10 Temporary replacement",
+                    "3.11 Player wishing to rejoin the match","3.12 Substituted players rejoining the match","3.13 Rolling substitutions"]
+        },
+        { "name" : "Law 4: - Players' Clothing",
+          "value" : ["Definitions","4.1 Additional items of clothing","4.2 Special additional items for women","4.3 Studs","4.4 Banned items of clothing",
+                     "4.4 Banned items of clothing","4.5 Inspection of players’ clothing","4.6 Wearing other clothing"]
+        },
+        { "name" : "Law 5: - Time",
+          "value" : ["5.1 Duration of a match", "5.2 Half-time","5.3 Time keeping","5.4 Time lost","5.5 Making up for time lost","5.6 Playing extra time",
+                     "5.7 Other time regulations"]
+        },
+        { "name" : "Law 6: - Match Officials",
+          "value" : ["Definitions","6.A REFEREE","Before the match","6.A.1 Appointing the referee","6.A.2 Replacing the referee","6.A.3 Duties of the referee before the match",
+                     "During the Match","6.A.4 The duties of the referee in the playing enclosure","6.A.5 Entering or leaving the playing area",
+                     "6.A.6 Referee altering a decision","6.A.7 Referee consulting with others","6.A.8 The referee’s whistle","6.A.9 The referee and injury",
+                     "6.A.10 The ball touching the referee","6.A.11 The ball in in-goal touched by non-player","After the match","6.A.12 Score",
+                     "6.A.13 Player sent-off","6.B TOUCH JUDGES AND ASSISTANT REFEREES", "Before the match","6.B.1 Appointing touch judges and assistant referees",
+                     "6.B.2 Replacing a touch judge or assistant referee","6.B.3 Control of touch judges and assistant referees","During the match",
+                     "6.B.4 Where the touch judges or assistant referees should be","6.B.5 Touch judge or assistant referee signals","6.B.6 After signalling foul play",
+                     "After the match","6.B.7 Player sent-off","6.C ADDITIONAL PERSONS","6.C.1 Reserve touch judge or assistant referee","6.C.2 Those who may enter the playing area",
+                     "6.C.3 Limits to entering the playing area"]
+        }
+    ]
+}

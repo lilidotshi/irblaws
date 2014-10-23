@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IRBLaws</string>
+    <string name="action_settings">Settings</string>
+    <string name="before_game_text">BEFORE THE GAME</string>
+    <string name="method_of_playing">METHOD OF PLAYING</string>
+    <string name="in_field_play">IN THE FIELD OF PLAY</string>
+    <string name="restarts">RESTARTS</string>
+    <string name="in_goal">IN-GOAL</string>
+    <string name="variations">VARIATIONS</string>
+    <string name="ref_signals">REFEREE SIGNALS</string>
+</resources>

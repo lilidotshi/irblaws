@@ -1,0 +1,73 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4aa649"
+    tools:context=".IRBMainActivity" >
+    
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:background="#4aa649"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout 
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+         <ImageView
+        android:id="@+id/irbheader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:adjustViewBounds="true"
+        android:cropToPadding="false"
+        android:scaleType="fitCenter"
+        android:src="@drawable/irbheader" />
+
+     <Button
+        android:id="@+id/beforeButton"
+        style="@style/MenuButtonStyle"
+        android:layout_below="@id/irbheader"
+        android:text="@string/before_game_text" />
+    
+    <Button
+        android:id="@+id/methodButton"
+        style="@style/MenuButtonStyle"
+        android:layout_below="@id/beforeButton"
+        android:text="@string/method_of_playing" />
+    
+    <Button
+        android:id="@+id/fieldPlayButton"
+        style="@style/MenuButtonStyle"
+        android:layout_below="@id/methodButton"
+        android:text="@string/in_field_play" />
+    
+    <Button
+        android:id="@+id/restartsButton"
+        style="@style/MenuButtonStyle"
+        android:layout_below="@id/fieldPlayButton"
+        android:text="@string/restarts" />
+    
+    <Button
+        android:id="@+id/inGoalButton"
+        style="@style/MenuButtonStyle"
+        android:layout_below="@id/restartsButton"
+        android:text="@string/in_goal" />
+    
+    <Button
+        android:id="@+id/variations"
+        style="@style/MenuButtonStyle"
+        android:layout_below="@id/inGoalButton"
+        android:text="@string/variations" />
+    <Button
+        android:id="@+id/refSigs"
+        style="@style/MenuButtonStyle"
+        android:layout_below="@id/variations"
+        android:text="@string/ref_signals" />
+        </RelativeLayout>
+    </ScrollView>
+    
+   
+</RelativeLayout>
