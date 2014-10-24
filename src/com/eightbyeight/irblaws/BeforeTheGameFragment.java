@@ -3,10 +3,9 @@ package com.eightbyeight.irblaws;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentTransaction;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -63,14 +62,13 @@ public class BeforeTheGameFragment extends Fragment implements ExpandableListVie
 		
 		Bundle args = new Bundle();
 		args.putSerializable("laws", mLaws);
+		args.putInt("lawnumber", groupPosition);
+		args.putInt("sectionnumber", childPosition);
 		args.putString("sectiontitle", childText);
-		ContentFragment contentFragment = new ContentFragment();
-		contentFragment.setArguments(args);
-		FragmentManager fm=getActivity().getSupportFragmentManager();
-		FragmentTransaction ft=fm.beginTransaction();
-		ft.replace(R.id.mainLayout, contentFragment);
-		ft.addToBackStack(null);
-		ft.commit(); 
+		Intent readerIntent = new Intent(getActivity(),ReaderActivity.class);
+		readerIntent.putExtras(args);
+		startActivity(readerIntent);
+
 		return true;
 	}
 }

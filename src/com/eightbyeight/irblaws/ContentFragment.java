@@ -33,7 +33,7 @@ public class ContentFragment extends Fragment {
 	private static final String TEXT_TYPE = "text";
 	private static final String SECTION_HEADER_TYPE = "sectionheader";
 	private String mSectionHeader;
-	private int mIndex;
+	private int mLawNumber;
 	
 	@Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -42,8 +42,9 @@ public class ContentFragment extends Fragment {
     	View rootFragment = inflater.inflate(R.layout.content_fragment, container, false);
     	Bundle bundle = this.getArguments();
     	Laws laws = (Laws) bundle.get("laws");
+    	mLawNumber = bundle.getInt("lawnumber");
     	mSectionHeader = bundle.getString("sectiontitle");
-    	List<View> viewList = createViewsForSection(laws,mSectionHeader);
+    	List<View> viewList = createViewsForSection(laws,mLawNumber,mSectionHeader);
     	LinearLayout contentLayout = (LinearLayout) rootFragment.findViewById(R.id.contentLayout);
     	for (View v : viewList){
     		contentLayout.addView(v);
@@ -51,14 +52,13 @@ public class ContentFragment extends Fragment {
         return rootFragment;
     }
 
-	private List<View> createViewsForSection(Laws laws, String sectiontitle) {
-		Law law = laws.getLaws().get(0);
+	private List<View> createViewsForSection(Laws laws, int lawNumber, String sectiontitle) {
+		Law law = laws.getLaws().get(lawNumber);
 		Section sectionContent = null;
 		for (int i = 0; i < law.getContent().size(); i++){
 			Section section = law.getContent().get(i);
 			if (section.getSectionName().equalsIgnoreCase(sectiontitle)){
 				sectionContent = section;
-				mIndex = i;
 				break;
 			}
 		}
