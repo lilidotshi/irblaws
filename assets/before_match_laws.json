@@ -11,8 +11,25 @@
                                     { "type": "image",
                                       "value" : "playing_enclosure_en"
                                     },
-                                    { "type": "definitions",
-                                      "value":"<b>DEFINITIONS<b><br /><b>The Ground is the total</b> area shown on the plan. The Ground includes:<br /><b>The Field of play</b> is the area (as shown on the plan) between the goal lines and the touchlines. These lines are not part of the field of play.<br /><b>The Playing Area</b> is the field of play and the in-goal areas (as shown on the plan). The touchlines, touch-in-goal lines and dead ball lines are not part of the playing area.<br /><b>The Playing Enclosure</b> is the playing area and a space around it, not less than 5 metres where practicable, which is known as the perimeter area.<br /><b>In-goal</b> is the area between the goal line and the dead ball line, and between the touch-in-goal lines. It includes the goal line but it does not include the dead ball line or the touch-in-goal lines.<br /><b>‘The 22’</b> is the area between the goal line and the 22-metre line, including the 22-metre line but excluding the goal line.<br /><b>The Plan,</b> including all the words and figures on it, is part of the Laws."
+                                    { "type": "definition",
+                                      "value":"<b>DEFINITIONS</b><br /><br /><b>The Ground</b> is the total area shown on the plan. The Ground includes:<br /><br /><b>The Field of play</b> is the area (as shown on the plan) between the goal lines and the touchlines. These lines are not part of the field of play.<br /><br /><b>The Playing Area</b> is the field of play and the in-goal areas (as shown on the plan). The touchlines, touch-in-goal lines and dead ball lines are not part of the playing area.<br /><br /><b>The Playing Enclosure</b> is the playing area and a space around it, not less than 5 metres where practicable, which is known as the perimeter area.<br /><br /><b>In-goal</b> is the area between the goal line and the dead ball line, and between the touch-in-goal lines. It includes the goal line but it does not include the dead ball line or the touch-in-goal lines.<br /><br /><b>‘The 22’</b> is the area between the goal line and the 22-metre line, including the 22-metre line but excluding the goal line.<br /><br /><b>The Plan,</b> including all the words and figures on it, is part of the Laws."
+                                    }]
+                         },
+                         {"section" : "1.1 Surface of the playing enclosure",
+                         "sectioncontents" :[
+                                    { "type" : "sectionheader",
+                                      "value" :""},
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Requirement.</b> The surface must be safe to play on at all times.<br /><br />(b) <b>Type of surface.</b> The surface should be grass but may also be sand, clay, snow or artificial grass. The game may be played on snow, provided the snow and underlying surface are safe to play on. It shall not be a permanently hard surface such as concrete or asphalt. In the case of artificial grass surfaces, they must conform to IRB Regulation 22."
+                                    }]
+                         },
+                         {"section" : "1.2 Required dimensions for the playing enclosure",
+                          "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""                                      
+                                    },
+                                    { "type" : "text",
+                                      "value" :"(a) <b>Dimensions.</b> The field of play does not exceed 100 metres in length. Each in-goal does not exceed 22 metres in length. The playing area does not exceed 70 metres in width.<br/><br/>(b) The length and breadth of the playing area are to be as near as possible to the dimensions indicated. All the areas are rectangular.<br/><br/>(c) The distance from the goal line to the dead ball line will preferably be not less than 10 metres.<br/><br/>(d)In respect of:<br/><br/>&emsp;(i) Matches between the senior national representative team or the next senior national representative team of a Union against the senior or next senior national representative team of another Union; and<br/><br/>&emsp;(ii) International seven-a-side matches;<br/><br/>&emsp;the dimensions should be as close to the maximum sizes as possible, and not less than 94 metres in length for the field of play, 68 metres in width, and with a minimum in-goal length of 6 metres. Unions wishing to vary minimum or maximum dimensions should apply for dispensation to the IRB.<br/><br/>(e) The perimeter area should not be less than 5 metres where practicable."
                                     }]
                          }]
         },

@@ -2021,7 +2021,8 @@ containing a value of this type.
          */
         public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f0b0090;
         public static final int ClauseHeader=0x7f0b00ee;
-        public static final int ImageStyle=0x7f0b00ef;
+        public static final int DefinitionHeader=0x7f0b00ef;
+        public static final int ImageStyle=0x7f0b00f0;
         public static final int MenuButtonStyle=0x7f0b00ed;
         public static final int Platform_AppCompat=0x7f0b00c9;
         public static final int Platform_AppCompat_Dialog=0x7f0b00cb;
@@ -2194,6 +2195,8 @@ containing a value of this type.
          */
         public static final int Widget_AppCompat_Toolbar=0x7f0b0034;
         public static final int Widget_AppCompat_Toolbar_Button_Navigation=0x7f0b0035;
+        public static final int bold=0x7f0b00f1;
+        public static final int greenbackground=0x7f0b00f2;
     }
     public static final class styleable {
         /**  ============================================ 
