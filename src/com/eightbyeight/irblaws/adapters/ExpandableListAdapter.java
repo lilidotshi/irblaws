@@ -32,7 +32,7 @@ public class ExpandableListAdapter extends BaseExpandableListAdapter{
 
 	@Override
 	public int getChildrenCount(int groupPosition) {
-		return mLaws.getLaws().get(groupPosition).getValues().size();
+		return mLaws.getLaws().get(groupPosition).getContent().size();
 	}
 
 	@Override
@@ -42,7 +42,7 @@ public class ExpandableListAdapter extends BaseExpandableListAdapter{
 
 	@Override
 	public Object getChild(int groupPosition, int childPosition) {
-		return mLaws.getLaws().get(groupPosition).getValues().get(childPosition);
+		return mLaws.getLaws().get(groupPosition).getContent().get(childPosition).getSectionName();
 	}
 
 	@Override

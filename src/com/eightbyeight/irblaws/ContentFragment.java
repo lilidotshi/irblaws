@@ -33,6 +33,7 @@ public class ContentFragment extends Fragment {
 	private static final String TEXT_TYPE = "text";
 	private static final String SECTION_HEADER_TYPE = "sectionheader";
 	private String mSectionHeader;
+	private int mIndex;
 	
 	@Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -53,9 +54,11 @@ public class ContentFragment extends Fragment {
 	private List<View> createViewsForSection(Laws laws, String sectiontitle) {
 		Law law = laws.getLaws().get(0);
 		Section sectionContent = null;
-		for (Section section : law.getContent()){
+		for (int i = 0; i < law.getContent().size(); i++){
+			Section section = law.getContent().get(i);
 			if (section.getSectionName().equalsIgnoreCase(sectiontitle)){
 				sectionContent = section;
+				mIndex = i;
 				break;
 			}
 		}
