@@ -124,6 +124,9 @@ public class NavigationDrawerFragment extends Fragment {
 		return mDrawerListView;
 	}
 
+	public void closeDrawer() {
+		mDrawerLayout.closeDrawers();
+	}
 	public boolean isDrawerOpen() {
 		return mDrawerLayout != null
 				&& mDrawerLayout.isDrawerOpen(mFragmentContainerView);

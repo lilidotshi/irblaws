@@ -78,41 +78,107 @@
         { "name": "Law 2: - The Ball",
           "content" : [
                       { "section" : "2.1 Shape",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "The ball must be oval and made of four panels."
+                                    }]
                       },
                       { "section" : "2.2 Dimensions",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "image",
+                                      "value" : "table"
+                                    },
+                                    { "type" : "image",
+                                      "value" : "ball_size_en"
+                                    }]
                       },
                       { "section" : "2.3 Materials",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "Leather or suitable synthetic material. It may be treated to make it water resistant and easier to grip."
+                                    }]
                       },
                       { "section" : "2.4 Weight",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "410 - 460 grams"
+                                    }]
                       },
                       { "section" : "2.5 Air pressure at the start of play",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "65.71-68.75 kilopascals, or 0.67-0.70 kilograms per square centimetre, or 9.5-10.0 lbs per square inch."
+                                    }]
                       },
                       { "section" : "2.6 Spare balls",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "Spare balls may be available during a match, but a team must not gain or attempt to gain an unfair advantage by using them or changing them."
+                                    }]
                       },
                       { "section" : "2.7 Smaller balls",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "Balls of different sizes may be used for matches between young players."
+                                    }]
                       }
                     ]
         },
         { "name" : "Law 3: - Number of Player - The Team",
           "content": [
                      { "section" : "Definitions",
-                       "sectioncontents" : []
+                       "sectioncontents" : [
+                                { "type" : "definition",
+                                  "value" : "<b>DEFINITIONS<b><br/><br/><b>A Team</b>. A team consists of fifteen players who start the match plus any authorised replacements and/or substitutes.<br/><br/><b>Replacement.</b> A player who replaces an injured team-mate.<br/><br/><b>Substitute.</b> A player who replaces a team-mate for tactical reasons."
+                                }]
                      },
                      { "section" : "3.1 Maximum number of players on the playing area",
-                       "sectioncontents" : []
+                       "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""                                
+                                },
+                                { "type" : "text",
+                                  "value" : "Maximum: each team must have no more than fifteen players on the playing area during play."
+                                }]
                      },
                      { "section" : "3.2 Team with more than the permitted number of players",
-                       "sectioncontents" : []
+                       "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "<b>Objection</b>: at any time before or during a match a team may make an objection to the referee about the number of players in their opponents’ team. As soon as the referee knows that a team has too many players, the referee must order the captain of that team to reduce the number appropriately. The score at the time of the objection remains unaltered.<br/><br/><font color=\"red\"><b>Sanction:</b> Penalty at the place where the match would restart.</font>"
+                                }]
                      },
                      { "section" : "3.3 When there are fewer than fifteen players",
-                       "sectioncontents" : []
+                       "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "A Union may authorise matches to be played with fewer than fifteen players in each team. When that happens, all the Laws of the Game apply except that each team must have at least five players in the scrum at all times.<br/><br/><b>Exception:</b> matches between teams of Seven-a-side are an exception. These matches are covered by the Seven-a-side Variations to the Laws of the Game."
+                                }]
                      },
                      { "section" : "3.4 Players nominated as substitutes",
                        "sectioncontents" : []

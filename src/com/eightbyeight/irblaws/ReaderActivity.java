@@ -9,10 +9,8 @@ import android.support.v4.view.ViewPager;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.ActionBarActivity;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.ViewGroup;
 
 import com.eightbyeight.irblaws.jsonobjects.Laws;
 
@@ -96,7 +94,6 @@ public class ReaderActivity extends ActionBarActivity implements
 
 	public void restoreActionBar() {
 		ActionBar actionBar = getSupportActionBar();
-		actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_STANDARD);
 		actionBar.setDisplayShowTitleEnabled(true);
 		actionBar.setTitle(mTitle);
 	}
@@ -124,6 +121,15 @@ public class ReaderActivity extends ActionBarActivity implements
 			return true;
 		}
 		return super.onOptionsItemSelected(item);
+	}
+	
+	@Override
+	public void onBackPressed() {
+		if (mNavigationDrawerFragment != null && mNavigationDrawerFragment.isDrawerOpen()){
+			mNavigationDrawerFragment.closeDrawer();
+		} else {
+			super.onBackPressed();
+		}
 	}
 	
 	/**
