@@ -1636,16 +1636,19 @@ containing a value of this type.
         public static final int abc_textfield_search_material=0x7f020032;
         public static final int ball_size_en=0x7f020033;
         public static final int beforebutton=0x7f020034;
-        public static final int drawer_shadow=0x7f020035;
-        public static final int goal_posts_en=0x7f020036;
-        public static final int green_rounded=0x7f020037;
-        public static final int grey_rounded=0x7f020038;
-        public static final int ic_drawer=0x7f020039;
-        public static final int ic_launcher=0x7f02003a;
-        public static final int irbheader=0x7f02003b;
-        public static final int playing_enclosure_en=0x7f02003c;
-        public static final int table=0x7f02003d;
-        public static final int the_plan_may2013=0x7f02003e;
+        public static final int blue_rounded=0x7f020035;
+        public static final int drawer_shadow=0x7f020036;
+        public static final int goal_posts_en=0x7f020037;
+        public static final int green_rounded=0x7f020038;
+        public static final int grey_rounded=0x7f020039;
+        public static final int ic_drawer=0x7f02003a;
+        public static final int ic_launcher=0x7f02003b;
+        public static final int irbheader=0x7f02003c;
+        public static final int irblogo=0x7f02003d;
+        public static final int players_table=0x7f02003e;
+        public static final int playing_enclosure_en=0x7f02003f;
+        public static final int table=0x7f020040;
+        public static final int the_plan_may2013=0x7f020041;
     }
     public static final class id {
         public static final int action_bar=0x7f090033;
@@ -1801,6 +1804,7 @@ containing a value of this type.
         public static final int global=0x7f0c0000;
         public static final int irbmain=0x7f0c0001;
         public static final int reader=0x7f0c0002;
+        public static final int video_test=0x7f0c0003;
     }
     public static final class string {
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 
@@ -1859,6 +1863,7 @@ containing a value of this type.
         public static final int action_settings=0x7f0a0010;
         public static final int app_name=0x7f0a000f;
         public static final int before_game_text=0x7f0a0011;
+        public static final int hello_world=0x7f0a001f;
         public static final int in_field_play=0x7f0a0013;
         public static final int in_goal=0x7f0a0015;
         public static final int method_of_playing=0x7f0a0012;
@@ -1867,6 +1872,7 @@ containing a value of this type.
         public static final int ref_signals=0x7f0a0017;
         public static final int restarts=0x7f0a0014;
         public static final int title_activity_reader=0x7f0a001d;
+        public static final int title_activity_video_test=0x7f0a001e;
         public static final int title_section1=0x7f0a0018;
         public static final int title_section2=0x7f0a0019;
         public static final int title_section3=0x7f0a001a;

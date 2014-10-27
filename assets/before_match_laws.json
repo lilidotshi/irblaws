@@ -181,85 +181,226 @@
                                 }]
                      },
                      { "section" : "3.4 Players nominated as substitutes",
-                       "sectioncontents" : []
+                       "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "(a) For international matches a Union may nominate up to eight replacements/substitutes.<br/><br/>(b) For other matches, the Union or match organiser with jurisdiction over the match decides how many replacements/substitutes may be nominated to a maximum of eight.<br/><br/>(c) A Union (or Unions, where a match or competition is played between teams from two or more Unions) may decide how many replacements/substitutes may be nominated to a maximum of eight.<br/><br/>(d) A team can substitute up to two front row players (subject to Law 3.5 (f) and (g) when it may be three) and up to five other players.<br/><br/>(e) Substitutions may only be made when the ball is dead and with the permission of the referee.<br/><br/>"
+                                }]
                      },
-                     { "section" : " 3.5 The front row - replacements and substitutions",
-                       "sectioncontents" : []
+                     { "section" : "3.5 The front row - replacements and substitutions",
+                       "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "(a) The table below indicates the numbers of suitably trained and experienced players available for the front row when nominating different numbers of players"
+                                },
+                                { "type" : "image",
+                                  "value" : "players_table"
+                                },
+                                { "type" : "text",
+                                  "value" : "(b) Prior to the match teams must advise the referee of their front row players and replacements. Each player in the front row and any potential replacements must be suitably trained and experienced.<br/><br/>(c) The replacement of a front row player must come from the suitably trained and experienced players who started the match or from nominated replacements. A player other than a nominated front row player is permitted to play in the front row only when uncontested scrums are being played and there are no available front row replacements.<br/><br/>(d) A suitably trained and experienced front row forward may start the match in another position."
+                                },
+                                { "type" : "text",
+                                  "value" : "(e) When 19, 20, 21 or 22 players are nominated in a team there must be five players who can play in the front row to ensure that:<br/><br/>&emsp;- on the first occasion that a replacement hooker is required the team can continue to play safely with contested scrums<br/><br/>&emsp;- on the first occasion that a replacement prop is required the team can continue to play safely with contested scrums."
+                                },
+                                { "type" : "text",
+                                  "value" : "(f) The Union having jurisdiction over a match or a match organiser may decide that when 22 players are nominated in a team there must be sufficient front row players to play at hooker, tight-head prop and loose-head prop who are suitably trained and experienced to ensure that on the first occasion that a replacement is required in each front row position, the team can continue to play safely with contested scrums.<br/><br/>(g) If a Union or match organiser decides to have 23 players nominated for a team there must be sufficient front row players to play at hooker, tight-head prop and loose-head prop who are suitably trained and experienced to ensure that on the first occasion that a replacement is required in each front row position, the team can continue to play safely with contested scrums. If a team is only able to nominate two suitably trained front row players then only 22 players may be nominated for the match.<br/><br/>(h) If, because of a sending off or injury, a team cannot provide enough suitably trained front row players, the match continues with uncontested scrums.<br/><br/>(i) If a team does not have suitably trained front row players prior to the match so that contested scrums cannot take place the referee will order uncontested scrums. The referee will report the matter to the match organiser."
+                                },
+                                { "type" : "text",
+                                  "value" : "(j) A match organiser may decide within the competition rules that a match may or may not commence if suitably trained and experienced front row players are not available so that contested scrums cannot take place.<br/><br/>(k) When 23 players are nominated for a match, or if the Union having jurisdiction over a match or a match organiser decides that where uncontested scrums are ordered as a result of there being no suitably trained and experienced front row replacement for any reason the team concerned shall not be entitled to replace the player whose departure caused uncontested scrums.<br/><br/>(l) If the referee orders uncontested scrums during a match - as a result of a team not having suitably trained and experienced front row players in compliance with Law or reasons of safety - the referee will report the matter to the match organiser."
+                                },
+                                { "type" : "text",
+                                  "value" : "(m) If there are no further front row replacements available when a front row player leaves the field of play, is sent off or temporarily suspended, uncontested scrums will be ordered. It is not the responsibility of the referee to determine the suitability of trained front row replacements nor their availability, as this is a team responsibility.<br/><br/>(n) After a front row player leaves the field of play or is sent off, or during the time for which a front row player is temporarily suspended, the referee, upon awarding the next scrum, will ask the player’s captain whether or not the team has another player on the playing area who is suitably trained and experienced to play in the front row. If not, the captain chooses another player on the playing area who then must leave the playing area to be replaced by a suitably trained and experienced front row player from the team’s replacements. The captain may do this when the scrum is ordered or after another player has been tried in the front row.<br/><br/>(o) When a period of temporary suspension ends and a front row player returns to the playing area, the replacement front row player leaves the field of play and the nominated player who left the playing area for the period of suspension may resume playing in the match."
+                                },
+                                { "type" : "text",
+                                  "value" : "(p) If a front row player is temporarily suspended and the replacement player is sent off, the temporarily suspended front row player may return to the playing area after the period of suspension but the player who was nominated to leave the playing area must not return to the playing area for the duration of the match except as a substitute or replacement for another player.<br/><br/>(q) If a front row player is temporarily replaced and the replacement player is sent off, the temporarily replaced player may return to the field of play at the time the next scrum is awarded after the sending off providing it is within 15 minutes (actual time) from the time the player left the playing area. The captain of that team chooses another player on the playing area who then must leave the playing area.<br/><br/>(r) A previously substituted front row player is permitted to replace a front row player who is injured, temporarily suspended, or sent off if the replacement will ensure that scrums remain contested."
+                                },
+                                { "type" : "text",
+                                  "value" : "(s) If uncontested scrums have been ordered and there is an injury to a front row player which requires that player to be replaced and there is a front row replacement available, then the front row replacement must be used rather than other players.<br/><br/>(t) If uncontested scrums have been ordered and a team has utilised all its permitted replacements/ substitutes and a front row player is then injured, that player cannot be replaced."
+                                }]
                      },
                      { "section" : "3.6 Sent off the field for foul play",
-                       "sectioncontents" : []
+                       "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "A player sent off for foul play must not be replaced or substituted. For an exception to this Law, refer to Law 3.5."
+                                }]
                      },
                      { "section" : "3.7 Permanent replacement",
-                       "sectioncontents" : []
+                       "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "A player may be permanently replaced if injured. If the player is permanently replaced, that player must not return and play in that match. The replacement of the injured player must be made when the ball is dead and with the permission of the referee."
+                                }]
                      },
                      { "section" : "3.8 The decision for permanent replacement",
-                       "sectioncontents" : []
+                       "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "(a) When a national representative team is playing in a match, a player may be replaced only when, in the opinion of a doctor, the player is so injured that it would be unwise for that player to continue playing in that match.<br/><br/>(b) In other matches, where a Union has given explicit permission, an injured player may be replaced on the advice of a medically trained person. If none is present, that player may be replaced if the referee agrees."
+                                }]
                      },
                      { "section" : "3.9 The referee’s power to stop an injured player from continuing",
-                       "sectioncontents" : []
+                       "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "If the referee decides – with or without the advice of a doctor or other medically qualified person – that a player is so injured that the player should stop playing, the referee may order that player to leave the playing area. The referee may also order an injured player to leave the field in order to be medically examined."
+                                }]
                      },
                      { "section" : "3.10 Temporary replacement",
-                       "sectioncontents" : []
+                       "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "(a) When a player has a blood injury, which has uncontrolled active bleeding (a blood injury), that player may be temporarily replaced. The injured player must return to play as soon as the bleeding has been controlled and/or covered. If the player who has been temporarily replaced is not available to return to the field of play within 15 minutes (actual time) of leaving the playing area, the replacement becomes permanent and the replaced player must not return to the field of play."
+                                },
+                                { "type" : "video",
+                                  "value" : "http://www.irblaws.com/videos/laws/2001-bleeding-controlled.mp4"
+                                },
+                                { "type" : "text",
+                                  "value" : "(b) In international matches, the Match Day Doctor shall decide whether an injury is a blood injury necessitating a temporary replacement."
+                                },
+                                { "type" : "text",
+                                  "value" : "(c) Minor cuts and abrasions not constituting a blood injury should be treated during stoppages in play for other reasons.<br/><br/>(d) If the temporary replacement is injured, that player may also be replaced.<br/><br/>(e) If the temporary replacement is sent off for foul play, the replaced player may not return to the field of play.<br/><br/>(f) If the temporary replacement is cautioned and temporarily suspended, the replaced player may not return to the field of play until after the period of suspension."
+                                },
+                                { "type" : "amendment",
+                                  "value" : "<font color=\"red\"><b><i>LAW AMENDMENT TRIAL</i></b></font><br/><br/><b>Temporary replacement - head injury assessment<br/><br/>In all situations, if there are any indications of concussion a player MUST be removed from play. This is known as Recognise and Remove.<br/><br/>For tournaments and matches approved by the Union or Rugby body having jurisdiction and with trained healthcare professionals, a temporary replacement may be used for a player who has a head injury where the diagnosis is unclear.</b><br/><br/>(a) When a player leaves the field to have a head injury assessment that player may be temporarily replaced. If the player who has been temporarily replaced does not return to the field of play within ten minutes (actual time) of leaving the playing area, the replacement becomes permanent and the replaced player must not return to the field of play.<br/><br/>(b) The player must be presented to a match official on the touchline within the prescribed time period.<br/><br/>(c) If a head injury assessment starts within ten minutes of half time, the player must return to play immediately after half time or the replacement becomes permanent.<br/><br/>(d) A player who temporarily replaces a player who is being assessed at the pitch side for head injury must not take penalty kicks at goal or conversion kicks.<br/><br/>(e) If the temporary replacement is injured, that player may also be replaced.<br/><br/>(f) If the temporary replacement is sent off for foul play, the replaced player may not return to the field of play.<br/><br/>(g) If the temporary replacement is cautioned and temporarily suspended, the replaced player may not return to the field of play until after the period of suspension."
+                                }]
                      },
                      { "section" : "3.11 Player wishing to rejoin the match",
-                       "sectioncontents" : []
+                       "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "(a) A player who has a blood injury which has uncontrolled active bleeding must leave the playing area. The player must not return until the bleeding is controlled and the wound has been covered.<br/><br/>(b) A player who leaves a match because of injury or any other reason must not rejoin the match until the referee permits the player to return. The referee must not let a player rejoin a match until the ball is dead.<br/><br/>(c) If a player rejoins or a replacement/substitute joins the match without the referee’s permission, and the referee believes the player did so to help that player’s team or obstruct the opposing team, the referee penalises the player for misconduct.<br/><font color=\"red\"><b>Sanction:</b> A penalty kick is awarded at the place where play would restart.</font>"
+                                }]
                      },
                      { "section" : "3.12 Substituted players rejoining the match",
-                       "sectioncontents" : []
+                       "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "If a player is substituted, that player may only return to play when replacing a player with a blood injury or for an injured front row player in accordance with Law 3.5."
+                                }]
                      },
                      { "section" : "3.13 Rolling substitutions",
-                       "sectioncontents" :[]
+                       "sectioncontents" :[
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "A Union may implement rolling substitutions at defined levels of the Game within its jurisdiction. The number of substitutions must not exceed twelve. The administration and rules relating to rolling substitutions are the responsibility of the Union having jurisdiction."
+                                }]
                      }]
         },
         { "name" : "Law 4: - Players' Clothing",
           "content" : [
                       { "section" : "Definitions",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                }]
                       },
                       { "section" : "4.1 Additional items of clothing",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                }]
                       },
                       { "section" : "4.2 Special additional items for women",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                }]
                       },
                       { "section" : "4.3 Studs",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                }]
                       },
                       { "section" : "4.4 Banned items of clothing",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                }]
                       },
                       { "section" : "4.4 Banned items of clothing",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                }]
                       },
                       { "section" : "4.5 Inspection of players’ clothing",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                }]
                       },
                       { "section" : "4.6 Wearing other clothing",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                }]
                       }]
         },
         { "name" : "Law 5: - Time",
           "content" : [
                       { "section" : "5.1 Duration of a match",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                }]
                       },
                       { "section" : "5.2 Half-time",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                }]
                       },
                       { "section" : "5.3 Time keeping",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                }]
                       },
                       { "section" : "5.4 Time lost",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                }]
                       },
                       { "section" : "5.5 Making up for time lost",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                }]
                       },
                       { "section" : "5.6 Playing extra time",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                }]
                       },
                       { "section" : "5.7 Other time regulations",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                { "type" : "sectionheader",
+                                  "value" : ""
+                                }]
                       }]
         },
         { "name" : "Law 6: - Match Officials",
@@ -271,7 +412,10 @@
                         "sectioncontents" : []
                       },
                       { "section" : "Before the match",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                { "type" : "sectiondivider",
+                                  "value" : ""
+                                }]
                       },
                       { "section" : "6.A.1 Appointing the referee",
                         "sectioncontents" : []

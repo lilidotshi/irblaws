@@ -16,4 +16,7 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="title_activity_reader">ReaderActivity</string>
+    <string name="title_activity_video_test">VideoTest</string>
+    <string name="hello_world">Hello world!</string>
+
 </resources>

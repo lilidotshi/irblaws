@@ -3,7 +3,11 @@ package com.eightbyeight.irblaws;
 import java.util.ArrayList;
 import java.util.List;
 
+import android.content.Context;
 import android.graphics.Color;
+import android.media.MediaPlayer;
+import android.media.MediaPlayer.OnPreparedListener;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.text.Html;
@@ -11,10 +15,13 @@ import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.webkit.WebView;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.LinearLayout.LayoutParams;
+import android.widget.MediaController;
 import android.widget.TextView;
+import android.widget.VideoView;
 
 import com.eightbyeight.irblaws.jsonobjects.Content;
 import com.eightbyeight.irblaws.jsonobjects.Law;
@@ -26,11 +33,13 @@ import com.eightbyeight.irblaws.jsonobjects.Section;
  * @author lilishi
  *
  */
-public class ContentFragment extends Fragment {
+public class ContentFragment extends Fragment{
 	private static final String IMAGE_TYPE = "image";
 	private static final String DEFINITION_TYPE = "definition";
 	private static final String TEXT_TYPE = "text";
 	private static final String SECTION_HEADER_TYPE = "sectionheader";
+	private static final String VIDEO_TYPE = "video";
+	private static final String AMENDMENT_TYPE = "amendment";
 	private String mSectionHeader;
 	private int mLawNumber;
 	
@@ -80,6 +89,12 @@ public class ContentFragment extends Fragment {
 				views.add(createTextView(content));
 			} else if (content.getType().equalsIgnoreCase(SECTION_HEADER_TYPE)){
 				views.add(createSectionHeader(content));
+			} else if (content.getType().equalsIgnoreCase(VIDEO_TYPE)){
+				views.add(createVideoView(content));
+			} else if (content.getType().equalsIgnoreCase(AMENDMENT_TYPE)){
+				TextView amendmentView = (TextView) createTextView(content);
+				amendmentView.setBackgroundResource(R.drawable.blue_rounded);
+				views.add(amendmentView);
 			}
 		}
 		return views;
@@ -104,6 +119,7 @@ public class ContentFragment extends Fragment {
 	//For images
 	private View createImageView(Content content) {
 		ImageView imageView = new ImageView(getActivity());
+		imageView.setAdjustViewBounds(true);
 		LinearLayout.LayoutParams layoutParams = new LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT,LinearLayout.LayoutParams.WRAP_CONTENT);
 		layoutParams.gravity = Gravity.CENTER_HORIZONTAL;
 		layoutParams.topMargin = 5;
@@ -139,5 +155,21 @@ public class ContentFragment extends Fragment {
 		params.bottomMargin = 20;
 		textView.setLayoutParams(params);
 		return textView;
+	}
+	
+	//For videoviews
+	private View createVideoView(Content content){
+		WebView videoView = new WebView(getActivity());
+		
+		//Set the parameters for the video
+		LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(LayoutParams.MATCH_PARENT,550);
+		params.gravity = Gravity.CENTER_HORIZONTAL;
+		params.bottomMargin = 20;
+		params.topMargin = 20;
+		videoView.setLayoutParams(params);
+		
+        //URI either from net
+        videoView.loadUrl(content.getValue());
+        return videoView;
 	}
 }
