@@ -311,50 +311,62 @@
           "content" : [
                       { "section" : "Definitions",
                         "sectioncontents" : [
-                                { "type" : "sectionheader",
-                                  "value" : ""
+                                { "type" : "definition",
+                                  "value" : "<b>DEFINITIONS</b><br/><br/><b>Players’ clothing</b> is anything players wear.<br/><br/>A player wears a jersey, shorts and underwear, socks and boots.<br/><br/>Detailed information relating to the permitted specifications for clothing and studs maybe found in IRB Specifications (Regulation 12)."
                                 }]
                       },
                       { "section" : "4.1 Additional items of clothing",
                         "sectioncontents" : [
                                 { "type" : "sectionheader",
                                   "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "(a) A player may wear supports made of elasticated or compressible materials which must be washable.<br/><br/>(b) A player may wear shin guards which conform with IRB Specifications (Regulation 12).<br/><br/>(c) A player may wear ankle supports worn under socks, not extending higher than one third of the length of the shin and, if rigid, from material other than metal.<br/><br/>(d) A player may wear mitts (fingerless gloves) which must conform to IRB Specifications (Regulation 12).<br/><br/>(e) A player may wear shoulder pads which must bear the IRB Approval Mark (Regulation 12).<br/><br/>(f) A player may wear a mouth guard or dental protector.<br/><br/>(g) A player may wear headgear which must bear the IRB Approval Mark (Regulation 12).<br/><br/>(h) A player may wear bandages and/or dressings to cover or protect any injury.<br/><br/>(i) A player may wear thin tape or other similar material as support and/or to prevent injury."
                                 }]
                       },
                       { "section" : "4.2 Special additional items for women",
                         "sectioncontents" : [
                                 { "type" : "sectionheader",
                                   "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "In addition to the previously permitted clothing women may wear:<br/><br/>(a) Chest pads, which must bear the IRB Approval Mark (Regulation 12).<br/><br/>(b) Cotton blend long tights, with single inside leg seam under their shorts & socks.<br/><br/>(c) Headscarves, providing they do not cause a danger to the wearer or other players and do not contravene Regulation 12."
                                 }]
                       },
                       { "section" : "4.3 Studs",
                         "sectioncontents" : [
                                 { "type" : "sectionheader",
                                   "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "(a) Studs of players’ boots must conform with the IRB Specifications (Regulation 12).<br/><br/>(b) Moulded rubber multi-studded soles are acceptable provided they have no sharp edges or ridges."
                                 }]
                       },
                       { "section" : "4.4 Banned items of clothing",
                         "sectioncontents" : [
                                 { "type" : "sectionheader",
                                   "value" : ""
-                                }]
-                      },
-                      { "section" : "4.4 Banned items of clothing",
-                        "sectioncontents" : [
-                                { "type" : "sectionheader",
-                                  "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "(a) A player must not wear any item that is contaminated by blood.<br/><br/>(b) A player must not wear any item that is sharp or abrasive.<br/><br/>(c) A player must not wear any items containing buckles, clips, rings, hinges, zippers, screws, bolts or rigid material or projection not otherwise permitted under this Law.<br/><br/>(d) A player must not wear jewellery such as rings or earrings.<br/><br/>(e) A player must not wear gloves.<br/><br/>(f) A player must not wear shorts with padding sewn into them.<br/><br/>(g) A player must not wear any other item which does not conform with the IRB Specifications for such clothing (Regulation 12).<br/><br/>(h) A player must not wear any item that is normally permitted by Law, but, in the referee’s opinion that is liable to cause injury to a player.<br/><br/>(i) A player must not wear communication devices within that player’s clothing or attached to the body.<br/><br/>(j) A player must not wear any additional item of clothing that does not conform to IRB Regulation 12."
                                 }]
                       },
                       { "section" : "4.5 Inspection of players’ clothing",
                         "sectioncontents" : [
                                 { "type" : "sectionheader",
                                   "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "(a) The referee or the touch judges appointed by or under the authority of the match organiser must inspect the players’ clothing and studs for conformity to this Law.<br/><br/>(b) The referee has power to decide at any time, before or during the match, that part of a player’s clothing is dangerous or illegal. If the referee decides that clothing is dangerous or illegal the referee must order the player to remove it. The player must not take part in the match until the items of clothing are removed.<br/><br/>(c) If, at an inspection before the match, the referee or a touch judge tells a player that an item banned under this Law is being worn, and the player is subsequently found to be wearing that item on the playing area, that player is sent off for misconduct.<br/><br/><font color=\"red\"><b>Sanction:</b> A penalty kick is awarded at the place where play is restarted.</font>"
                                 }]
                       },
                       { "section" : "4.6 Wearing other clothing",
                         "sectioncontents" : [
                                 { "type" : "sectionheader",
                                   "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "The referee must not allow any player to leave the playing area to change items of clothing, unless these are bloodstained."
                                 }]
                       }]
         },
@@ -364,42 +376,69 @@
                         "sectioncontents" : [
                                 { "type" : "sectionheader",
                                   "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "A match lasts no longer than 80 minutes plus time lost, extra time and any special conditions. A match is divided into two halves each of not more than forty minutes playing time."
                                 }]
                       },
                       { "section" : "5.2 Half-time",
                         "sectioncontents" : [
                                 { "type" : "sectionheader",
                                   "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "After half-time the teams change ends. There is an interval of not more than 15 minutes. The length of the interval is decided by the match organiser, the Union or the recognised body which has jurisdiction over the game. During the interval the teams, the referee and the touch judges may leave the playing enclosure."
                                 }]
                       },
                       { "section" : "5.3 Time keeping",
                         "sectioncontents" : [
                                 { "type" : "sectionheader",
                                   "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "The referee keeps the time but may delegate the duty to either or both the touch judges and/or the official time-keeper, in which case the referee signals to them any stoppage of time or time lost. In matches without an official time-keeper, if the referee is in doubt as to the correct time the referee consults either or both the touch judges and may consult others but only if the touch judges cannot help."
                                 }]
                       },
                       { "section" : "5.4 Time lost",
                         "sectioncontents" : [
                                 { "type" : "sectionheader",
                                   "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "Time lost may be due to the following:<br/><br/>(a) <b>Injury.</b> The referee may stop play for not more than one minute so that an injured player can be treated, or for any other permitted delay. The referee may allow play to continue while a medically trained person treats an injured player in the playing area or the player may go to the touchline for treatment."
+                                },
+                                { "type" : "video",
+                                  "value" : "http://www.irblaws.com/videos/laws/2002-minor-injury.mp4"
+                                },
+                                { "type" : "text",
+                                  "value" : "If a player is seriously injured and needs to be removed from the field of play, the referee has the discretion to allow the necessary time to have the injured player removed from the field-of-play.<br/><br/>(b) <b>Replacing players’ clothing.</b> When the ball is dead, the referee allows time for a player to replace or repair a badly torn jersey, shorts or boots. Time is allowed for a player to re-tie a boot-lace.<br/><br/>(c) <b>Replacement and substitution of players.</b> Time is allowed when a player is replaced or substituted.<br/><br/>(d) <b>Referee consulting with assistant referee(s) or other officials.</b> Time is allowed for consultations between referee and assistant referees or other officials."
                                 }]
                       },
                       { "section" : "5.5 Making up for time lost",
                         "sectioncontents" : [
                                 { "type" : "sectionheader",
                                   "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "Any playing time lost is made up in the same half of the match."
                                 }]
                       },
                       { "section" : "5.6 Playing extra time",
                         "sectioncontents" : [
                                 { "type" : "sectionheader",
                                   "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "A match may last more than eighty minutes if the Match Organiser has authorised the playing of extra time in a drawn match in a knock-out competition."
                                 }]
                       },
                       { "section" : "5.7 Other time regulations",
                         "sectioncontents" : [
                                 { "type" : "sectionheader",
                                   "value" : ""
+                                },
+                                { "type" : "text",
+                                  "value" : "(a) In international matches, play always lasts eighty minutes plus lost time.<br/><br/>(b) In non-international matches a Union may decide the length of a match.<br/><br/>(c) If the Union does not decide, the teams agree on the length of a match. If they cannot agree, the referee decides.<br/><br/>(d) The referee has the power to end the match at any time, if the referee believes that play should not continue because it would be dangerous.<br/><br/>(e) If time expires and the ball is not dead, or an awarded scrum or lineout has not been completed, the referee allows play to continue until the next time that the ball becomes dead. The ball becomes dead when the referee would have awarded a scrum, lineout, an option to the non-infringing team, drop out or after a conversion or successful penalty kick at goal. If a scrum has to be reset, the scrum has not been completed. If time expires and a mark, free kick or penalty kick is then awarded, the referee allows play to continue.<br/><br/>(f) If time expires after a try has been scored the referee allows time for the conversion kick to be taken.<br/><br/>(g) When weather conditions are exceptionally hot and/or humid, the referee, at his discretion, will be permitted to allow one water break in each half. This water break should be no longer than one minute. Time lost should be added on at the end of each half. The water break should normally be taken after a score or when the ball is out of play near the half way line."
                                 }]
                       }]
         },

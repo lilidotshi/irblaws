@@ -3,23 +3,21 @@ package com.eightbyeight.irblaws;
 import java.util.ArrayList;
 import java.util.List;
 
-import android.content.Context;
 import android.graphics.Color;
-import android.media.MediaPlayer;
-import android.media.MediaPlayer.OnPreparedListener;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.text.Html;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
+import android.view.MotionEvent;
 import android.view.View;
+import android.view.View.OnTouchListener;
 import android.view.ViewGroup;
-import android.webkit.WebView;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.LinearLayout.LayoutParams;
-import android.widget.MediaController;
 import android.widget.TextView;
 import android.widget.VideoView;
 
@@ -42,6 +40,7 @@ public class ContentFragment extends Fragment{
 	private static final String AMENDMENT_TYPE = "amendment";
 	private String mSectionHeader;
 	private int mLawNumber;
+	private ArrayList<VideoView> mVideoViews = new ArrayList<VideoView>();
 	
 	@Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -159,17 +158,53 @@ public class ContentFragment extends Fragment{
 	
 	//For videoviews
 	private View createVideoView(Content content){
-		WebView videoView = new WebView(getActivity());
-		
+		VideoView videoView = new VideoView(getActivity());
+
 		//Set the parameters for the video
 		LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(LayoutParams.MATCH_PARENT,550);
 		params.gravity = Gravity.CENTER_HORIZONTAL;
 		params.bottomMargin = 20;
 		params.topMargin = 20;
 		videoView.setLayoutParams(params);
-		
         //URI either from net
-        videoView.loadUrl(content.getValue());
+        videoView.setVideoURI(Uri.parse(content.getValue()));
+        videoView.seekTo(30);
+        //Variables just for videoview because it needs constants.
+        videoView.setOnTouchListener(new OnTouchListener(){
+
+			@Override
+			public boolean onTouch(View v, MotionEvent event) {
+				if (event.getActionMasked() == MotionEvent.ACTION_DOWN){
+					VideoView view = (VideoView)v;
+					if (view.isPlaying()){
+						view.pause();
+					} else {
+						view.start();
+					}
+				}
+				return false;
+			}
+        	
+        });
+        //Keep track of videos so we can pause if it's playing since viewpager doesn't autopause
+        mVideoViews.add(videoView);
         return videoView;
+	}
+	
+	@Override
+	public void setUserVisibleHint(boolean isVisible) {
+		if (!isVisible){
+			stopVideos();
+		}
+		super.onHiddenChanged(isVisible);
+	}
+	
+	//Stop all videos if it has changed.
+	private void stopVideos(){
+		for (VideoView view : mVideoViews) {
+			if (view.isPlaying()){
+				view.pause();
+			}
+		}
 	}
 }
