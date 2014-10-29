@@ -8,6 +8,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.text.Html;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.MotionEvent;
@@ -53,10 +54,27 @@ public class ContentFragment extends Fragment{
     	List<View> viewList = createViewsForSection(laws,mLawNumber,mSectionHeader);
     	LinearLayout contentLayout = (LinearLayout) rootFragment.findViewById(R.id.contentLayout);
     	for (View v : viewList){
+    		v.setFocusable(false);
     		contentLayout.addView(v);
     	}
+
         return rootFragment;
     }
+	
+	@Override
+	public void onResume(){
+		super.onResume();
+		View rootView = getView();
+		LinearLayout content = (LinearLayout) rootView.findViewById(R.id.contentLayout);
+		
+		//Counter acting VideoView's automatic focus on itself by designating focus on the
+		//first child in the content view
+		if (content != null && content.getChildCount() > 0){
+			content.getChildAt(0).setFocusable(true);
+			content.getChildAt(0).setFocusableInTouchMode(true);
+			content.getChildAt(0).requestFocus();
+		}
+	}
 
 	private List<View> createViewsForSection(Laws laws, int lawNumber, String sectiontitle) {
 		Law law = laws.getLaws().get(lawNumber);
@@ -156,6 +174,7 @@ public class ContentFragment extends Fragment{
 	}
 	
 	//For videoviews
+	//TODO create some error handling for buffering, no internet, etc
 	private View createVideoView(Content content){
 		VideoView videoView = new VideoView(getActivity());
 		videoView.setBackgroundResource(R.drawable.play);
@@ -168,7 +187,6 @@ public class ContentFragment extends Fragment{
         //URI either from net
         videoView.setVideoURI(Uri.parse(content.getValue()));
         videoView.seekTo(10);
-        //Variables just for videoview because it needs constants.
         videoView.setOnTouchListener(new OnTouchListener(){
 
 			@Override
@@ -205,6 +223,7 @@ public class ContentFragment extends Fragment{
 		for (VideoView view : mVideoViews) {
 			if (view.isPlaying()){
 				view.pause();
+				view.setBackgroundResource(R.drawable.play);
 			}
 		}
 	}

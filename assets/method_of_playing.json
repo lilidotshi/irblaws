@@ -22,30 +22,110 @@
                          "sectioncontents": [
                                     { "type": "sectionheader",
                                       "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) The referee is sole judge of whether or not a team has gained an advantage. The referee has wide discretion when making decisions.<br/><br/>(b)Advantage can be either territorial or tactical.<br/><br/>(c) Territorial advantage means a gain in ground.<br/><br/>(d) Tactical advantage means freedom for the non-offending team to play the ball as they wish."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2100-tactical-advantage.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2101-tactical-advantage.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2102-tactical-advantage.mp4"
                                     }]
                          },
                          {"section" : "8.2 When advantage does not arise",
                          "sectioncontents": [
                                     { "type": "sectionheader",
                                       "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "The advantage must be clear and real. A mere opportunity to gain advantage is not enough. If the non-offending team does not gain an advantage, the referee blows the whistle and brings play back to the place of infringement."
                                     }]
                          },
                          {"section" : "8.3 When the advantage law is not applied",
                          "sectioncontents": [
                                     { "type": "sectionheader",
                                       "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Referee contact.</b> Advantage must not be applied when the ball, or a player carrying it, touches the referee.<br/><br/>(b) <b>Ball out of tunnel.</b> Advantage must not be applied when the ball comes out of either end of the tunnel at a scrum without having been played.<br/><br/>(c) <b>Wheeled scrum.</b> Advantage must not be applied when the scrum is wheeled through more than 90 degrees (so that the middle line has passed beyond a position parallel to the touchline).<br/><br/>(d) <b>Collapsed scrum.</b> Advantage must not be applied when a scrum collapses. The referee must blow the whistle immediately.<br/><br/>(e) <b>Player lifted in the air.</b> Advantage must not be applied when a player in a scrum is lifted in the air or forced upwards out of the scrum. The referee must blow the whistle immediately.<br/><br/>(f) <b>After the ball has been made dead.</b> Advantage cannot be played after the ball has been made dead"
                                     }]
                          },
                          {"section" : "8.4 Immediate whistle when no advantage",
                          "sectioncontents": [
                                     { "type": "sectionheader",
                                       "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "The referee blows the whistle having determined that an advantage cannot be gained by the non-offending team."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2103-immediate-whistle.mp4"
                                     }]
                          },
                          {"section" : "8.5 More than one infringement",
                          "sectioncontents": [
                                     { "type": "sectionheader",
                                       "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) When there is more than one infringement by the same team:<br/><br/>&emsp;- If advantage cannot be played or does not accrue to the second offence, the referee applies the appropriate sanction to the offence which is most advantageous to the non-offending team.<br/><br/>&emsp;- If either sanction is for foul play the referee applies the appropriate sanction to the offence which is most advantageous to the non-offending team. The referee may also temporarily suspend, or order off, the offending player.<br/><br/>(b) If advantage is being played following an infringement by one team and then the other team commit an infringement, the referee blows the whistle and applies the sanctions associated with the first infringement. If either infringement is for foul play, the referee applies the appropriate sanction for that offence. The referee may also temporarily suspend, or order off, the offending player."
+                                    }]
+                         }]
+        },
+        { "name" : "Law 9: - Method of Scoring",
+          "content" : [ {"section" : "9.A.1 Point values",
+                         "sectioncontents": [
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\"><b>9.A SCORING POINTS</b></font>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<b>Try.</b> When an attacking player is first to ground the ball in the opponents’ in-goal, a try is scored.<br/><b>VALUE: 5 points</b>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2018-try.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<b>Penalty Try.</b> If a player would probably have scored a try but for foul play by an opponent, a penalty try is awarded between the goal posts.<br/><b>VALUE: 5 points</b>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2019-penalty-try.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<b>Conversion Goal.</b> When a player scores a try it gives the player’s team the right to attempt to score a goal by taking a kick at goal; this also applies to a penalty try. This kick is a conversion kick: a conversion kick can be a place kick or a drop kick.<br/><b>VALUE: 2 points</b>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2020-conversion.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<b>Penalty Goal.</b> A player scores a penalty goal by kicking a goal from a penalty kick.<br/><b>VALUE: 3 points</b>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2022-penalty-goal.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<b>Dropped Goal.</b> A player scores a dropped goal by kicking a goal from a drop kick in general play. The team awarded a free kick cannot score a dropped goal until the ball next becomes dead, or until an opponent has played or touched it, or has tackled the ball carrier. This restriction applies also to a scrum taken instead of a free kick.<br/><b>VALUE: 3 points</b>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2021-dropped-goal.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2104-drop-goal.mp4"
+                                    }]
+                         },
+                         {"section" : "9.A.2 Kick at goal - special circumstances",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) If after the ball is kicked, it touches the ground or any team-mate of the kicker, a goal cannot be scored.<br/><br/>(b) If the ball has crossed the crossbar a goal is scored, even if the wind blows it back into the field of play.<br/><br/>(c) If an opponent commits an offence as the kick at goal is being taken, but neverthless the kick is successful, advantage is played and the score stands.<br/><br/>(d) Any player who touches the ball in an attempt to prevent a penalty goal being scored is illegally touching the ball.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
                                     }]
                          }]
         }
