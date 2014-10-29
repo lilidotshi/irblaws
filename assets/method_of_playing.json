@@ -1,0 +1,53 @@
+{
+    "laws" : [
+        { "name" : "Law 7: - Mode of Play",
+          "content" : [ {"section" : "7.1 Playing a match",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "A match is started by a kick-off.<br/><br/>After the kick-off, any player who is onside may take the ball and run with it.<br/><br/>Any player may throw it or kick it.<br/><br/>Any player may give the ball to another player.<br/><br/>Any player may tackle, hold or push an opponent holding the ball.<br/><br/>Any player may fall on the ball.<br/><br/>Any player may take part in a scrum, ruck, maul or lineout.<br/><br/>Any player may ground the ball in in-goal.<br/><br/>A ball carrier may hand-off an opponent.<br/><br/>Whatever a player does must be in accordance with the Laws of the Game."
+                                    }]
+                         }]
+        },
+        { "name" : "Law 8: - Advantage",
+          "content" : [ {"section" : "Definitions",
+                         "sectioncontents": [
+                                    { "type": "definition",
+                                      "value" : "<b>DEFINITIONS</b><br/><br/>The Law of advantage takes precedence over most other Laws and its purpose is to make play more continuous with fewer stoppages for infringements. Players are encouraged to play to the whistle despite infringements by their opponents. When the result of an infringement by one team is that their opposing team may gain an advantage, the referee does not whistle immediately for the infringement."
+                                    }]
+                         },
+                         {"section" : "8.1 Advantage in practice",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    }]
+                         },
+                         {"section" : "8.2 When advantage does not arise",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    }]
+                         },
+                         {"section" : "8.3 When the advantage law is not applied",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    }]
+                         },
+                         {"section" : "8.4 Immediate whistle when no advantage",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    }]
+                         },
+                         {"section" : "8.5 More than one infringement",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    }]
+                         }]
+        }
+    ]
+}

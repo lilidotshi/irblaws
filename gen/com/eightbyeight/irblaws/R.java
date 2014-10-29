@@ -1638,17 +1638,21 @@ containing a value of this type.
         public static final int beforebutton=0x7f020034;
         public static final int blue_rounded=0x7f020035;
         public static final int drawer_shadow=0x7f020036;
-        public static final int goal_posts_en=0x7f020037;
-        public static final int green_rounded=0x7f020038;
-        public static final int grey_rounded=0x7f020039;
-        public static final int ic_drawer=0x7f02003a;
-        public static final int ic_launcher=0x7f02003b;
-        public static final int irbheader=0x7f02003c;
-        public static final int irblogo=0x7f02003d;
-        public static final int players_table=0x7f02003e;
-        public static final int playing_enclosure_en=0x7f02003f;
-        public static final int table=0x7f020040;
-        public static final int the_plan_may2013=0x7f020041;
+        public static final int foul_play=0x7f020037;
+        public static final int goal_posts_en=0x7f020038;
+        public static final int green_rounded=0x7f020039;
+        public static final int grey_rounded=0x7f02003a;
+        public static final int ic_drawer=0x7f02003b;
+        public static final int ic_launcher=0x7f02003c;
+        public static final int irbheader=0x7f02003d;
+        public static final int irblogo=0x7f02003e;
+        public static final int kick_at_goal_successful=0x7f02003f;
+        public static final int play=0x7f020040;
+        public static final int players_table=0x7f020041;
+        public static final int playing_enclosure_en=0x7f020042;
+        public static final int table=0x7f020043;
+        public static final int the_plan_may2013=0x7f020044;
+        public static final int touch_and_throw=0x7f020045;
     }
     public static final class id {
         public static final int action_bar=0x7f090033;

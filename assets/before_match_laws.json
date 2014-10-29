@@ -445,106 +445,287 @@
         { "name" : "Law 6: - Match Officials",
           "content" : [
                       { "section" : "Definitions",
-                        "sectioncontents" : []
-                      },
-                      { "section" : "6.A REFEREE",
-                        "sectioncontents" : []
-                      },
-                      { "section" : "Before the match",
                         "sectioncontents" : [
-                                { "type" : "sectiondivider",
-                                  "value" : ""
-                                }]
+                                    { "type" : "definition",
+                                      "value" : "<b>DEFINITIONS</b><br/><br/>Every match is under the control of Match Officials who consist of the referee and two touch judges or assistant referees. Additional persons, as authorised by the match organisers may include the reserve referee and/or reserve assistant referee, an official to assist the referee in making decisions by using technological devices, the time keeper, the match doctor, the team doctors, the non-playing members of the teams and the ball persons.<br/><br/>A touch judge may be appointed by a match organiser or a team involved in a match and is responsible for signalling, touch, touch in-goal and the success or otherwise of kicks at goal.<br/><br/>An assistant referee may be appointed by a match organiser and is responsible for signalling, touch, touch in-goal, the success or otherwise of kicks at goal and indicating foul play. An assistant referee will also provide assistance to the referee in the performance of any of the referee’s duties as directed by the referee."
+                                    }]
                       },
+
                       { "section" : "6.A.1 Appointing the referee",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\"><b>6.A REFEREE</b><br/><br/><i>Before the match</i></font>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "The referee is appointed by the match organiser. If no referee has been appointed the two teams may agree upon a referee. If they cannot agree, the home team appoints a referee."
+                                    }]
                       },
                       { "section" : "6.A.2 Replacing the referee",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "If the referee is unable to complete the match, the referee’s replacement is appointed according to the instructions of the match organiser. If the match organiser has given no instructions, the referee appoints the replacement. If the referee cannot do so, the home team appoints a replacement."
+                                    }]
                       },
                       { "section" : "6.A.3 Duties of the referee before the match",
-                        "sectioncontents" : []
-                      },
-                      { "section" : "During the Match",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Toss.</b> The referee organises the toss. One of the captains tosses a coin and the other captain calls to see who wins the toss. The winner of the toss decides whether to kick off or to choose an end. If the winner of the toss decides to choose an end, the opponents must kick off and vice versa."
+                                    }]
                       },
                       { "section" : "6.A.4 The duties of the referee in the playing enclosure",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\"><i>During the match</i></font>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) The referee is the sole judge of fact and of Law during a match. The referee must apply fairly all the Laws of the Game in every match.<br/><br/>(b) The referee keeps the time.<br/><br/>(c) The referee keeps the score."
+                                    }]
                       },
                       { "section" : "6.A.5 Entering or leaving the playing area",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) Authorised medically trained persons may enter the playing area during the match to attend to injured players. They must only enter the playing area if it is safe to do so.<br/><br/>(b) Persons carrying water for the players may only enter the playing area during a stoppage in play for an injury to a player.<br/><br/>(c) A person carrying a kicking tee may enter the field of play after a team has indicated that they intend to kick at goal after that team has been awarded a penalty kick or scored a try.<br/><br/>(d) The referee gives permission to the players to leave the playing area.<br/><br/>(e) The referee gives permission to the replacements or substitutes to enter the playing area.<br/><br/>(f) The coaches may enter the playing area at half-time to attend to their teams."
+                                    }]
                       },
                       { "section" : "6.A.6 Referee altering a decision",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "The referee may alter a decision when a touch judge has raised the flag to signal touch.<br/><br/>The referee may alter a decision when an assistant referee has raised the flag to signal touch or an act of foul play."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2003-ref-alters-decision.mp4"
+                                    }]
                       },
                       { "section" : "6.A.7 Referee consulting with others",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) The referee may consult with assistant referees about matters relating to their duties, the Law relating to foul play or timekeeping and may request assistance related to other aspects of the referee’s duties including the adjudication of offside."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2004-foul-play.mp4"
+                                    },
+                                    { "type" : "amendment",
+                                      "value" : "<b><font color=\"red\">LAW AMENDMENT TRIAL</font></b><br/><br/>(b) A match organiser may appoint an official known as a Television Match Official (TMO) who uses technological devices to clarify situations relating to;<br/><br/>&emsp;(i) When there is doubt as to whether a ball has been grounded in in-goal for a score or a touchdown.<br/><br/>&emsp;(ii) Where there is doubt as to whether a kick at goal has been successful.<br/><br/>&emsp;(iii) Where there is doubt as to whether players were in touch or touch in goal before grounding the ball in in-goal or the ball has been made dead.<br/><br/>&emsp;(iv) Where match officials believe an offence or infringement may have occurred in the field of play leading to a try or preventing a try.<br/><br/>&emsp;(v) Reviewing situations where match officials believe foul play may have occurred.<br/><br/>&emsp;(vi) Clarifying sanctions required for acts of foul play.<br/><br/>(c) Any of the match officials including the TMO may recommend a review by the TMO. The reviews will take place in accordance with the TMO protocol in place at the time which will be available at www.irb.com/laws."
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) A match organiser may appoint a timekeeper who will signify the end of each half.<br/><br/>(e) The referee must not consult with any other persons."
+                                    }]
                       },
                       { "section" : "6.A.8 The referee’s whistle",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) The referee must carry a whistle and blow the whistle to indicate the beginning and end of each half of the match.<br/><br/>(b) The referee has the power to blow the whistle and stop play at any time.<br/><br/>(c) The referee must blow the whistle to indicate a score, or a touch down.<br/><br/>(d) The referee must blow the whistle to stop play because of an infringement or for an offence of foul play. When the referee cautions or sends off the offender, the referee must whistle a second time when the penalty kick or penalty try is awarded.<br/><br/>(e) The referee must blow the whistle when the ball has gone out of play, or when it has become unplayable, or when a penalty is awarded.<br/><br/>(f) The referee must blow the whistle when it would be dangerous to let play continue or when it is probable that a player has been seriously injured."
+                                    }]
                       },
                       { "section" : "6.A.9 The referee and injury",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "If the referee stops play because a player has been injured, and there has been no infringement and the ball has not been made dead, play restarts with a scrum. The team last in possession throws in the ball. If neither team was in possession, the attacking team throws in the ball."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2013-injury.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2012-injury.mp4"
+                                    }]
                       },
                       { "section" : "6.A.10 The ball touching the referee",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) If the ball or the ball carrier touches the referee and neither team gains an advantage, play continues. If either team gains an advantage in the field of play, the referee orders a scrum and the team that last played the ball has the throw-in."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2014-ball-hits-ref.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) If either team gains an advantage in in-goal, if the ball is in possession of an attacking player the referee awards a try where the contact took place.<br/><br/>(c) If either team gains an advantage in in-goal, if the ball is in possession of a defending player, the referee awards a touch down where the contact took place."
+                                    }]
                       },
                       { "section" : "6.A.11 The ball in in-goal touched by non-player",
-                        "sectioncontents" : []
-                      },
-                      { "section" : "After the match",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "The referee judges what would have happened next and awards a try or a touch down at the place where the ball was touched."
+                                    }]
                       },
                       { "section" : "6.A.12 Score",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\"><i>After the match</i></font>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "The referee communicates the score to the teams and to the match organiser."
+                                    }]
                       },
                       { "section" : "6.A.13 Player sent-off",
-                        "sectioncontents" : []
-                      },
-                      { "section" : "6.B TOUCH JUDGES AND ASSISTANT REFEREES",
-                        "sectioncontents" : []
-                      },
-                      { "section" : "Before the match",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "If a player is sent off the referee gives the match organiser a written report on the foul play infringement as soon as possible."
+                                    }]
                       },
                       { "section" : "6.B.1 Appointing touch judges and assistant referees",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\"><b>6.B TOUCH JUDGES AND ASSISTANT REFEREES</b><br/><br/><i>Before the match</i></font>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "There are two touch judges or two assistant referees for every match. Unless they have been appointed by or under the authority of the match organiser, each team provides a touch judge."
+                                    }]
                       },
                       { "section" : "6.B.2 Replacing a touch judge or assistant referee",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "The match organiser may nominate a person to act as a replacement for the referee, the touch judges or assistant referees. This person is called the reserve touch judge or reserve assistant referee and stands in the perimeter area."
+                                    }]
                       },
                       { "section" : "6.B.3 Control of touch judges and assistant referees",
-                        "sectioncontents" : []
-                      },
-                      { "section" : "During the match",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "The referee has control over both touch judges or assistant referees. The referee may tell them what their duties are, and may overrule their decisions. If a touch judge is unsatisfactory the referee may ask that the touch judge be replaced. If the referee believes a touch judge is guilty of misconduct, the referee has power to send the touch judge off and make a report to the match organiser."
+                                    }]
                       },
                       { "section" : "6.B.4 Where the touch judges or assistant referees should be",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\"><i>During the match</i></font>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) There is one touch judge or assistant referee on each side of the ground. The touch judge or assistant referee remains in touch except when judging a kick at goal. When judging a kick at goal the touch judges or assistant referees stand in in-goal behind the goal posts.<br/><br/>(b) An assistant referee may enter the playing area when reporting an offence of dangerous play or misconduct to the referee. The assistant referee may do this only at the next stoppage in play."
+                                    }]
                       },
                       { "section" : "6.B.5 Touch judge or assistant referee signals",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) Each touch judge or assistant referee carries a flag or something similar with which to signal decisions.<br/><br/>(b) <b>Signalling result of kick at goal.</b> When a conversion kick or a penalty kick at goal is being taken, the touch judges or assistant referees must help the referee by signalling the result of the kick. One touch judge or assistant referee stands at or behind each goal post. If the ball goes over the crossbar and between the posts, the touch judges or assistant referees raise the flags to indicate a goal."
+                                    },
+                                    { "type" : "image",
+                                      "value" : "kick_at_goal_successful"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2015-signalling-kick.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) <b>Signalling touch.</b> When the ball or the ball carrier has gone into touch, the touch judge or assistant referee must hold up the flag. The touch judge or assistant referee must stand at the place of the throw-in and point to the team entitled to throw in. The touch judge or assistant referee must also signal when the ball or the ball carrier has gone into touch-in-goal."
+                                    },
+                                    { "type" : "image",
+                                      "value" : "touch_and_throw"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2016-signalling-touch.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) <b>When to lower the flag.</b> When the ball is thrown in, the touch judge or assistant referee must lower the flag, with the following exceptions:<br/><br/><b>&emsp;Exception 1:</b> When the player throwing in puts any part of either foot in the field of play, the touch judge or assistant referee keeps the flag up.<br/><br/><b>&emsp;Exception 2:</b> When the team not entitled to throw in has done so, the touch judge or assistant referee keeps the flag up.<br/><br/><b>&emsp;Exception 3:</b> When, at a quick throw-in, the ball that went into touch is replaced by another ball, or after it went into touch or it has been touched by anyone except the player who takes the throw-in, the touch judge or assistant referee keeps the flag up.<br/><br/>(e) It is for the referee, and not the touch judge or assistant referee, to decide whether or not the ball was thrown in from the correct place.<br/><br/>(f) <b>Signalling foul play.</b> An assistant referee signals that foul play or misconduct has been seen by holding the flag horizontally and pointing infield at right angles to the touchline."
+                                    },
+                                    { "type" : "image",
+                                      "value" : "foul_play"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2017-signalling-foul-play.mp4"
+                                    }]
                       },
                       { "section" : "6.B.6 After signalling foul play",
-                        "sectioncontents" : []
-                      },
-                      { "section" : "After the match",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "A match organiser may give authority to the assistant referee to signal for foul play. If an assistant referee signals foul play, the assistant referee must stay in touch and continue to carry out all the other duties until the next stoppage in play. At the invitation of the referee the assistant referee may then enter the playing area to report the offence to the referee. The referee may then take whatever action is needed. Any sanction awarded will be in accordance with Law 10 – Foul Play."
+                                    }]
                       },
                       { "section" : "6.B.7 Player sent-off",
-                        "sectioncontents" : []
-                      },
-                      { "section" : "6.C ADDITIONAL PERSONS",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\"><i>After the match</i></font>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "If a player has been sent-off following an assistant referee’s signal and report to the referee, the assistant referee submits a written report about the incident to the referee as soon as possible after the match and provides it to the match organiser."
+                                    }]
                       },
                       { "section" : "6.C.1 Reserve touch judge or assistant referee",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\"><b>6.C ADDITIONAL PERSONS</b></font>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "When a reserve touch judge or assistant referee is appointed, the referee’s authority regarding replacements and substitutions may be delegated to the reserve touch judge or reserve assistant referee."
+                                    }]
                       },
                       { "section" : "6.C.2 Those who may enter the playing area",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "The match doctor and the non-playing members of the team may enter the playing area as authorised by the referee."
+                                    }]
                       },
                       { "section" : "6.C.3 Limits to entering the playing area",
-                        "sectioncontents" : []
+                        "sectioncontents" : [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "In the case of injury, these persons may enter the playing area while play continues, provided they have permission from the referee. Otherwise, they enter only when the ball is dead."
+                                    }]
                       }]
         }
     ]

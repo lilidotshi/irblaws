@@ -17,15 +17,26 @@ import com.eightbyeight.irblaws.jsonobjects.Laws;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-public class BeforeTheGameFragment extends Fragment implements ExpandableListView.OnChildClickListener{
+public class MenuFragment extends Fragment implements ExpandableListView.OnChildClickListener{
 	private ExpandableListAdapter listAdapter;
 	private ExpandableListView listView;
+	private String fileName;
 	private Laws mLaws;
+	
+	public static final MenuFragment newInstance(String fileName){
+		MenuFragment f = new MenuFragment();
+		Bundle args = new Bundle(1);
+		args.putString("fileName", fileName);
+		f.setArguments(args);
+		return f;
+	}
+	
 	@Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
         Bundle savedInstanceState) {
         // Inflate the layout for this fragment
     	View rootFragment = inflater.inflate(R.layout.before_game_fragment, container, false);
+    	fileName = getArguments().getString("fileName");
     	mLaws = parseJson();
     	listView = (ExpandableListView)rootFragment.findViewById(R.id.expandableListView1);
     	listAdapter = new ExpandableListAdapter(getActivity(),mLaws);
@@ -35,13 +46,12 @@ public class BeforeTheGameFragment extends Fragment implements ExpandableListVie
         return rootFragment;
     }
 	
-	
 	private Laws parseJson(){
 		Gson gsonBuilder = new GsonBuilder().create();
 		Laws laws = null;
 		try {
 			InputStreamReader isr = new InputStreamReader(getActivity().getAssets().open(
-					"before_match_laws.json"));
+					fileName));
 			laws = gsonBuilder.fromJson(isr, Laws.class);
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -54,11 +64,7 @@ public class BeforeTheGameFragment extends Fragment implements ExpandableListVie
 	@Override
 	public boolean onChildClick(ExpandableListView parent, View v,
 			int groupPosition, int childPosition, long id) {
-		Log.d("Lili's test","Get page "+groupPosition+","+childPosition+","+id);
 		String childText = parent.getExpandableListAdapter().getChild(groupPosition, childPosition).toString();
-		Log.d("Lili's test","Child text: "+childText);
-		
-		
 		
 		Bundle args = new Bundle();
 		args.putSerializable("laws", mLaws);

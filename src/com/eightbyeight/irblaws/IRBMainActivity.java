@@ -70,8 +70,13 @@ public class IRBMainActivity extends ActionBarActivity{
 		public void onClick(View v) {
 			FragmentTransaction ft = getFragmentManager().beginTransaction();
 			if (v.getId() == R.id.beforeButton){
-				Fragment befTheGameFragment = new BeforeTheGameFragment();
+				Fragment befTheGameFragment = MenuFragment.newInstance("before_match_laws.json");
 				ft.replace(R.id.mainLayout, befTheGameFragment);
+				ft.addToBackStack(null);
+				ft.commit();
+			} else if (v.getId() == R.id.methodButton) {
+				Fragment methodFragment = MenuFragment.newInstance("method_of_playing.json");
+				ft.replace(R.id.mainLayout, methodFragment);
 				ft.addToBackStack(null);
 				ft.commit();
 			}

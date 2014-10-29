@@ -8,7 +8,6 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.text.Html;
-import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.MotionEvent;
@@ -159,7 +158,7 @@ public class ContentFragment extends Fragment{
 	//For videoviews
 	private View createVideoView(Content content){
 		VideoView videoView = new VideoView(getActivity());
-
+		videoView.setBackgroundResource(R.drawable.play);
 		//Set the parameters for the video
 		LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(LayoutParams.MATCH_PARENT,550);
 		params.gravity = Gravity.CENTER_HORIZONTAL;
@@ -168,21 +167,23 @@ public class ContentFragment extends Fragment{
 		videoView.setLayoutParams(params);
         //URI either from net
         videoView.setVideoURI(Uri.parse(content.getValue()));
-        videoView.seekTo(30);
+        videoView.seekTo(10);
         //Variables just for videoview because it needs constants.
         videoView.setOnTouchListener(new OnTouchListener(){
 
 			@Override
 			public boolean onTouch(View v, MotionEvent event) {
-				if (event.getActionMasked() == MotionEvent.ACTION_DOWN){
+				if (event.getActionMasked() == MotionEvent.ACTION_UP){
 					VideoView view = (VideoView)v;
 					if (view.isPlaying()){
 						view.pause();
+						view.setBackgroundResource(R.drawable.play);
 					} else {
+						view.setBackground(null);
 						view.start();
 					}
 				}
-				return false;
+				return true;
 			}
         	
         });
