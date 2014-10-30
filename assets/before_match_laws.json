@@ -50,7 +50,8 @@
                                       "value" : ""
                                     },
                                     { "type" : "image",
-                                      "value" : "goal_posts_en"
+                                      "value" : "goal_posts_en",
+                                      "extras" : "<b>Goal posts</b>"
                                     },
                                     { "type" : "text",
                                       "value" : "(a) The distance between the two goal posts is 5.6 metres.<br/><br/>(b) The crossbar is placed between the two goal posts so that its top edge is 3.0 metres from the ground.<br/><br/>(c) The minimum height of the goal posts is 3.4 metres.<br/><br/>(d) When padding is attached to the goal posts the distance from the goal line to the external edge of the padding must not exceed 300mm."
@@ -652,7 +653,8 @@
                                       "value" : "(a) Each touch judge or assistant referee carries a flag or something similar with which to signal decisions.<br/><br/>(b) <b>Signalling result of kick at goal.</b> When a conversion kick or a penalty kick at goal is being taken, the touch judges or assistant referees must help the referee by signalling the result of the kick. One touch judge or assistant referee stands at or behind each goal post. If the ball goes over the crossbar and between the posts, the touch judges or assistant referees raise the flags to indicate a goal."
                                     },
                                     { "type" : "image",
-                                      "value" : "kick_at_goal_successful"
+                                      "value" : "kick_at_goal_successful",
+                                      "extras" : "<b>Kick at goal successful</b>"
                                     },
                                     { "type" : "video",
                                       "value" : "http://www.irblaws.com/videos/laws/2015-signalling-kick.mp4"
@@ -661,7 +663,8 @@
                                       "value" : "(c) <b>Signalling touch.</b> When the ball or the ball carrier has gone into touch, the touch judge or assistant referee must hold up the flag. The touch judge or assistant referee must stand at the place of the throw-in and point to the team entitled to throw in. The touch judge or assistant referee must also signal when the ball or the ball carrier has gone into touch-in-goal."
                                     },
                                     { "type" : "image",
-                                      "value" : "touch_and_throw"
+                                      "value" : "touch_and_throw",
+                                      "extras" : "<b>Signalling touch and team to throw in</b>"
                                     },
                                     { "type" : "video",
                                       "value" : "http://www.irblaws.com/videos/laws/2016-signalling-touch.mp4"
@@ -670,7 +673,8 @@
                                       "value" : "(d) <b>When to lower the flag.</b> When the ball is thrown in, the touch judge or assistant referee must lower the flag, with the following exceptions:<br/><br/><b>&emsp;Exception 1:</b> When the player throwing in puts any part of either foot in the field of play, the touch judge or assistant referee keeps the flag up.<br/><br/><b>&emsp;Exception 2:</b> When the team not entitled to throw in has done so, the touch judge or assistant referee keeps the flag up.<br/><br/><b>&emsp;Exception 3:</b> When, at a quick throw-in, the ball that went into touch is replaced by another ball, or after it went into touch or it has been touched by anyone except the player who takes the throw-in, the touch judge or assistant referee keeps the flag up.<br/><br/>(e) It is for the referee, and not the touch judge or assistant referee, to decide whether or not the ball was thrown in from the correct place.<br/><br/>(f) <b>Signalling foul play.</b> An assistant referee signals that foul play or misconduct has been seen by holding the flag horizontally and pointing infield at right angles to the touchline."
                                     },
                                     { "type" : "image",
-                                      "value" : "foul_play"
+                                      "value" : "foul_play",
+                                      "extras" : "<b>Signalling foul play</b>"
                                     },
                                     { "type" : "video",
                                       "value" : "http://www.irblaws.com/videos/laws/2017-signalling-foul-play.mp4"

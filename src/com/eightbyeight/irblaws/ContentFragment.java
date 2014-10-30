@@ -17,7 +17,6 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.View.OnTouchListener;
 import android.view.ViewGroup;
-import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.LinearLayout.LayoutParams;
 import android.widget.TextView;
@@ -27,6 +26,7 @@ import com.eightbyeight.irblaws.jsonobjects.Content;
 import com.eightbyeight.irblaws.jsonobjects.Law;
 import com.eightbyeight.irblaws.jsonobjects.Laws;
 import com.eightbyeight.irblaws.jsonobjects.Section;
+import com.eightbyeight.irblaws.views.ImageCaptionView;
 
 /**
  * Generic content fragment for displaying a user provided array of views
@@ -136,15 +136,9 @@ public class ContentFragment extends Fragment{
 	
 	//For images
 	private View createImageView(Content content) {
-		ImageView imageView = new ImageView(getActivity());
-		imageView.setAdjustViewBounds(true);
-		LinearLayout.LayoutParams layoutParams = new LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT,LinearLayout.LayoutParams.WRAP_CONTENT);
-		layoutParams.gravity = Gravity.CENTER_HORIZONTAL;
-		layoutParams.topMargin = 5;
-		imageView.setLayoutParams(layoutParams);
-		int resID = getResources().getIdentifier(content.getValue() , "drawable", getActivity().getPackageName());
-		imageView.setImageResource(resID);
-		return imageView;
+		ImageCaptionView icView = new ImageCaptionView(getActivity());
+		icView.createView(content);
+		return icView;
 	}
 	
 	//For definitions

@@ -495,7 +495,8 @@
                                       "value" : "http://www.irblaws.com/videos/laws/2055-put-onside-by-kicker.mp4"
                                     },
                                     { "type" : "image",
-                                      "value" : "player_made_onside_en"
+                                      "value" : "player_made_onside_en",
+                                      "extras" : "<b>Player made onside by team-mate</b>"
                                     }]
                          },
                          {"section" : "11.3 Being put onside by opponents",
@@ -522,43 +523,98 @@
                                       "value" : "http://www.irblaws.com/videos/laws/2056-intentionall-touches-ball.mp4"
                                     },
                                     { "type" : "image",
-                                      "value" : "player_put_onside"
+                                      "value" : "player_put_onside",
+                                      "extras" : "<b>Player made onside by opponents</b>"
                                     }]
                          },
                          {"section" : "11.4 Offside under the 10-metre law",
                          "sectioncontents": [
                                     { "type": "sectionheader",
                                       "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) When a team-mate of an offside player has kicked ahead, the offside player is considered to be taking part in the game if the player is in front of an imaginary line across the field which is 10 metres from the opponent waiting to play the ball, or from where the ball lands or may land. The offside player must immediately move behind the imaginary 10-metre line or the kicker if this is closer than 10 metres. While moving away, the player must not obstruct an opponent or interfere with play.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2119-offside-within-10.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) While moving away, the offside player cannot be put onside by any action of the opposing team. However, before the player has moved the full 10 metres, the player can be put onside by any onside team-mate who runs in front of the player."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2058-players-leaving-10m.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) When a player who is offside under the 10-Metre Law charges an opponent waiting to catch the ball, the referee blows the whistle at once and the offside player is penalised. Delay may prove dangerous to the opponent.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) When a player who is offside under the 10-metre Law plays the ball which has been misfielded by an opponent, the offside player is penalised.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) The 10-metre Law is not altered by the fact that the ball has hit a goal post or a crossbar. What matters is where the ball lands. An offside player must not be in front of the imaginary 10-metre line across the field.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(f) The 10-metre Law does not apply when a player kicks the ball, and an opponent charges down the kick, and a team-mate of the kicker who was in front of the imaginary 10-metre line across the field then plays the ball. The opponent was not 'waiting to play the ball' and the team-mate is onside. The 10-metre Law applies if the ball touches or is played by an opponent but is not charged down.<br/><font color=\"red\"><b>Sanction:</b> When a player is penalised for being offside in general play, the opposing team chooses either a penalty kick at the place of infringement or a scrum at the place where the offending team last played the ball. If it was last played in that team’s in-goal, the scrum is formed 5 metres from the goal line in line with where it was played.</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(g) If more than one player is offside and moving forward after a team-mate has kicked ahead, the place of infringement is the position of the offside player closest to an opponent waiting for the ball, or closest to where the ball lands."
                                     }]
                          },
                          {"section" : "11.5 Being put onside under the 10-metre law",
                          "sectioncontents": [
                                     { "type": "sectionheader",
                                       "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) The offside player must retire behind the imaginary 10-metre line across the field, otherwise the player is liable to be penalised.<br/><br/>(b) While retiring, the player can be put onside before moving behind the imaginary 10-metre line by any of the three actions of the player’s team listed above in 11.2. However, the player cannot be put onside by any action of the opposing team."
                                     }]
                          },
                          {"section" : "11.6 Accidental offside",
                          "sectioncontents": [
                                     { "type": "sectionheader",
                                       "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) When an offside player cannot avoid being touched by the ball or by a team-mate carrying it, the player is accidentally offside. If the player’s team gains no advantage from this, play continues. If the player’s team gains an advantage, a scrum is formed with the opposing team throwing in the ball."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2220-accidental-offside.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2221-accidental-offside.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) When a player hands the ball to a team-mate in front of the first player, the receiver is offside. Unless the receiver is considered to be intentionally offside (in which case a penalty kick is awarded), the receiver is accidentally offside and a scrum is formed with the opposing team throwing in the ball."
                                     }]
                          },
                          {"section" : "11.7 Offside after a knock-on",
                          "sectioncontents": [
                                     { "type": "sectionheader",
                                       "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "When a player knocks-on and an offside team-mate next plays the ball, the offside player is liable to sanction if playing the ball prevented an opponent from gaining an advantage.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2222-offside-after-knock-on.mp4"
                                     }]
                          },
                          {"section" : "11.8 Putting onside a player retiring during a ruck, maul, scrum or lineout",
                          "sectioncontents": [
                                     { "type": "sectionheader",
                                       "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "When a ruck, maul, scrum or lineout forms, a player who is offside and is retiring as required by Law remains offside even when the opposing team wins possession and the ruck, maul, scrum or lineout has ended. The player is put onside by retiring behind the applicable offside line. No other action of the offside player and no action of that player's team mates can put the offside player onside.<br/><br/>If the player remains offside the player can be put onside only by the action of the opposing team. There are two such actions:<br/><br/><b>Opponent</b> runs 5 metres with ball. When an opponent carrying the ball has run 5 metres, the offside player is put onside. An offside player is not put onside when an opponent passes the ball. Even if the opponents pass the ball several times, their action does not put the offside player onside.<br/><br/><b>Opponent kicks.</b> When an opponent kicks the ball, the offside player is put onside."
                                     }]
                          },
                          {"section" : "11.9 Loitering",
                          "sectioncontents": [
                                     { "type": "sectionheader",
                                       "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "A player who remains in an offside position is loitering. A loiterer who prevents the opposing team from playing the ball as they wish is taking part in the game, and is penalised. The referee makes sure that the loiterer does not benefit from being put onside by the opposing team’s action.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick at the offending player’s offside line</font>"
                                     }]
                          }]
         },
@@ -566,61 +622,57 @@
           "content" : [ {"section" : "Definitions",
                          "sectioncontents": [
                                     { "type": "definition",
-                                      "value" : "<b>DEFINITIONS</b><br/><br/>At the start of a game all players are onside. As the match progresses players may find themselves in an offside position. Such players are then liable to be penalised until they become onside again.<br/><br/>In general play a player is offside if the player is in front of a team-mate who is carrying the ball, or in front of a team-mate who last played the ball.<br/><br/>Offside means that a player is temporarily out of the game. Such players are liable to be penalised if they take part in the game.<br/><br/>In general play, a player can be put onside either by an action of a team-mate or by an action of an opponent. However, the offside player cannot be put onside if the offside player interferes with play; or moves forward, towards the ball, or fails to move 10 metres away from the place where the ball lands."
+                                      "value" : "<b>DEFINITION</b><br/><br/>A <b>knock-on</b> occurs when a player loses possession of the ball and it goes forward, or when a player hits the ball forward with the hand or arm, or when the ball hits the hand or arm and goes forward, and the ball touches the ground or another player before the original player can catch it.<br/><br>\'Forward\' means towards the opposing team\'s dead ball line."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2059-knock-on.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2223-knock-on.mp4"
+                                    },
+                                    { "type" : "definition",
+                                      "value" : "<b>EXCEPTION</b><br/><br/><b>Charge down.</b> If a player charges down the ball as an opponent kicks it, or immediately after the kick, it is not a knock-on even though the ball may travel forward."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2060-charge-down.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2224-knock-on-exception.mp4"
+                                    },
+                                    { "type" : "image",
+                                      "value" : "knockon",
+                                      "extras" : "<b>Knock-on</b>"
+                                    },
+                                    { "type": "definition",
+                                      "value" : "<b>DEFINITION</b><br/><br/>A <b>throw forward</b> occurs when a player throws or passes the ball forward. \'Forward\' means towards the opposing team’s dead ball line."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2225-forward-pass.mp4"
+                                    },
+                                    { "type" : "definition",
+                                      "value" : "<b>EXCEPTION</b><br/><br/><b>Bounce forward.</b> If the ball is not thrown forward but it hits a player or the ground and bounces forward, this is not a throw forward."
+                                    },
+                                    { "type" : "image",
+                                      "value" : "charge_down",
+                                      "extras" : "<b>Charge down</b>"
                                     }]
                          },
-                         {"section" : "Definitions",
+                         {"section" : "12.1 The outcome of a knock-on or throw forward",
                          "sectioncontents": [
                                     { "type": "sectionheader",
                                       "value" : ""
-                                    }]
-                         },
-                         {"section" : "Definitions",
-                         "sectioncontents": [
-                                    { "type": "sectionheader",
-                                      "value" : ""
-                                    }]
-                         },
-                         {"section" : "Definitions",
-                         "sectioncontents": [
-                                    { "type": "sectionheader",
-                                      "value" : ""
-                                    }]
-                         },
-                         {"section" : "Definitions",
-                         "sectioncontents": [
-                                    { "type": "sectionheader",
-                                      "value" : ""
-                                    }]
-                         },
-                         {"section" : "Definitions",
-                         "sectioncontents": [
-                                    { "type": "sectionheader",
-                                      "value" : ""
-                                    }]
-                         },
-                         {"section" : "Definitions",
-                         "sectioncontents": [
-                                    { "type": "sectionheader",
-                                      "value" : ""
-                                    }]
-                         },
-                         {"section" : "Definitions",
-                         "sectioncontents": [
-                                    { "type": "sectionheader",
-                                      "value" : ""
-                                    }]
-                         },
-                         {"section" : "Definitions",
-                         "sectioncontents": [
-                                    { "type": "sectionheader",
-                                      "value" : ""
-                                    }]
-                         },
-                         {"section" : "Definitions",
-                         "sectioncontents": [
-                                    { "type": "sectionheader",
-                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Unintentional knock-on or throw forward.</b> A scrum is awarded at the place of infringement.<br/><br/>(b) <b>Unintentional knock-on or throw forward at a lineout.</b> A scrum is awarded 15 metres from the touchline."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2226-knock-on-at-lineout.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) <b>Knock-on or throw forward into the in-goal.</b> If an attacking player knocks-on or throws-forward in the field of play and the ball goes into the opponents’ in-goal and it is made dead there, a scrum is awarded where the knock-on or throw forward happened.<br/><br/>(d) <b>Knock-on or throw forward inside the in-goal.</b> If a player of either team knocks-on or throws-forward inside the in-goal, a 5-metre scrum is awarded in line with the place of infringement not closer than 5 metres from the touchline.<br/><br/>(e) <b>Knock-on or throw forward into touch.</b> When the ball goes into touch from a knock-on or throw forward, the non-offending team will have the option of a lineout at the point the ball crossed the touch line or a scrum at the place of the knock-on or throw forward, or a quick throw in.<br/><br/>(f) <b>Intentional knock or throw forward.</b> A player must not intentionally knock the ball forward with hand or arm, nor throw forward.<br/><font color=\"red\"><b>Sanction: </b>Penalty kick. A penalty try must be awarded if the offence prevents a try that would probably otherwise have been scored.</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2061-intentional-knock-on.mp4"
                                     }]
                          }]
         }
