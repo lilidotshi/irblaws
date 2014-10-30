@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import android.graphics.Color;
+import android.media.MediaPlayer;
+import android.media.MediaPlayer.OnErrorListener;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -186,7 +188,18 @@ public class ContentFragment extends Fragment{
 		videoView.setLayoutParams(params);
         //URI either from net
         videoView.setVideoURI(Uri.parse(content.getValue()));
-        videoView.seekTo(10);
+        //TODO implement own version of videoview
+        final VideoView constantVideoView = videoView;
+        videoView.setOnErrorListener(new OnErrorListener(){
+
+			@Override
+			public boolean onError(MediaPlayer mp, int what, int extra) {
+				Log.w("MediaPlayerError", "error("+what+","+extra+")");
+				constantVideoView.setBackgroundResource(R.drawable.loaderror);
+				return true;
+			}
+        	
+        });
         videoView.setOnTouchListener(new OnTouchListener(){
 
 			@Override

@@ -1647,12 +1647,16 @@ containing a value of this type.
         public static final int irbheader=0x7f02003d;
         public static final int irblogo=0x7f02003e;
         public static final int kick_at_goal_successful=0x7f02003f;
-        public static final int play=0x7f020040;
-        public static final int players_table=0x7f020041;
-        public static final int playing_enclosure_en=0x7f020042;
-        public static final int table=0x7f020043;
-        public static final int the_plan_may2013=0x7f020044;
-        public static final int touch_and_throw=0x7f020045;
+        public static final int late_charging_the_kicker_en=0x7f020040;
+        public static final int loaderror=0x7f020041;
+        public static final int play=0x7f020042;
+        public static final int player_made_onside_en=0x7f020043;
+        public static final int player_put_onside=0x7f020044;
+        public static final int players_table=0x7f020045;
+        public static final int playing_enclosure_en=0x7f020046;
+        public static final int table=0x7f020047;
+        public static final int the_plan_may2013=0x7f020048;
+        public static final int touch_and_throw=0x7f020049;
     }
     public static final class id {
         public static final int action_bar=0x7f090033;
