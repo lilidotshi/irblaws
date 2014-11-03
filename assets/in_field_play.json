@@ -1,0 +1,441 @@
+{
+    "laws" : [
+        { "name" : "Law 13: - Kick-off and Restart Kicks",
+          "content" : [ {"section" : "Definitions",
+                         "sectioncontents": [
+                                    { "type": "definition",
+                                      "value" : "<b>DEFINITIONS</b><br/><br/>The kick-off occurs at the start of each half of the match and at the beginning of each period of extra time. Restart kicks occur after a score or a touch down."
+                                    }]
+                         },
+                         {"section" : "13.1 Where and how the kick-off is taken",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) A team kicks off with a drop kick which must be taken at or behind the centre of the half way line.<br/><br/>(b) If the ball is kicked off by the wrong type of kick, or from the incorrect place, the opposing team has two choices:<br/><br/>&emsp;- To have the ball kicked off again, or<br/><br/>&emsp;- To have a scrum at the centre of the half way line and they throw in the ball."
+                                    }]
+                         },
+                         {"section" : "13.2 Who takes the kick-off and restart kick",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) At the start of the game, the team whose captain elected to take the kick after winning the toss will kick off, or the opposing team if the winning captain elected to choose an end.<br/><br/>(b) After the half-time interval, the opponents of the team who kicked off at the start of the game kick off.<br/><br/>(c) After a score the opponents of the team who scored restart play."
+                                    }]
+                         },
+                         {"section" : "13.3 Position of the kicker’s team at a kick-off",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2062-restart-in-front.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "All the kicker’s team must be behind the ball when it is kicked. If they are not, a scrum is formed at the centre. Their opponents throw in the ball."
+                                    }]
+                         },
+                         {"section" : "13.4 Position of the opposing team at a kick-off",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "All the opposing team must stand on or behind the 10-metre line. If they are in front of that line or if they charge before the ball is kicked, it is kicked off again."
+                                    },
+                                    { "type" : "image",
+                                      "value" : "kick_off",
+                                      "extras" : "<b>Kick-off</b>"
+                                    }]
+                         },
+                         {"section" : "13.5 Kick-off of 10 metres",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "If the ball reaches the opponents’ 10-metre line or reaches the 10-metre line and is blown back, play continues."
+                                    }]
+                         },
+                         {"section" : "13.6 Kick-off of under 10 metres but played by an opponent",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2063-restart-under-10-played.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "If the ball does not reach the opponent’s 10-metre line but is first played by an opponent, play continues."
+                                    }]
+                         },
+                         {"section" : "13.7 Kick-off of under 10 metres and not played by an opponent",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2064-restart-under-10.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "If the ball does not reach the opponent’s 10-metre line the opposing team has two choices:<br/><br/>&emsp;- To have the ball kicked off again, or<br/><br/>&emsp;- To have a scrum at the centre of the half-way line and they throw in the ball."
+                                    }]
+                         },
+                         {"section" : "13.8 Ball goes directly into touch",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "The ball must land in the field of play. If it is kicked directly into touch the opposing team has three choices:<br/><br/>&emsp;- To have the ball kicked off again, or<br/><br/>&emsp;- To have a scrum at the centre and they have the throw-in, or<br/><br/>&emsp;- To accept the kick.<br/><br/>If they accept the kick, the lineout is on the half way line. If the ball is blown behind the half way line and goes directly into touch, the lineout is at the place where it went into touch."
+                                    }]
+                         },
+                         {"section" : "13.9 Ball goes into the in-goal",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) If the ball is kicked into the opponents’ in-goal without having touched or been touched by a player, the opposing team has three choices:<br/><br/>&emsp;- To ground the ball, or<br/><br/>&emsp;- To make it dead, or<br/><br/>&emsp;- To play on.<br/><br/>(b) If the opposing team grounds the ball, or if they make it dead, or if the ball becomes dead by going into touch-in-goal, or on or over the dead ball line, they have two choices:<br/><br/>&emsp;- To have a scrum formed at the centre, and they throw in the ball, or<br/><br/>&emsp;- To have the other team kick off again."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2066-restart-dead.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) If they opt to ground the ball or make it dead, they must do so without delay. Any other action with the ball by a defending player means the player has elected to play on.<br/><br/>(d) If the ball does not travel ten metres and ends up in the kicking team's in-goal and:<br/><br/>&emsp;- it is made dead by a defending player, or<br/><br/>&emsp;- the ball goes into touch in goal, or<br/><br/>&emsp;- lands on or over the dead ball line;<br/><br/>a 5-metre scrum is awarded and the attacking team throw in."
+                                    }]
+                         },
+                         {"section" : "13.10 Drop-out",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type": "definition",
+                                      "value" : "<b>DEFINITIONS</b><br/><br/>A drop-out is a drop kick taken by the defending team. The drop-out may be taken anywhere on or behind the 22-metre line.<br/><br/>A drop-out is used to restart play after an attacking player has put or taken the ball into the in-goal, without infringement, and a defending player has made the ball dead there or it has gone into touch-in-goal or on or over the dead ball line."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2067-drop-out.mp4"
+                                    }]
+                         },
+                         {"section" : "13.11 Delay in drop-out",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type": "text",
+                                      "value" : "The drop-out must be taken without delay.<br/><font color=\"red\"><b>Sanction:</b> Free Kick on the 22-metre line.</font>"
+                                    }]
+                         },
+                         {"section" : "13.12 Drop-out incorrectly taken",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type": "text",
+                                      "value" : "If the ball is kicked with the wrong type of kick, or from the wrong place, the opposing team has two choices:<br/><br/>&emsp;- To have another drop-out, or<br/><br/>&emsp;- To have a scrum at the centre of the 22-metre line and they throw in the ball."
+                                    }]
+                         },
+                         {"section" : "13.13 Drop-out must cross the line",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type": "text",
+                                      "value" : "(a) If the ball does not cross the 22-metre line, the opposing team has two choices:<br/><br/>&emsp;- To have another drop-out, or<br/><br/>&emsp;- To have a scrum at the centre of the 22-metre line. They throw in the ball."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2227-drop-out-does-not-cross.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" :"(b) If the ball crosses the 22-metre line but is blown back, play continues.<br/><br/>(c) If the ball does not cross the 22-metre line, advantage may apply. An opponent who plays the ball can score a try."
+                                    }]
+                         },
+                         {"section" : "13.14 Drop-out goes directly into touch",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "The ball must land in the field of play. If it is kicked directly into touch, the opposing team has three choices:<br/><br/>&emsp;- To have another drop-out, or<br/><br/>&emsp;- To have a scrum at the centre of the 22-metre line, and they throw in the ball, or<br/><br/>&emsp;- To accept the kick. If they accept the kick, the throw-in is on the 22-metre line"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2228-drop-out-out-on-full.mp4"
+                                    }]
+                         },
+                         {"section" : "13.15 Drop-out goes into the opponents’ in-goal",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) If the ball is kicked into the opponents’ in-goal without having touched or been touched by a player, the opposing team has three choices:<br/><br/>&emsp;- To ground the ball, or<br/><br/>&emsp;- To make it dead, or<br/><br/>&emsp;- To play on.<br/><br/>(b) If the opposing team grounds the ball, or makes it dead, or if the ball becomes dead by going into touch-in-goal or on or over the dead ball line, they have two choices:<br/><br/>&emsp;- To have a scrum formed at the centre of the 22-metre line from where the kick was taken and they throw in the ball, or<br/><br/>&emsp;- To have the other team drop-out again.<br/><br/>(c) If they opt to ground the ball or make it dead, they must do so without delay. Any other action with the ball by a defending player means the player has elected to play on."
+                                    }]
+                         },
+                         {"section" : "13.16 The kicker’s team",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) All the kicker’s team must be behind the ball when it is kicked. If not, a scrum is formed at the centre of the 22-metre line. The opposing team throws in the ball.<br/><br/>(b) However, if the kick is taken so quickly that players of the kicker’s team who are retiring are still in front of the ball, they will not be penalised. They must not stop retiring until they have been made onside by an action of a team-mate. They must not take part in the game until they have been made onside in this way.<br/><font color=\"red\"><b>Sanction:</b> Scrum at the centre of the 22-metre line. The opposing team throws in the ball.</font>"
+                                    }]
+                         },
+                         {"section" : "13.17 The opposing team",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) The opposing team must not charge over the 22-metre line before the ball is kicked.<br/><font color=\"red\"><b>Sanction:</b> Free Kick at the place of infringement.</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2229-charging-drop-out.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) If an opponent is on the wrong side of the 22-metre line and delays or obstructs the drop-out, the player is guilty of misconduct.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on the 22-metre line</font>"
+                                    },
+                                    { "type" : "image",
+                                      "value" : "drop_out",
+                                      "extras" : "<b>Drop-out</b>"
+                                    }]
+                         }]
+        },
+        { "name" : "Law 14: - Ball on the Ground - No Tackle",
+          "content" : [ {"section" : "Definitions",
+                         "sectioncontents": [
+                                    { "type": "definition",
+                                      "value" : "<b>DEFINITIONS</b><br/><br/>This situation occurs when the ball is available on the ground and a player goes to ground to gather the ball, except immediately after a scrum or a ruck.<br/><br/>It also occurs when a player is on the ground in possession of the ball and has not been tackled.<br/><br/>The Game is to be played by players who are on their feet. A player must not make the ball unplayable by falling down. Unplayable means that the ball is not immediately available to either team so that play may continue.<br/><br/>A player who makes the ball unplayable, or who obstructs the opposing team by falling down, is negating the purpose and Spirit of the Game and must be penalised.<br/><br/>A player who is not tackled, but who goes to ground while holding the ball, or a player who goes to ground and gathers the ball, must act immediately."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2230-ball-on-the-ground.mp4"
+                                    }]
+                         },
+                         {"section" : "14.1 Players on the ground",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) A player with the ball must immediately do one of three things:<br/><br/>&emsp;- Get up with the ball<br/><br/>&emsp;- Pass the ball<br/><br/>&emsp;- Release the ball.<br/><br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2231-player-on-ground.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) A player who passes or releases the ball must also get up or move away from it at once.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font><br/><br/>(c) A player without the ball must not lie on, over, or near the ball to prevent opponents getting possession of it.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2232-player-on-ground.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value"  : "(d) A player on the ground must not tackle or attempt to tackle an opponent.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2233-player-on-ground-tackles.mp4"
+                                    }]
+                         },
+                         {"section" : "14.2 Players on their feet",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Falling over the player on the ground with the ball.</b> A player must not intentionally fall on or over a player with the ball who is lying on the ground.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2234-falling-over-player.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2235-falling-over-player.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) <b>Falling over players lying on the ground near the ball.</b> A player must not intentionally fall on or over players lying on the ground with the ball between them or near them.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2236-falling-over-players-near-ball.mp4"
+                                    }]
+                         }]
+        },
+        { "name" : "Law 15: - Tackle: Ball Carrier Brought to Ground",
+          "content" : [ {"section" : "Definitions",
+                         "sectioncontents": [
+                                    { "type": "definition",
+                                      "value" : "<b>DEFINITIONS</b><br/><br/>A tackle occurs when the ball carrier is held by one or more opponents and is brought to ground.<br/><br/>A ball carrier who is not held is not a tackled player and a tackle has not taken place.<br/><br/>Opposition players who hold the ball carrier and bring that player to ground, and who also go to ground, are known as tacklers.<br/><br/>Opposition players who hold the ball carrier and do not go to ground are not tacklers."
+                                    },
+                                    { "type" : "image",
+                                      "value" : "tackle",
+                                      "extras" : "<b>Tackle</b>"
+                                    }]
+                        },
+                        {"section" : "15.1 Where can a tackle take place",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "A tackle can only take place in the field of play."
+                                    }]
+                         },
+                         {"section" : "15.2 When a tackle cannot take place",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "When the ball carrier is held by one opponent and a team-mate of the ball carrier binds on to that ball carrier, a maul has been formed and a tackle cannot take place."
+                                    }]
+                         },
+                         {"section" : "15.3 Brought to the ground defined",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) If the ball carrier has one knee or both knees on the ground, that player has been \'brought to ground\'.<br/><br/>(b) If the ball carrier is sitting on the ground, or on top of another player on the ground the ball carrier has been \'brought to ground\'."
+                                    }]
+                         },
+                         {"section" : "15.4 The tackler",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) When a player tackles an opponent and they both go to ground, the tackler must immediately release the tackled player.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2068-tackler-not-releasing.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) The tackler must immediately get up or move away from the tackled player and from the ball at once.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2069-tackler-not-getting-up.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) The tackler must get up before playing the ball and then may play the ball from any direction.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2238-tackler-playing-ball.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2239-tackler-playing-ball.mp4"
+                                    }]
+                         },
+                         {"section" : "15.5 The tackled player",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) A tackled player must not lie on, over, or near the ball to prevent opponents from gaining possession of it, and must try to make the ball available immediately so that play can continue<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2240-tackled-player-holding.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) A tackled player must immediately pass the ball or release it. That player must also get up or move away from it at once.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2070-tackled-player-not-releasing.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2241-tackled-player-holding.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2242-tackled-player-holding.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) A tackled player may release the ball by putting it on the ground in any direction, provided this is done immediately.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) A tackled player may release the ball by pushing it along the ground in any direction except forward, provided this is done immediately.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) If opposition players who are on their feet attempt to play the ball, the tackled player must release the ball.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2071-tackled-player-not-releasing.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2243-tackled-player-holding.mp4"
+                                    },
+                                    { "type" : "image",
+                                      "value" : "tackled_player_release_ball_1"
+                                    },
+                                    { "type" : "image",
+                                      "value" : "tackled_player_release_ball_2",
+                                      "extras" : "<b>Tackled player must release the ball immediately</b>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(f) If a tackled player’s momentum carries the player into the in-goal, the player can score a try or make a touch down."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2244-momentum-try.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(g) If a player is tackled near the goal line, that player may immediately reach out and ground the ball on or over the goal line to score a try or make a touch down."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2245-reach-out-try.mp4"
+                                    },
+                                    { "type" : "image",
+                                      "value" : "tackled_near_goal_line",
+                                      "extras" : "<b>A player tackled near the goal line can reach out and ground the ball to score a try</b>"
+                                    }]
+                         },
+                         {"section" : "15.6 Other players",
+                         "sectioncontents": [
+                                    { "type": "definition",
+                                      "value" : ""
+                                    }]
+                         },
+                         {"section" : "15.7 Forbidden practices",
+                         "sectioncontents": [
+                                    { "type": "definition",
+                                      "value" : ""
+                                    }]
+                         },
+                         {"section" : "15.8 Doubt about failure to comply",
+                         "sectioncontents": [
+                                    { "type": "definition",
+                                      "value" : ""
+                                    }]
+                         }]
+        },
+        { "name" : "Law 16: Ruck",
+          "content" : [ {"section" : "7.1 Playing a match",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "A match is started by a kick-off.<br/><br/>After the kick-off, any player who is onside may take the ball and run with it.<br/><br/>Any player may throw it or kick it.<br/><br/>Any player may give the ball to another player.<br/><br/>Any player may tackle, hold or push an opponent holding the ball.<br/><br/>Any player may fall on the ball.<br/><br/>Any player may take part in a scrum, ruck, maul or lineout.<br/><br/>Any player may ground the ball in in-goal.<br/><br/>A ball carrier may hand-off an opponent.<br/><br/>Whatever a player does must be in accordance with the Laws of the Game."
+                                    }]
+                         }]
+        },
+        { "name" : "Law 17: Maul",
+          "content" : [ {"section" : "7.1 Playing a match",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "A match is started by a kick-off.<br/><br/>After the kick-off, any player who is onside may take the ball and run with it.<br/><br/>Any player may throw it or kick it.<br/><br/>Any player may give the ball to another player.<br/><br/>Any player may tackle, hold or push an opponent holding the ball.<br/><br/>Any player may fall on the ball.<br/><br/>Any player may take part in a scrum, ruck, maul or lineout.<br/><br/>Any player may ground the ball in in-goal.<br/><br/>A ball carrier may hand-off an opponent.<br/><br/>Whatever a player does must be in accordance with the Laws of the Game."
+                                    }]
+                         }]
+        },
+        { "name" : "Law 18: Mark",
+          "content" : [ {"section" : "7.1 Playing a match",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "A match is started by a kick-off.<br/><br/>After the kick-off, any player who is onside may take the ball and run with it.<br/><br/>Any player may throw it or kick it.<br/><br/>Any player may give the ball to another player.<br/><br/>Any player may tackle, hold or push an opponent holding the ball.<br/><br/>Any player may fall on the ball.<br/><br/>Any player may take part in a scrum, ruck, maul or lineout.<br/><br/>Any player may ground the ball in in-goal.<br/><br/>A ball carrier may hand-off an opponent.<br/><br/>Whatever a player does must be in accordance with the Laws of the Game."
+                                    }]
+                         }]
+        }
+    ]
+}

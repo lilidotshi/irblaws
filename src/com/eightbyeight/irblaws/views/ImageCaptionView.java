@@ -1,7 +1,6 @@
 package com.eightbyeight.irblaws.views;
 
 import android.content.Context;
-import android.graphics.Color;
 import android.text.Html;
 import android.view.Gravity;
 import android.widget.ImageView;
@@ -37,6 +36,7 @@ public class ImageCaptionView extends LinearLayout{
 		layoutParams.topMargin = 10;
 		layoutParams.leftMargin = 10;
 		layoutParams.rightMargin = 10;
+		layoutParams.bottomMargin = 10;
 		imageView.setLayoutParams(layoutParams);
 		int resID = getResources().getIdentifier(content.getValue() , "drawable", getContext().getPackageName());
 		imageView.setImageResource(resID);
