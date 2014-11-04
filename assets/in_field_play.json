@@ -387,20 +387,111 @@
                          },
                          {"section" : "15.6 Other players",
                          "sectioncontents": [
-                                    { "type": "definition",
+                                    { "type": "sectionheader",
                                       "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) After a tackle, all other players must be on their feet when they play the ball. Players are on their feet if no other part of their body is supported by the ground or players on the ground.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2246-off-feet-playing-ball.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<b>Exception:</b> Ball goes into the in-goal. After a tackle near the goal line, if the ball has been released and has gone into the in-goal any player, including a player on the ground, may ground the ball."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2247-ground-ball-in-goal.mp4"
+                                    },
+                                    { "type" : "image",
+                                      "value" : "after_tackle_on_feet",
+                                      "extras" : "<b>After a tackle all of the players must be on their feet while they play the ball</b>"
+                                    },
+                                    { "type" : "image",
+                                      "value" : "player_off_feet_1",
+                                      "extras" : "<b>Player off feet and playing the ball at the tackle</b>"
+                                    },
+                                    { "type" : "image",
+                                      "value" : "player_off_feet_2",
+                                      "extras" : "<b>Player off feet and playing the ball at the tackle</b>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) After a tackle any players on their feet may attempt to gain possession by taking the ball from the ball carrier’s possession."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2076-tackle-turnover.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) Players in opposition to the ball carrier who remain on their feet who bring the ball carrier to ground so that the player is tackled must release the ball and the ball carrier. Those players may then play the ball providing they are on their feet and do so from behind the ball and from directly behind the tackled player or a tackler closest to those players’ goal line.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2075-not-allowing-release.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2248-tackler-not-releasing.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) At a tackle or near to a tackle, other players who play the ball must do so from behind the ball and from directly behind the tackled player or the tackler closest to those players’ goal line.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2073-tackle-joining.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2074-tackle-joining.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2249-tackler-from-side.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) Any player who gains possession of the ball at the tackle must play the ball immediately by moving away or passing or kicking the ball.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font><br/><br/>(f) Any player who first gains possession of the ball must not go to the ground at the tackle or near to it unless tackled by an opposition player.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font><br/><br/>(g) Any player who first gains possession of the ball at the tackle or near to it may be tackled by an opposition player providing that player does so from behind the ball and from directly behind the tackled player or the tackler closest to that player’s goal line.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font><br/><br/>(h) After a tackle, any player lying on the ground must not prevent an opponent from getting possession of the ball.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font><br/><br/>(i) After a tackle, any player on the ground must not tackle an opponent or try to tackle an opponent.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font><br/><br/>(j) When a tackled player reaches out to ground the ball on or over the goal line to score a try, an opponent may pull the ball from the player’s possession, but must not kick or attempt to kick the ball.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
                                     }]
                          },
                          {"section" : "15.7 Forbidden practices",
                          "sectioncontents": [
-                                    { "type": "definition",
+                                    { "type": "sectionheader",
                                       "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) No player may prevent the tackled player from passing the ball.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2250-prevent-tackled-player-passing.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) No player may prevent the tackled player from releasing the ball and getting up or moving away from it.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2251-prevent-tackled-player-releasing.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) No player may fall on or over the players lying on the ground after a tackle with the ball between or near to them.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2252-fall-on-tackled-player.mp4"
+                                    },
+                                    { "type" : "image",
+                                      "value" : "falling_on_tackled_player",
+                                      "extras" : "<b>No player may fall on or over a tackled player</b>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) Players on their feet must not charge or obstruct an opponent who is not near the ball.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2253-obstruction-at-tackle.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) Danger may arise if a tackled player fails to release the ball or move away from it immediately, or if that player is prevented from so doing. If either of these happens the referee awards a penalty kick immediately.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
                                     }]
                          },
                          {"section" : "15.8 Doubt about failure to comply",
                          "sectioncontents": [
-                                    { "type": "definition",
+                                    { "type": "sectionheader",
                                       "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "If the ball becomes unplayable at a tackle and there is doubt about which player did not conform to Law, the referee orders a scrum immediately with the throw-in by the team that was moving forward prior to the stoppage or, if no team was moving forward, by the attacking team."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2254-tackle-doubt.mp4"
                                     }]
                          }]
         },
