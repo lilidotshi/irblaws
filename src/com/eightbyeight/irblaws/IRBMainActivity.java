@@ -84,6 +84,11 @@ public class IRBMainActivity extends ActionBarActivity{
 				ft.replace(R.id.mainLayout, methodFragment);
 				ft.addToBackStack(null);
 				ft.commit();
+			} else if (v.getId() == R.id.restartsButton) {
+				Fragment methodFragment = MenuFragment.newInstance("restarts.json");
+				ft.replace(R.id.mainLayout, methodFragment);
+				ft.addToBackStack(null);
+				ft.commit();
 			}
 		}
 	}

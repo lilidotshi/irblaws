@@ -1,0 +1,242 @@
+{
+    "laws" : [
+        { "name" : "Law 19: - Touch and Lineout",
+          "content" : [ {"section" : "Definitions",
+                         "sectioncontents": [
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\"><b>TOUCH</b></font>"
+                                    },
+                                    { "type": "definition",
+                                      "value" : "<b>DEFINITIONS</b><br/><br/>'Kicked directly into touch' means that the ball was kicked into touch without landing on the playing area, and without touching a player or the referee.<br/><br/>'The 22' is the area between the goal line and the 22-metre line, including the 22-metre line but excluding the goal line.<br/><br/>The line of touch is an imaginary line in the field of play at right angles to the touchline through the place where the ball is thrown in.<br/><br/>The ball is in touch when it is not being carried by a player and it touches the touchline or anything or anyone on or beyond the touchline.<br/><br/>The ball is in touch when a player is carrying it and the ball carrier (or the ball) touches the touchline or the ground beyond the touchline. The place where the ball carrier (or the ball) touched or crossed the touchline is where it went into touch.<br/><br/>The ball is in touch if a player catches the ball and that player has a foot on the touchline or the ground beyond the touchline. If a player has one foot in the field of play and one foot in touch and holds the ball, the ball is in touch.<br/><br/>If the ball crosses the touchline or touch-in-goal line, and is caught by a player who has both feet in the playing area, the ball is not in touch or touch-in-goal. Such a player may knock the ball into the playing area.<br/><br/>If a player jumps and catches the ball, both feet must land in the playing area otherwise the ball is in touch or touch-in-goal.<br/><br/>A player in touch may kick or knock the ball, but not hold it, provided it has not crossed the plane of the touchline. The plane of the touchline is the vertical space rising immediately above the touchline."
+                                    }]
+                         },
+                         {"section" : "19.1 Throw-in",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\"><b>NO GAIN IN GROUND</b></font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Outside a team’s 22, a team member kicks directly into touch.</b> Except for a penalty kick, when a player anywhere in the field of play who is outside the 22 kicks directly into touch, there is no gain in ground. The throw-in is taken either at the place opposite where the player kicked the ball, or at the place where it went into touch, whichever is nearer that player’s goal line."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2283-touch-on-full.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) <b>When a team causes the ball to be put into their own 22.</b> When a defending player plays the ball from outside the 22 and it goes into that player’s 22 or in-goal area without touching an opposition player and then that player or another player from that team kicks the ball directly into touch before it touches an opposition player, or a tackle takes place or a ruck or maul is formed, there is no gain in ground. This applies when a defending player moves back behind the 22 metre line to take a quick throw-in and then the ball is kicked directly into touch."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2091-no-gain-22-passback.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2284-touch-on-full-inside-22.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2285-touch-on-full-inside-22.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) If a player with one or both feet inside the 22 metre line, picks up the ball which was stationary outside the 22 metre line, and kicks it directly into touch, then the player has taken the ball back inside the 22-metre line, so there is no gain in ground.<br/><br/>(d) <b>Defending team takes ball into their own 22 at a scrum or lineout.</b> When a defending team throws the ball into a scrum or lineout outside that team’s 22 and the ball then crosses into the team’s 22 without touching an opposition player and then a player from the defending team kicks the ball directly into touch before it touches an opposition player, or a tackle takes place or a ruck or maul is formed, there is no gain in ground."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2286-touch-from-scrum.mp4"
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["no_gain_in_ground"],
+                                      "extras" : "<b>No gain in ground</b>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\"><b>GAIN IN GROUND</b></font><br/><br/>(e) If a player with one or both feet inside the 22 metre line, picks up the ball which was in motion outside the 22 metre line, and kicks it directly into touch from within the 22 metre area, the throw-in is where the ball went into touch.<br/><br/>(f) <b>Player takes ball into their own 22.</b> When a defending player plays the ball from outside the 22 and it goes into that player’s 22 or in-goal area and it touches an opposition player, or a tackle takes place or a ruck or maul is formed and then the ball is kicked by a player of that team directly into touch, the throw-in is where the ball went into touch."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2287-touch-on-full-inside-22.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(g) <b>Ball put into a player’s 22 by the opposition.</b> When the ball is put into a team’s 22 by the opposition, without having touched (or been touched by) a player of the defending team before crossing the 22 and the ball is then kicked into touch by the defending team, the throw-in is where the ball went into touch."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2288-touch-on-full-inside-22.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(h) <b>Kicks indirectly into touch.</b> When a player anywhere in the playing area kicks indirectly into touch so that the ball bounces in the field of play the throw-in is taken where the ball went into touch."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2289-touch-indirectly.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "When a player anywhere in the playing area kicks the ball so that it touches or is touched by an opposition player and then goes indirectly into touch so that the ball bounces in the field of play the throw-in is taken where the ball went into touch."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2290-touch-indirectly.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "When a player anywhere in the playing area kicks the ball so that it touches or is touched by an opposition player and then goes directly into touch the throw-in is taken in line with where the opposition player touched the ball or where the ball crossed the touchline if that is nearer the opposition player’s goal line."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2291-touch-directly.mp4"
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["gain_in_ground"],
+                                      "extras" : "<b>Gain in ground</b>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\"><b>PENALTY KICK</b></font><br/><br/>(i) <b>Penalty kick.</b> When a player kicks to touch from a penalty kick anywhere in the playing area, the throw-in is taken where the ball went into touch."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2292-touch-from-penalty.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\"><b>FREE KICK</b></font><br/><br/>(j) <b>Outside the kicker’s 22, no gain in ground.</b> When a free kick awarded outside the 22 goes directly into touch, the throw-in is in line with where the ball was kicked, or where it went into touch, whichever is nearer the kicker’s goal line."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2293-touch-from-free-kick.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(k) <b>Inside the kicker’s 22 or in-goal, gain in ground.</b> When a free kick is awarded in the 22 or in-goal and the kick goes directly into touch, the throw-in is where the ball went into touch."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2294-touch-from-free-kick.mp4"
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["touch_and_throw_in"],
+                                      "extras" : "Touch and throw-in"
+                                    }]
+                         },
+                         {"section" : "19.2 Quick throw-in",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2295-quick-throw-in.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) A player may take a quick throw-in without waiting for a lineout to form."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2092-quick-throw-in.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) For a quick throw in, the player may be anywhere outside the field of play between the place where the ball would be thrown in from a formed lineout and the player’s goal line.<br/><br/>(c) A player must not take a quick throw-in after the lineout has formed. If the player does, the quick throw-in is disallowed. The same team throws in at the lineout.<br/><br/>(d) For a quick throw-in, the player must use the ball that went into touch. A quick throw-in is not permitted if another person has touched the ball apart from the player throwing it in and an opponent who carried it into touch. The same team throws into the lineout."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2296-quick-throw-different-ball.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) An incorrect quick throw-in occurs when:<br/><br/>&emsp;- The ball is thrown towards the opponents goal line, or<br/><br/>&emsp;- The ball is thrown in ahead of the line of touch, or<br/><br/>&emsp;- The ball is thrown in on or behind the goal line, or<br/><br/>&emsp;- The ball touches the ground or a player before reaching the 5 metre line, or<br/><br/>&emsp;- The thrower steps into the field-of-play when throwing the ball.<br/><br/>The opposing team’s choices are to elect to throw in at either:<br/><br/>&emsp;- a lineout where the quick throw was attempted, or<br/><br/>&emsp;- a scrum on the 15-metre line at that place.<br/><br/>If they, too, throw in the ball incorrectly at the lineout, a scrum is formed on the 15 metre line. The team that first threw in the ball throws in the ball at the scrum<br/><br/>(f) At a quick throw-in a player may throw the ball in straight along the line of touch or towards that player’s goal line.<br/><br/>(g) At a quick throw-in, a player may come to the line of touch and leave without being penalised.<br/><br/>(h) At a quick throw-in, a player must not prevent the ball being thrown in 5 metres.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick on 15-metre line</font><br/><br/>(i) If a player carrying the ball is forced into touch, that player must release the ball to an opposition player so that there can be a quick throw-in.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on 15-metre line</font>"
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["quick_throw_in_post"],
+                                      "extras" : "<b>Quick throw-in</b>"
+                                    }]
+                         },
+                         {"section" : "19.3 Other throw ins",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "On all other occasions, the throw-in is taken where the ball went into touch."
+                                    }]
+                         },
+                         {"section" : "19.4 Who throws in",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) The throw-in is taken by an opponent of the player who last held or touched the ball before it went into touch. When there is doubt, the attacking team takes the throw-in.<br/><br/><b>Exception:</b> When a team takes a penalty kick, and the ball is kicked into touch, the throw-in is taken by a player of the team that took the penalty kick. This applies whether the ball was kicked directly or indirectly into touch.<br/><br/>(b) When the ball goes into touch from a knock-on, the non-offending team will be offered the choice of a lineout at the point the ball crossed the touch line; or a scrum at the place of the knock-on. The non-offending team may exercise this option by taking a quick throw-in."
+                                    }]
+                         },
+                         {"section" : "19.5 Player with foot in touch",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a)
+If a player with one or both feet on or beyond the touch-line (or touch-in-goal line), picks up the ball, which was stationary within the playing area, that player has picked up the ball in the playing area and thereby that player has taken the ball into touch (or touch-in-goal).
+(b)
+If a player with one or both feet on or beyond the touch-line (or touch-in-goal line), picks up the ball, which was in motion within the playing area, that player is deemed to have picked up the ball in touch (or touch-in-goal)."
+                                    }]
+                         },
+                         {"section" : "19.6 How the throw-in is taken",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    }]
+                         },
+                         {"section" : "19.7 Incorrect throw-in",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    }]
+                         },
+                         {"section" : "19.8 Forming a lineout",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    }]
+                         },
+                         {"section" : "19.9 Beginning and ending a lineout",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    }]
+                         },
+                         {"section" : "19.10 Options available in a lineout",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    }]
+                         },
+                         {"section" : "19.11 Player throwing-in",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    }]
+                         },
+                         {"section" : "19.12 Peeling off",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    }]
+                         },
+                         {"section" : "19.13 Offside lines at the lineout",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    }]
+                         },
+                         {"section" : "19.14 Offside when taking part in the lineout",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    }]
+                         },
+                         {"section" : "19.15 Offside when not taking part in the lineout",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    }]
+                         }]
+        },
+        { "name" : "Law 20: - Scrum",
+          "content" : [ {"section" : "Definitions",
+                         "sectioncontents": [
+                                    { "type": "definition",
+                                      "value" : ""
+                                    }]
+                         }]
+        },
+        { "name" : "Law 21: - Penalty and Free Kicks",
+          "content" : [ {"section" : "Definitions",
+                         "sectioncontents": [
+                                    { "type": "definition",
+                                      "value" : ""
+                                    }]
+                         }]
+        }
+    ]
+}

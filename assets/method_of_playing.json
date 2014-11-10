@@ -409,7 +409,7 @@
                                       "value" : "http://www.irblaws.com/videos/laws/2112-late-charge-kicker.mp4"
                                     },
                                     { "type" : "image",
-                                      "value" : "late_charging_the_kicker_en"
+                                      "images" : ["late_charging_the_kicker_en"]
                                     },
                                     { "type" : "text",
                                       "value" : "<b>Place of infringement.</b> If the infringement takes place in the kicker’s in-goal, the penalty kick is taken 5 metres from the goal line in line with the place of infringement but at least 15 metres from the touchline.<br/><br/>The non-offending team may also choose to take the penalty where the ball lands or is next played before landing and at least 15 metres from the touchline.<br/><br/><b>Where the ball lands.</b> If the ball lands in touch, the mark for the optional penalty kick is on the 15-metre line, in line with where it went into touch. If the ball lands, or is next played before landing, within 15 metres of the touchline, the mark is on the 15-metre line opposite where the ball landed or was played.<br/><br/>If the ball lands in the in-goal, in touch-in-goal, or on or over the dead ball line, the mark for the optional penalty kick is 5 metres from the goal line, in line with the place where the ball crossed the goal line and at least 15 metres from the touchline.<br/><br/>If the ball hits a goal post or crossbar, the optional penalty kick is awarded where the ball lands on the ground."
@@ -495,7 +495,7 @@
                                       "value" : "http://www.irblaws.com/videos/laws/2055-put-onside-by-kicker.mp4"
                                     },
                                     { "type" : "image",
-                                      "value" : "player_made_onside_en",
+                                      "images" : ["player_made_onside_en"],
                                       "extras" : "<b>Player made onside by team-mate</b>"
                                     }]
                          },
@@ -523,7 +523,7 @@
                                       "value" : "http://www.irblaws.com/videos/laws/2056-intentionall-touches-ball.mp4"
                                     },
                                     { "type" : "image",
-                                      "value" : "player_put_onside",
+                                      "images" : ["player_put_onside"],
                                       "extras" : "<b>Player made onside by opponents</b>"
                                     }]
                          },
@@ -640,7 +640,7 @@
                                       "value" : "http://www.irblaws.com/videos/laws/2224-knock-on-exception.mp4"
                                     },
                                     { "type" : "image",
-                                      "value" : "knockon",
+                                      "images" : ["knockon"],
                                       "extras" : "<b>Knock-on</b>"
                                     },
                                     { "type": "definition",
@@ -653,7 +653,7 @@
                                       "value" : "<b>EXCEPTION</b><br/><br/><b>Bounce forward.</b> If the ball is not thrown forward but it hits a player or the ground and bounces forward, this is not a throw forward."
                                     },
                                     { "type" : "image",
-                                      "value" : "charge_down",
+                                      "images" : ["charge_down"],
                                       "extras" : "<b>Charge down</b>"
                                     }]
                          },

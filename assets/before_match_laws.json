@@ -4,9 +4,7 @@
           "content" : [ {"section" : "Definitions",
                          "sectioncontents": [
                                     { "type": "image",
-                                      "value" : "the_plan_may2013"},
-                                    { "type": "image",
-                                      "value" : "playing_enclosure_en"
+                                      "images" : ["the_plan_may2013", "playing_enclosure_en"]
                                     },
                                     { "type": "definition",
                                       "value":"<b>DEFINITIONS</b><br /><br /><b>The Ground</b> is the total area shown on the plan. The Ground includes:<br /><br /><b>The Field of play</b> is the area (as shown on the plan) between the goal lines and the touchlines. These lines are not part of the field of play.<br /><br /><b>The Playing Area</b> is the field of play and the in-goal areas (as shown on the plan). The touchlines, touch-in-goal lines and dead ball lines are not part of the playing area.<br /><br /><b>The Playing Enclosure</b> is the playing area and a space around it, not less than 5 metres where practicable, which is known as the perimeter area.<br /><br /><b>In-goal</b> is the area between the goal line and the dead ball line, and between the touch-in-goal lines. It includes the goal line but it does not include the dead ball line or the touch-in-goal lines.<br /><br /><b>‘The 22’</b> is the area between the goal line and the 22-metre line, including the 22-metre line but excluding the goal line.<br /><br /><b>The Plan,</b> including all the words and figures on it, is part of the Laws."
@@ -50,7 +48,7 @@
                                       "value" : ""
                                     },
                                     { "type" : "image",
-                                      "value" : "goal_posts_en",
+                                      "images" : ["goal_posts_en"],
                                       "extras" : "<b>Goal posts</b>"
                                     },
                                     { "type" : "text",
@@ -93,10 +91,7 @@
                                       "value" : ""
                                     },
                                     { "type" : "image",
-                                      "value" : "table"
-                                    },
-                                    { "type" : "image",
-                                      "value" : "ball_size_en"
+                                      "images" : ["table","ball_size_en"]
                                     }]
                       },
                       { "section" : "2.3 Materials",
@@ -199,7 +194,7 @@
                                   "value" : "(a) The table below indicates the numbers of suitably trained and experienced players available for the front row when nominating different numbers of players"
                                 },
                                 { "type" : "image",
-                                  "value" : "players_table"
+                                  "images" : ["players_table"]
                                 },
                                 { "type" : "text",
                                   "value" : "(b) Prior to the match teams must advise the referee of their front row players and replacements. Each player in the front row and any potential replacements must be suitably trained and experienced.<br/><br/>(c) The replacement of a front row player must come from the suitably trained and experienced players who started the match or from nominated replacements. A player other than a nominated front row player is permitted to play in the front row only when uncontested scrums are being played and there are no available front row replacements.<br/><br/>(d) A suitably trained and experienced front row forward may start the match in another position."
@@ -653,7 +648,7 @@
                                       "value" : "(a) Each touch judge or assistant referee carries a flag or something similar with which to signal decisions.<br/><br/>(b) <b>Signalling result of kick at goal.</b> When a conversion kick or a penalty kick at goal is being taken, the touch judges or assistant referees must help the referee by signalling the result of the kick. One touch judge or assistant referee stands at or behind each goal post. If the ball goes over the crossbar and between the posts, the touch judges or assistant referees raise the flags to indicate a goal."
                                     },
                                     { "type" : "image",
-                                      "value" : "kick_at_goal_successful",
+                                      "images" : ["kick_at_goal_successful"],
                                       "extras" : "<b>Kick at goal successful</b>"
                                     },
                                     { "type" : "video",
@@ -663,7 +658,7 @@
                                       "value" : "(c) <b>Signalling touch.</b> When the ball or the ball carrier has gone into touch, the touch judge or assistant referee must hold up the flag. The touch judge or assistant referee must stand at the place of the throw-in and point to the team entitled to throw in. The touch judge or assistant referee must also signal when the ball or the ball carrier has gone into touch-in-goal."
                                     },
                                     { "type" : "image",
-                                      "value" : "touch_and_throw",
+                                      "images" : ["touch_and_throw"],
                                       "extras" : "<b>Signalling touch and team to throw in</b>"
                                     },
                                     { "type" : "video",
@@ -673,7 +668,7 @@
                                       "value" : "(d) <b>When to lower the flag.</b> When the ball is thrown in, the touch judge or assistant referee must lower the flag, with the following exceptions:<br/><br/><b>&emsp;Exception 1:</b> When the player throwing in puts any part of either foot in the field of play, the touch judge or assistant referee keeps the flag up.<br/><br/><b>&emsp;Exception 2:</b> When the team not entitled to throw in has done so, the touch judge or assistant referee keeps the flag up.<br/><br/><b>&emsp;Exception 3:</b> When, at a quick throw-in, the ball that went into touch is replaced by another ball, or after it went into touch or it has been touched by anyone except the player who takes the throw-in, the touch judge or assistant referee keeps the flag up.<br/><br/>(e) It is for the referee, and not the touch judge or assistant referee, to decide whether or not the ball was thrown in from the correct place.<br/><br/>(f) <b>Signalling foul play.</b> An assistant referee signals that foul play or misconduct has been seen by holding the flag horizontally and pointing infield at right angles to the touchline."
                                     },
                                     { "type" : "image",
-                                      "value" : "foul_play",
+                                      "images" : ["foul_play"],
                                       "extras" : "<b>Signalling foul play</b>"
                                     },
                                     { "type" : "video",

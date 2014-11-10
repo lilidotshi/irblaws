@@ -46,7 +46,7 @@
                                       "value" : "All the opposing team must stand on or behind the 10-metre line. If they are in front of that line or if they charge before the ball is kicked, it is kicked off again."
                                     },
                                     { "type" : "image",
-                                      "value" : "kick_off",
+                                      "images" : ["kick_off"],
                                       "extras" : "<b>Kick-off</b>"
                                     }]
                          },
@@ -125,7 +125,7 @@
                                       "value" : ""
                                     },
                                     { "type": "text",
-                                      "value" : "The drop-out must be taken without delay.<br/><font color=\"red\"><b>Sanction:</b> Free Kick on the 22-metre line.</font>"
+                                      "value" : "The drop-out must be taken without delay.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick on the 22-metre line.</font>"
                                     }]
                          },
                          {"section" : "13.12 Drop-out incorrectly taken",
@@ -188,7 +188,7 @@
                                       "value" : ""
                                     },
                                     { "type" : "text",
-                                      "value" : "(a) The opposing team must not charge over the 22-metre line before the ball is kicked.<br/><font color=\"red\"><b>Sanction:</b> Free Kick at the place of infringement.</font>"
+                                      "value" : "(a) The opposing team must not charge over the 22-metre line before the ball is kicked.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick at the place of infringement.</font>"
                                     },
                                     { "type" : "video",
                                       "value" : "http://www.irblaws.com/videos/laws/2229-charging-drop-out.mp4"
@@ -197,7 +197,7 @@
                                       "value" : "(b) If an opponent is on the wrong side of the 22-metre line and delays or obstructs the drop-out, the player is guilty of misconduct.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on the 22-metre line</font>"
                                     },
                                     { "type" : "image",
-                                      "value" : "drop_out",
+                                      "images" : ["drop_out"],
                                       "extras" : "<b>Drop-out</b>"
                                     }]
                          }]
@@ -265,7 +265,7 @@
                                       "value" : "<b>DEFINITIONS</b><br/><br/>A tackle occurs when the ball carrier is held by one or more opponents and is brought to ground.<br/><br/>A ball carrier who is not held is not a tackled player and a tackle has not taken place.<br/><br/>Opposition players who hold the ball carrier and bring that player to ground, and who also go to ground, are known as tacklers.<br/><br/>Opposition players who hold the ball carrier and do not go to ground are not tacklers."
                                     },
                                     { "type" : "image",
-                                      "value" : "tackle",
+                                      "images" : ["tackle"],
                                       "extras" : "<b>Tackle</b>"
                                     }]
                         },
@@ -362,10 +362,7 @@
                                       "value" : "http://www.irblaws.com/videos/laws/2243-tackled-player-holding.mp4"
                                     },
                                     { "type" : "image",
-                                      "value" : "tackled_player_release_ball_1"
-                                    },
-                                    { "type" : "image",
-                                      "value" : "tackled_player_release_ball_2",
+                                      "images" : ["tackled_player_release_ball_1", "tackled_player_release_ball_2"],
                                       "extras" : "<b>Tackled player must release the ball immediately</b>"
                                     },
                                     { "type" : "text",
@@ -381,7 +378,7 @@
                                       "value" : "http://www.irblaws.com/videos/laws/2245-reach-out-try.mp4"
                                     },
                                     { "type" : "image",
-                                      "value" : "tackled_near_goal_line",
+                                      "images" : ["tackled_near_goal_line"],
                                       "extras" : "<b>A player tackled near the goal line can reach out and ground the ball to score a try</b>"
                                     }]
                          },
@@ -403,15 +400,15 @@
                                       "value" : "http://www.irblaws.com/videos/laws/2247-ground-ball-in-goal.mp4"
                                     },
                                     { "type" : "image",
-                                      "value" : "after_tackle_on_feet",
+                                      "images" : ["after_tackle_on_feet"],
                                       "extras" : "<b>After a tackle all of the players must be on their feet while they play the ball</b>"
                                     },
                                     { "type" : "image",
-                                      "value" : "player_off_feet_1",
+                                      "images" : ["player_off_feet_1"],
                                       "extras" : "<b>Player off feet and playing the ball at the tackle</b>"
                                     },
                                     { "type" : "image",
-                                      "value" : "player_off_feet_2",
+                                      "images" : ["player_off_feet_2"],
                                       "extras" : "<b>Player off feet and playing the ball at the tackle</b>"
                                     },
                                     { "type" : "text",
@@ -469,7 +466,7 @@
                                       "value" : "http://www.irblaws.com/videos/laws/2252-fall-on-tackled-player.mp4"
                                     },
                                     { "type" : "image",
-                                      "value" : "falling_on_tackled_player",
+                                      "images" : ["falling_on_tackled_player"],
                                       "extras" : "<b>No player may fall on or over a tackled player</b>"
                                     },
                                     { "type" : "text",
@@ -496,35 +493,418 @@
                          }]
         },
         { "name" : "Law 16: Ruck",
-          "content" : [ {"section" : "7.1 Playing a match",
+          "content" : [ {"section" : "Definitions",
+                         "sectioncontents": [
+                                    { "type": "definition",
+                                      "value" : "<b>DEFINITIONS</b><br/><br/>A ruck is a phase of play where one or more players from each team, who are on their feet, in physical contact, close around the ball on the ground. Open play has ended.<br/><br/>Players are rucking when they are in a ruck and using their feet to try to win or keep possession of the ball, without being guilty of foul play."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2255-ruck-definition.mp4"
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["ruck_1","ruck_2"],
+                                      "extras" : "<b>Ruck</b>"
+                                    }]
+                         },
+                         {"section" : "16.1 Forming a ruck",
                          "sectioncontents": [
                                     { "type": "sectionheader",
                                       "value" : ""
                                     },
                                     { "type" : "text",
-                                      "value" : "A match is started by a kick-off.<br/><br/>After the kick-off, any player who is onside may take the ball and run with it.<br/><br/>Any player may throw it or kick it.<br/><br/>Any player may give the ball to another player.<br/><br/>Any player may tackle, hold or push an opponent holding the ball.<br/><br/>Any player may fall on the ball.<br/><br/>Any player may take part in a scrum, ruck, maul or lineout.<br/><br/>Any player may ground the ball in in-goal.<br/><br/>A ball carrier may hand-off an opponent.<br/><br/>Whatever a player does must be in accordance with the Laws of the Game."
+                                      "value"  : "(a) <b>Where can a ruck take place.</b> A ruck can take place only in the field of play.<br/><br/>(b) <b>How can a ruck form.</b> Players are on their feet. At least one player must be in physical contact with an opponent. The ball must be on the ground. If the ball is off the ground for any reason, the ruck is not formed."
+                                    }]
+                         },
+                         {"section" : "16.2 Joining a ruck",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) All players forming, joining or taking part in a ruck must have their heads and shoulders no lower than their hips.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) A player joining a ruck must bind on a team-mate or an opponent, using the whole arm. The bind must either precede, or be simultaneous with, contact with any other part of the body of the player joining the ruck.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2256-ruck-no-binding.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) Placing a hand on another player in the ruck does not constitute binding.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2257-ruck-no-bind.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) All players forming, joining or taking part in a ruck must be on their feet.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2258-ruck-off-feet.mp4"
+                                    }]
+                         },
+                         {"section" : "16.3 Rucking",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) Players in a ruck must endeavour to stay on their feet.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2259-ruck-off-feet.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) A player must not intentionally fall or kneel in a ruck. This is dangerous play.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2260-ruck-falling.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) A player must not intentionally collapse a ruck. This is dangerous play.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick</font><br/><br/>(d) A player must not jump on top of a ruck.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick</font><br/><br/>(e) Players must have their heads and shoulders no lower than their hips.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font><br/><br/>(f) A player rucking for the ball must not intentionally ruck players on the ground. A player rucking for the ball must try to step over players on the ground and must not intentionally step on them. A player rucking must do so near the ball.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2261-rucking-player.mp4"
+                                    }]
+                         },
+                         {"section" : "16.4 Other ruck offences",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) Players must not return the ball into a ruck.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font><br/><br/>(b) Players must not handle the ball in a ruck except after a tackle if they are on their feet and have their hands on the ball before the ruck is formed.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2079-hands-in-ruck.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2262-hands-in-ruck.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) Players must not pick up the ball in a ruck with their legs.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick</font><br/><br/>(d) Players on the ground in or near the ruck must try to move away from the ball. These players must not interfere with the ball in the ruck or as it comes out of the ruck.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2078-ruck-playing-halfback.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2263-ruck-not-rolling.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) A player must not fall on or over the ball as it is coming out of a ruck.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick</font><br/><br/>(f) A player must not take any action to make the opposing team think that the ball is out of the ruck while it is still in the ruck.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2264-ruck-feigning.mp4"
+                                    }]
+                         },
+                         {"section" : "16.5 Offside at the ruck",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>The offside line.</b> There are two offside lines parallel to the goal lines, one for each team. Each offside line runs through the hindmost foot of the hindmost player in the ruck. If the hindmost foot of the hindmost player is on or behind the goal line, the offside line for the defending team is the goal line."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2265-ruck-offside.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2081-ruck-offside.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) Players must either join a ruck, or retire behind the offside line immediately. If a player loiters at the side of a ruck, the player is offside.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2080-ruck-offside.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2266-ruck-not-retiring.mp4"
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["offside_at_ruck"],
+                                      "extras" : "<b>At a ruck or maul, the offside line runs through the hindmost foot of the player of the same team. The player in the yellow jersey on the right hand side is offside.</b>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) <b>Players joining or rejoining the ruck.</b> A player joining a ruck must do so from behind the foot of the hindmost team-mate in the ruck. A player may join alongside this hindmost player. If a player joins the ruck from the opponents’ side, or in front of the hindmost team-mate, the player is offside. A player may bind onto an opposition player providing the player is not otherwise offside.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on the offending team’s offside line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2077-ruck-joininge.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2267-ruck-joining-from-side.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) <b>Players not joining the ruck.</b> If a player is in front of the offside line and does not join the ruck, the player must retire behind the offside line at once. If a player who is behind the offside line oversteps it and does not join the ruck the player is offside.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on the offending team’s offside line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2268-ruck-not-joining.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2269-ruck-not-joining.mp4"
+                                    }]
+                         },
+                         {"section" : "16.6 Successful end to a ruck",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "A ruck ends successfully when the ball leaves the ruck, or when the ball is on or over the goal line."
+                                    }]
+                         },
+                         {"section" : "16.7 Unsuccessful end to a ruck",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) A ruck ends unsuccessfully when the ball becomes unplayable and a scrum is ordered.<br/><br/>The team that was moving forward immediately before the ball became unplayable in the ruck throws in the ball."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2270-ruck-ends-unsuccessfully.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "If neither team was moving forward, or if the referee cannot decide which team was moving forward before the ball became unplayable in the ruck, the team that was moving forward before the ruck began throws in the ball.<br/><br/>If neither team was moving forward, then the attacking team throws in the ball.<br/><br/>(b) Before the referee blows the whistle for a scrum, the referee allows a reasonable amount of time for the ball to emerge, especially if either team is moving forward. If the ruck stops moving, or if the referee decides that the ball will probably not emerge within a reasonable time, the referee must order a scrum."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2271-ruck-ref-allows-time.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) When the ball has been clearly won by a team at a ruck and the ball is available to be played the referee will call \"Use it!\" after which the ball must be played within five seconds. If the ball is not played within five seconds the referee will award a scrum and the team not in possession of the ball at the ruck is awarded the throw-in."
                                     }]
                          }]
         },
         { "name" : "Law 17: Maul",
-          "content" : [ {"section" : "7.1 Playing a match",
+          "content" : [ {"section" : "Definitions",
+                         "sectioncontents": [
+                                    { "type": "definition",
+                                      "value" : "<b>DEFINITIONS</b><br/><br/>A maul begins when a player carrying the ball is held by one or more opponents, and one or more of the ball carrier’s team mates bind on the ball carrier. A maul therefore consists, when it begins, of at least three players, all on their feet; the ball carrier and one player from each team. All the players involved must be caught in or bound to the maul and must be on their feet and moving towards a goal line. Open play has ended."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2272-maul-definition.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2082-maul.mp4"
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["maul"],
+                                      "extras" : "<b>Maul</b>"
+                                    }]
+                         },
+                         {"section" : "17.1 Forming a maul",
                          "sectioncontents": [
                                     { "type": "sectionheader",
                                       "value" : ""
                                     },
                                     { "type" : "text",
-                                      "value" : "A match is started by a kick-off.<br/><br/>After the kick-off, any player who is onside may take the ball and run with it.<br/><br/>Any player may throw it or kick it.<br/><br/>Any player may give the ball to another player.<br/><br/>Any player may tackle, hold or push an opponent holding the ball.<br/><br/>Any player may fall on the ball.<br/><br/>Any player may take part in a scrum, ruck, maul or lineout.<br/><br/>Any player may ground the ball in in-goal.<br/><br/>A ball carrier may hand-off an opponent.<br/><br/>Whatever a player does must be in accordance with the Laws of the Game."
+                                      "value" : "(a) Where can a maul take place. A maul can only take place in the field of play."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2273-forming-maul.mp4"
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["maul_not_formed_1","maul_not_formed_2"],
+                                      "extras" : "<b>Maul not formed</b>"
+                                    }]
+                         },
+                         {"section" : "17.2 Joining a maul",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) Players joining a maul must have their heads and shoulders no lower than their hips.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font><br/><br/>(b) A player must be caught in or bound to the maul and not just alongside it.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick</font><br/><br/>(c) Placing a hand on another player in the maul does not constitute binding.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick</font><br/><br/>(d) <b>Keeping players on their feet.</b> Players in a maul must endeavour to stay on their feet. The ball carrier in a maul may go to ground providing the ball is available immediately and play continues.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2274-players-on-feet.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) A player must not intentionally collapse a maul. This is dangerous play.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2083-maul-collapse.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2275-maul-collapse.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(f) A player must not jump on top of a maul.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2276-maul-jump-on-top.mp4"
+                                    }]
+                         },
+                         {"section" : "17.3 Other maul offences",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) A player must not try to drag an opponent out of a maul.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2277-maul-drag-out.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) A player must not take any action to make the opposing team think that the ball is out of the maul while it is still in the maul.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    }]
+                         },
+                         {"section" : "17.4 Offside at the maul",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>The offside line.</b> There are two offside lines parallel to the goal lines, one for each team. Each offside line runs through the hindmost foot of the hindmost player in the maul. If the hindmost foot of the hindmost player is on or behind the goal line, the offside line for the defending team is the goal line.<br/><br/>(b) A player must either join a maul, or retire behind the offside line immediately. If a player loiters at the side of a maul, the player is offside.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on the offending team’s offside line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2086-maul-joining.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2278-maul-offside.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) <b>Players joining the maul.</b> Players joining a maul must do so from behind the foot of the hindmost team-mate in the maul. The player may join alongside this player. If the player joins the maul from the opponents’ side, or in front of the hindmost team-mate, the player is offside.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on the offending team’s offside line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2279-maul-joining.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) <b>Players not joining the maul.</b> All players in front of the offside line and who do not join the maul, must retire behind the offside line at once. A player who does not do so, is offside. If any player who is behind the offside line oversteps it and does not join the maul, the player is offside.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on the offending team’s offside line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2280-maul-not-joining.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) <b>Players leaving or rejoining the maul.</b> Players who leave a maul must immediately retire behind the offside line, otherwise, they are offside. If the player rejoins the maul in front of the hindmost team-mate in the maul, they are offside. The player may rejoin the maul alongside the hindmost team-mate.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on the offending team’s offside line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2281-leaving-maul.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(f) When players of the team who are not in possession of the ball in the maul voluntarily leave the maul such that there are no players of that team left in the maul, the maul may continue and there are two offside lines. The offside line for the team in possession runs through the hindmost foot of the hindmost player in the maul and for the team not in possession it is a line that runs through the foremost foot of the foremost player of the team in possession at the maul.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font><br/><br/>(g) When players of the team who are not in possession of the ball in the maul voluntarily leave the maul such that there are no players of that team left in the maul, players of that team may rejoin the maul providing that the first player binds on the foremost player of the team in possession of the ball.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    }]
+                         },
+                         {"section" : "17.5 Successful end to a maul",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "A maul ends successfully when :<br/><br/>&emsp;- the ball or a player with the ball leaves the maul<br/><br/>&emsp;- the ball is on the ground<br/><br/>&emsp;- the ball is on or over the goal line."
+                                    }]
+                         },
+                         {"section" : "17.6 Unsuccessful end to a maul",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) A maul ends unsuccessfully if it remains stationary or has stopped moving forward for longer than 5 seconds and a scrum is ordered."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2084-maul-collapse.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) A maul ends unsuccessfully if the ball becomes unplayable or collapses (not as a result of foul play) and a scrum is ordered."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2085-maul-collapse.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2282-maul-ends-unsuccessfully.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) <b>Scrum following maul.</b> The ball is thrown in by the team not in possession when the maul began. If the referee cannot decide which team had possession, the team moving forward before the maul stopped throws in the ball. If neither team was moving forward, the attacking team throws in the ball.<br/><br/>(d) When a maul remains stationary or has stopped moving forward for more than 5 seconds, but the ball is being moved and the referee can see it, a reasonable time is allowed for the ball to emerge. If it does not emerge within a reasonable time, a scrum is ordered.<br/><br/>(e) When a maul has stopped moving forward it may start moving forward again providing it does so within 5 seconds. If the maul stops moving forward a second time and if the ball is being moved and the referee can see it, a reasonable time is allowed for the ball to emerge. If it does not emerge within a reasonable time, a scrum is ordered.<br/><br/>(e) When a maul has stopped moving forward it may start moving forward again providing it does so within 5 seconds. If the maul stops moving forward a second time and if the ball is being moved and the referee can see it, a reasonable time is allowed for the ball to emerge. If it does not emerge within a reasonable time, a scrum is ordered.<br/><br/>(f) When the ball in a maul becomes unplayable, the referee does not allow prolonged wrestling for it. A scrum is ordered.<br/><br/>(g) If the ball carrier in a maul goes to ground, including being on one or both knees or sitting, the referee orders a scrum unless the ball is immediately available.<br/><br/>When the ball is available to be played the referee will call \"Use it!\" after which the ball must be played within five seconds. If the ball is not played within five seconds the referee will award a scrum and the team not in possession of the ball is awarded the throw-in.<br/><br/>(h) <b>Scrum after a maul when catcher is held.</b> If a player catches the ball direct from an opponent’s kick, except from a kick-off or a drop-out, and the player is immediately held by an opponent, a maul may form. Then if the maul remains stationary, stops moving forward for longer than 5 seconds, or if the ball becomes unplayable, and a scrum is ordered, the team of the ball catcher throws in the ball."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2087-catcher-held.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "\'Direct from an opponent’s kick\' means the ball did not touch another player or the ground before the player caught it."
                                     }]
                          }]
         },
         { "name" : "Law 18: Mark",
-          "content" : [ {"section" : "7.1 Playing a match",
+          "content" : [ {"section" : "Definitions",
+                         "sectioncontents": [
+                                    { "type": "definition",
+                                      "value" : "<b>DEFINITIONS</b><br/><br/>To make a mark, a player must be on or behind that player’s 22-metre line. A player with one foot on the 22-metre line or behind it is considered to be ‘in the 22’. The player must make a clean catch direct from an opponent’s kick and at the same time shout \"Mark\". A mark cannot be made from a kick-off, or a restart kick except for a drop-out.<br/><br/>A kick is awarded for a mark. The place for the kick is the place of the mark.<br/><br/>A player may make a mark even though the ball touched a goal post or crossbar before being caught.<br/><br/>A player from the defending team may make a mark in in-goal."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2088-mark.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2089-mark.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2090-mark.mp4"
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["mark"],
+                                      "extras" : "<b>Mark</b>"
+                                    }]
+                         },
+                         {"section" : "18.1 After a mark",
                          "sectioncontents": [
                                     { "type": "sectionheader",
                                       "value" : ""
                                     },
                                     { "type" : "text",
-                                      "value" : "A match is started by a kick-off.<br/><br/>After the kick-off, any player who is onside may take the ball and run with it.<br/><br/>Any player may throw it or kick it.<br/><br/>Any player may give the ball to another player.<br/><br/>Any player may tackle, hold or push an opponent holding the ball.<br/><br/>Any player may fall on the ball.<br/><br/>Any player may take part in a scrum, ruck, maul or lineout.<br/><br/>Any player may ground the ball in in-goal.<br/><br/>A ball carrier may hand-off an opponent.<br/><br/>Whatever a player does must be in accordance with the Laws of the Game."
+                                      "value" : "The referee immediately blows the whistle and awards a kick to the player who made the mark."
+                                    }]
+                         },
+                         {"section" : "18.2 Kick awarded",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "The kick is awarded at the place of the mark. If the mark is made in the in-goal, the kick is awarded 5 metres from the goal line in line with where the mark was made."
+                                    }]
+                         },
+                         {"section" : "18.3 Kick - where",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "The kick is taken at or behind the mark on a line through the mark."
+                                    }]
+                         },
+                         {"section" : "18.4 Who kicks",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "The kick is taken by the player who made the mark. If that player cannot take the kick within one minute, a scrum is formed at the place of the mark with the ball thrown in by the player’s team. If the mark is in the in-goal, the scrum is 5 metres from the goal line, on a line through the mark."
+                                    }]
+                         },
+                         {"section" : "18.5 How the kick is taken",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "The provisions of Law 21 - Free Kicks - apply to a kick awarded after a mark."
+                                    }]
+                         },
+                         {"section" : "18.6 Scrum alternative",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) The team of the player who made the mark may choose to take a scrum.<br/><br/>(b) <b>Where the scrum is.</b> If the mark is in the field of play, the scrum is at the place of the mark, but at least 5 metres from the touchline. If the mark is in-goal, the scrum is 5 metres from the goal line on a line through the mark, and at least 5 metres from the touchline.<br/><br/>(c) <b>Who throws in.</b> The team of the player who made the mark throws in the ball."
+                                    }]
+                         },
+                         {"section" : "18.7 Penalty kick awarded",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) An opponent, whether onside or offside, must not charge a player who has made a mark after the referee has blown the whistle.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font><br/><br/>(b) <b>Where the penalty kick is taken.</b> If the infringing player is onside, the penalty kick is taken at the place of the infringement. If the infringing player is offside, the penalty kick is taken at the place of the offside line (Law 11 offside and onside in General Play.)<br/><br/>(c) <b>The penalty kick.</b> Any player from the non-offending team may take the penalty kick."
                                     }]
                          }]
         }
