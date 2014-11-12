@@ -89,6 +89,16 @@ public class IRBMainActivity extends ActionBarActivity{
 				ft.replace(R.id.mainLayout, methodFragment);
 				ft.addToBackStack(null);
 				ft.commit();
+			} else if (v.getId() == R.id.inGoalButton) {
+				Fragment methodFragment = MenuFragment.newInstance("in_goal.json");
+				ft.replace(R.id.mainLayout, methodFragment);
+				ft.addToBackStack(null);
+				ft.commit();
+			} else if (v.getId() == R.id.variations) {
+				Fragment methodFragment = MenuFragment.newInstance("variations.json");
+				ft.replace(R.id.mainLayout, methodFragment);
+				ft.addToBackStack(null);
+				ft.commit();
 			}
 		}
 	}

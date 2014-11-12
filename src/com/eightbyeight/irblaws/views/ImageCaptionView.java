@@ -54,8 +54,10 @@ public class ImageCaptionView extends LinearLayout{
 			imageView.setLayoutParams(layoutParams);
 			int resID = getResources().getIdentifier(image, "drawable", getContext().getPackageName());
 			Bitmap bmp = BitmapFactory.decodeResource(getResources(), resID);
-			imageView.setImageBitmap(getRoundedCornerBitmap(bmp));
-			addView(imageView);
+			if (bmp != null){
+				imageView.setImageBitmap(getRoundedCornerBitmap(bmp));
+				addView(imageView);
+			}
 		}
 		
 		//Add textview

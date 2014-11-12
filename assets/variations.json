@@ -1,0 +1,508 @@
+{
+    "laws" : [
+        { "name" : "Under 19",
+          "content" : [ {"section" : "3.5 The front row - replacements and substitutions",
+                         "sectioncontents": [
+                                    { "type" : "lawtitle",
+                                      "value" : "<b>Law 3 : Number of Players - The Team</b>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) If a team nominates 22 players, it must have at least six players who can play in the front row in order that there is replacement cover for the loose head prop, hooker and tight head prop.<br/><br/>If a team nominates more than 22 players it must have at least six players who can play in the front row in order that there is replacement cover for the loose head prop, hooker and tight head prop."
+                                    }]
+                         },
+                         {"section" : "3.12 Substituted players rejoining the match",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "A player who has been substituted may replace an injured player."
+                                    }]
+                         },
+                         {"section" : "5.1 Duration of a match",
+                         "sectioncontents": [
+                                    { "type" : "lawtitle",
+                                      "value" : "<b>Law 5 : Time</b>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "Each half of an Under 19 match lasts 35 minutes playing time. Play in a match lasts no longer than 70 minutes. After a total of 70 minutes playing time, the referee must not allow extra time to be played in the case of a drawn match in a knock-out competition."
+                                    }]
+                         },
+                         {"section" : "20.1 Forming a scrum",
+                         "sectioncontents": [
+                                    { "type" : "lawtitle",
+                                      "value" : "<b>Law 20 : Scrum</b>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) In an 8 person scrum the formation must be 3-4-1, with the single player (normally the Number 8) shoving on the 2 locks. The locks must pack with their heads on either side of the hooker.<br/><br/><b>Exception:</b> A team must have fewer than eight players in its scrum when the team cannot field eight suitably trained players in its scrum due to either the team not fielding a complete team, or a forward player being sent off or temporarily suspended for foul play, or a forward player leaving the field because of injury.<br/><br/>Even allowing for this exception, each team must always have at least five players in a scrum.<br/><br/>If a team is incomplete and it cannot field eight suitably trained players in its scrum, the scrum formation must be as follows:<br/><br/>If a team is without one forward player, then both teams must use a 3-4 formation (i.e. no No.8).<br/><br/>If a team is without two forward players, then both teams must use a 3-2-1 formation (i.e. no flankers).<br/><br/>If a team is without three forward players, then both teams must use a 3-2 formation (i.e. only front rows and locks).<br/><br/>When a normal scrum takes place, the players in the three front row positions and the two lock positions must have been suitably trained for these positions.<br/><br/>If a team cannot field such suitably trained players because:<br/><br/>either they are not available, or<br/><br/>a player in one of those five positions is injured or<br/><br/>has been sent off for Foul Play and no suitably trained replacement is available, then the referee must order uncontested scrums.<br/><br/>In an uncontested scrum, the teams do not compete for the ball. The team putting in the ball must win it. Neither team is allowed to push the other team away from the mark."
+                                    }]
+                         },
+                         {"section" : "20.9 Scrum - general restrictions",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(j) <b>Maximum 1.5 metres push.</b> A team in a scrum must not push the scrum more than 1.5 metres towards their opponents’ goal line.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font><br/><br/>(k) <b>Ball must be released from scrum.</b> A player must not intentionally keep the ball in the scrum once the player’s team has heeled the ball and controls it at the base of the scrum.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    }]
+                         },
+                         {"section" : "20.11 Scrum wheeled",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>No wheeling.</b> A team must not intentionally wheel a scrum.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font><br/><br/>If a wheel reaches 45 degrees, the referee must stop play. If the wheel is unintentional, the referee orders another scrum at the place where the scrum is stopped. The same team throws in the ball."
+                                    }]
+                         }]
+        },
+        { "name" : "Seven-a-side",
+          "content" : [ {"section" : "3.1 Maximum number of players on the playing area",
+                         "sectioncontents": [
+                                    { "type" : "lawtitle",
+                                      "value" : "<b>Law 3 : Number of Players - The Team</b>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<b>Maximum:</b> each team must have no more than seven players on the playing area."
+                                    }]
+                         },
+                         {"section" : "3.4 Players nominated as substitutes",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "A team may nominate up to five replacements/substitutes.<br/><br/>A team may substitute or replace up to five players."
+                                    }]
+                         },
+                         {"section" : "3.12 Substituted players rejoining the match",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "If a player is substituted, that player must not return and play in that match even to replace an injured player.<br/><br/><b>Exception:</b> A substituted player may replace a player with a bleeding or open wound."
+                                    }]
+                         },
+                         {"section" : "5.1 Duration of a match",
+                         "sectioncontents": [
+                                    { "type" : "lawtitle",
+                                      "value" : "<b>Law 5 : Time</b>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "A match lasts no longer than fourteen minutes plus lost time and extra time. A match is divided into two halves of not more than seven minutes playing time.<br/><br/><b>Exception:</b> A competition final match may last no longer than twenty minutes plus lost time and extra time. The match is divided into two halves of not more than ten minutes playing time."
+                                    }]
+                         },
+                         {"section" : "5.2 Half-time",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "After half-time the teams change ends. There is an interval of not more than two minutes."
+                                    }]
+                         },
+                         {"section" : "5.6 Playing extra time",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "When there is a drawn match and extra time is required, after a break of one minute the extra time is played in periods of five minutes. After each period, the teams change ends without an interval."
+                                    }]
+                         },
+                         {"section" : "6.A.14 Extra time - toss",
+                         "sectioncontents": [
+                                    { "type" : "lawtitle",
+                                      "value" : "<b>Law 6 : Match Officials</b>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\">6.A REFEREE</font>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "Before extra time starts, the referee organises a toss. One of the captains tosses a coin and the other captain calls to see who wins the toss. The winner of the toss decides whether to kick off or choose an end. If the winner of the toss decides to choose an end, the opponents must kick off and vice versa."
+                                    }]
+                         },
+                         {"section" : "6.B.8 In-goal judges",
+                         "sectioncontents": [
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\">6.B TOUCH JUDGES AND ASSISTANT REFEREES</font>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) There are two in-goal judges for each match.<br/><br/>(b) The referee has the same control over both in-goal judges as the referee has over touch judges.<br/><br/>(c) There is only one in-goal judge in each in-goal area.<br/><br/>(d) <b>Signalling result of kick at goal.</b> When a conversion kick or a penalty kick at goal is being taken, an in-goal judge must help the referee by signalling the result of the kick. If the ball goes over the crossbar and between the posts, the in-goal judge raises the flag to indicate a goal.<br/><br/>(e) <b>Signalling touch.</b> When the ball or the ball carrier has gone into touch-in-goal, the in-goal judge must hold up the flag.<br/><br/>(f) <b>Signalling tries.</b> The in-goal judge will assist the referee in decisions on touch downs and tries if there is any doubt in the referee’s mind.<br/><br/>(g) <b>Signalling foul play.</b> A match organiser may give authority for the in-goal judge to signal foul play in the in-goal."
+                                    }]
+                         },
+                         {"section" : "9.B.1 Taking a conversion kick",
+                         "sectioncontents": [
+                                    { "type" : "lawtitle",
+                                      "value" : "<b>Law 9 : Method of Scoring</b>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\">9.B CONVERSION KICK</font>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>(c) The kick must be a drop kick.<br/><br/><i>Delete (d)</i><br/><br/><i>Amend</i><br/><br/>(e) The kicker must take the kick within forty seconds of a try having been scored. The kick is disallowed if the kicker does not take the kick in the time allowed."
+                                    }]
+                         },
+                         {"section" : "9.B.3 The opposing team",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>(a) All players of the opposing team must immediately assemble close to their own 10-metre line.<br/><br/><i>Delete (b)</i><br/><br/>(c) Delete 3rd paragraph \"When another kick is allowed.......\""
+                                    }]
+                         },
+                         {"section" : "9.B.4 Extra time - the winner",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "In extra time, the team that scores points first is immediately declared the winner, without any further play."
+                                    }]
+                         },
+                         {"section" : "10.5 Sanctions",
+                         "sectioncontents": [
+                                    { "type" : "lawtitle",
+                                      "value" : "<b>Law 10 : Foul Play</b>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<b>Note:</b> Temporary Suspension: When a player has been temporarily suspended, the player’s period of suspension will be two minutes."
+                                    }]
+                         },
+                         {"section" : "13.2 Who takes the kick-off and restart kick",
+                         "sectioncontents": [
+                                    { "type" : "lawtitle",
+                                      "value" : "<b>Law 13 : Kick-off and Restart Kicks</b>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>(c) After a score, the team that has scored kicks off with a drop kick which must be taken at, or behind, the centre of the half way line.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick at the centre of the half way line.</font>"
+                                    }]
+                         },
+                         {"section" : "13.3 Position of the kicker’s team at a kick-off",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>All the kicker’s team must be behind the ball when it is kicked. If they are not, a free kick is awarded to the non-offending team at the centre of the half way line.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick at the centre of the half way line.</font>"
+                                    }]
+                         },
+                         {"section" : "13.7 Kick-off of under 10 metres and not played by an opponent",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>If the ball does not reach the opponents’ 10-metre line, a free kick is awarded to the non-offending team at the centre of the half way line.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick at the centre of the half way line.</font>"
+                                    }]
+                         },
+                         {"section" : "13.8 Ball goes directly into touch",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>The ball must land in the field of play. If it is kicked directly into touch, a free kick is awarded to the non-offending team at the centre of the half way line.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick at the centre of the half way line.</font>"
+                                    }]
+                         },
+                         {"section" : "13.9 Ball goes into the in-goal",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>(b) If the opposing team grounds the ball, or if they make it dead, or if the ball becomes dead by going into touch-in-goal, or on or over the dead ball line, a free kick is awarded to the non-offending team at the centre of the half way line.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick at the centre of the half way line.</font>"
+                                    }]
+                         },
+                         {"section" : "Law 20 : Scrum",
+                         "sectioncontents": [
+                                    { "type" : "lawtitle",
+                                      "value" : "<b>Law 20 : Scrum</b>"
+                                    },
+                                    { "type" : "definition",
+                                      "value" : "<b>DEFINITIONS<b><br/><br/><i>Amend 2nd paragraph:</i><br/><br/>A scrum is formed in the field of play when three players from each team, bound together in one row, close up with their opponents so that the heads of the players are interlocked. This creates a tunnel into which a scrum half throws the ball so that the players can compete for possession by hooking the ball with either of their feet.<br/><br/><i>Amend 4th paragraph:</i><br/><br/>The tunnel is the space between the two rows of players.<br/><br/><i>Amend 6th paragraph:</i><br/><br/>The middle line is an imaginary line on the ground in the tunnel beneath the line where the shoulders of the two rows of players meet.<br/><br/><i>Amend 7th paragraph:</i><br/><br/>The middle player is the hooker.<br/><br/><i>Delete paragraphs 9, 10 and 11.</i>"
+                                    }]
+                         },
+                         {"section" : "20.1 Forming a scrum",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>(e) <b>Number of players: three.</b> A scrum must have three players from each team. All three players must stay bound to the scrum until it ends.<br><font color=\"red\"><b>Sanction:</b> Penalty kick</font><br/><br/><i>Delete</i><br/><br/><b>Exception</b>"
+                                    }]
+                         },
+                         {"section" : "20.8 Front-row players",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>(c) <b>Kicking out.</b> A front-row player must not intentionally kick the ball out of the tunnel or out of the scrum in the direction of the opponent’s goal line.<br><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    }]
+                         },
+                         {"section" : "21.3 How the penalty and free kicks are taken",
+                         "sectioncontents": [
+                                    { "type" : "lawtitle",
+                                      "value" : "<b>Law 21 : Penalty and Free Kicks</b>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>(a) Any player may take a penalty or free kick awarded for an infringement with any kind of kick: punt, drop kick but not a place kick. The ball may be kicked with any part of the leg from below the knee to the toe but not with the heel."
+                                    }]
+                         },
+                         {"section" : "21.4 Penalty and free kick options and requirements",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>(b) <b>No delay.</b> If a kicker indicates to the referee the intention to kick at goal, the kick must be taken within thirty seconds of the penalty having been awarded. If the 30 seconds is exceeded the kick is disallowed, a scrum is ordered at the place of the mark and the opponents throw in the ball."
+                                    }]
+                         }]
+        },
+        { "name" : "Ten-a-side",
+          "content" : [ {"section" : "3.1 Maximum number of players on the playing area",
+                         "sectioncontents": [
+                                    { "type" : "lawtitle",
+                                      "value" : "<b>Law 3 : Number of Players - The Team</b>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<b>Maximum:</b> each team must have no more than ten players on the playing area."
+                                    }]
+                        },
+                        {"section" : "3.4 Players nominated as substitutes",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "A team may nominate no more than five replacements/substitutes. Match Organisers may vary the number of players nominated as replacements/substitututes.<br/><br/>A team can substitute or replace any number of players during a match at any time.<br/><br/>Players entering the field of play must do so at the half way line after the replaced or substituted player has left the field of play.<br/><font color=\"red\"><b>Sanction:</b> Penalty Kick where the match would have restarted.</font><br/><br/>Match Organisers may decide to vary the number of replacements and substitutes and limit the number of substitutions."
+                                    }]
+                        },
+                        {"section" : "3.12 Substituted players rejoining the match",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<b><i>Delete:</i></b> 3.12 Substituted players rejoining the match"
+                                    }]
+                        },
+                        {"section" : "5.1 Duration of a match",
+                         "sectioncontents": [
+                                    { "type" : "lawtitle",
+                                      "value" : "<b>Law 5 : Time</b>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "A match lasts no longer than twenty minutes plus lost time and extra time. A match is divided into two halves of not more than ten minutes playing time. Match Organisers may vary the duration of the match."
+                                    }]
+                        },
+                        {"section" : "5.2 Half-time",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "After half-time the teams change ends. There is an interval of not more than two minutes."
+                                    }]
+                        },
+                        {"section" : "5.6 Playing extra time",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "When there is a drawn match and extra time is required, after a break of one minute the extra time is played in periods of five minutes. After each period, the teams change ends without an interval."
+                                    }]
+                        },
+                        {"section" : "6.A.14 Extra time - toss",
+                         "sectioncontents": [
+                                    { "type" : "lawtitle",
+                                      "value" : "<b>Law 6 : Match Officials</b>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "Before extra time starts, the referee organises a toss. One of the captains tosses a coin and the other captain calls to see who wins the toss. The winner of the toss decides whether to kick off or choose an end. If the winner of the toss decides to choose an end, the opponents must kick off and vice versa."
+                                    }]
+                        },
+                        {"section" : "9.B.1 Taking a conversion kick",
+                         "sectioncontents": [
+                                    { "type" : "lawtitle",
+                                      "value" : "<b>Law 9 : Method of Scoring</b>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>(c) The kick must be a drop kick.<br/><br/><i>Delete (d)</i><br/><br/><i>Amend</i><br/><br/>(e) The kicker must take the kick within forty seconds of a try having been scored. The kick is disallowed if the kicker does not take the kick in the time allowed."
+                                    }]
+                        },
+                        {"section" : "9.B.3 The opposing team",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>(a) All players of the opposing team must immediately assemble close to their own 10-metre line.<br/><br/><i>Delete (b)</i><br/><br/>(c) Delete 3rd paragraph \"When another kick is allowed...\""
+                                    }]
+                        },
+                        {"section" : "9.B.4 Extra time - the winner",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "In extra time, the team that scores points first is immediately declared the winner, without any further play."
+                                    }]
+                        },
+                        {"section" : "10.5 Sanctions",
+                         "sectioncontents": [
+                                    { "type" : "lawtitle",
+                                      "value" : "<b>Law 10 : Foul Play</b>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<b>Note:</b> Temporary Suspension: When a player has been temporarily suspended, the player’s period of suspension will be for a period of two minutes."
+                                    }]
+                        },
+                        {"section" : "13.2 Who takes the kick-off and restart kick",
+                         "sectioncontents": [
+                                    { "type" : "lawtitle",
+                                      "value" : "<b>Law 13 : Kick-off and Restart Kicks</b>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>(c) After a score, the team that has scored kicks off with a drop kick which must be taken at, or behind, the centre of the half way line.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick at the centre of the half way line.</font>"
+                                    }]
+                        },
+                        {"section" : "13.3 Position of the kicker’s team at a kick-off",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>All the kicker’s team must be behind the ball when it is kicked. If they are not, a free kick is awarded to the non-offending team at the centre of the half way line.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick at the centre of the half way line.</font>"
+                                    }]
+                        },
+                        {"section" : "13.7 Kick-off of under 10 metres and not played by an opponent",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>If the ball does not reach the opponents’ 10-metre line, a free kick is awarded to the non-offending team at the centre of the half way line.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick at the centre of the half way line.</font>"
+                                    }]
+                        },
+                        {"section" : "13.8 Ball goes directly into touch",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>The ball must land in the field of play. If it is kicked directly into touch, a free kick is awarded to the non-offending team at the centre of the half way line.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick at the centre of the half way line.</font>"
+                                    }]
+                        },
+                        {"section" : "13.9 Ball goes into the in-goal",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>(b) If the opposing team grounds the ball, or if they make it dead, or if the ball becomes dead by going into touch-in-goal, or on or over the dead ball line, a free kick is awarded to the non-offending team at the centre of the half way line.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick at the centre of the half way line.</font>"
+                                    }]
+                        },
+                        {"section" : "20.1 Forming a scrum",
+                         "sectioncontents": [
+                                    { "type" : "lawtitle",
+                                      "value" : "<b>Law 20 : Scrum</b>"
+                                    },
+                                    { "type" : "definition",
+                                      "value" : "<b>DEFINITIONS</b><br/><br/><i>Amend 2nd paragraph:</i><br/><br/>A scrum is formed in the field of play when five players from each team, bound together in two rows for each team, close up with their opponents so that the heads of the front rows are interlocked. This creates a tunnel into which a scrum half throws the ball so that front row players can compete for possession by hooking the ball with either of their feet.<br/><br/><i>Delete paragraphs 10 and 11.</i>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>(e) <b>Number of players: five.</b><br/><br/>A scrum must have five players from each team at all times. All five players must stay bound to the scrum until it ends. Each front row must have three players in it, no more and no less. Two locks must form the second row by binding together so that their heads are between a prop and the hooker.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font><br/><br/><i>Delete</i><br/><br/><b>Exception</b>"
+                                    }]
+                        },
+                        {"section" : "20.10 Ending the scrum",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>(c) No player in the scrum may unbind to play the ball.<br/><br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    }]
+                        },
+                        {"section" : "21.3 How the penalty and free kicks are taken",
+                         "sectioncontents": [
+                                    { "type" : "lawtitle",
+                                      "value" : "<b>Law 21 : Penalty and Free Kicks</b>"
+                                    },
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>(a) Any player may take a penalty or free kick awarded for an infringement with any kind of kick: punt, drop kick but not a place kick. The ball may be kicked with any part of the leg from below the knee to the toe but not with the heel."
+                                    }]
+                        },
+                        {"section" : "21.4 Penalty and free kick options and requirements",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<i>Amend</i><br/><br/>(b) <b>No delay.</b> If a kicker indicates to the referee the intention to kick at goal, the kick must be taken within thirty seconds of the penalty having been awarded. If the 30 seconds is exceeded the kick is disallowed, a scrum is ordered at the place of the mark and the opponents throw in the ball."
+                                    }]
+                        }]
+        }
+    ]
+}

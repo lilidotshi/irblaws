@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import android.graphics.Color;
+import android.graphics.Point;
 import android.media.MediaPlayer;
 import android.media.MediaPlayer.OnErrorListener;
 import android.net.Uri;
@@ -11,6 +12,7 @@ import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.text.Html;
 import android.util.Log;
+import android.view.Display;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.MotionEvent;
@@ -26,6 +28,7 @@ import com.eightbyeight.irblaws.jsonobjects.Content;
 import com.eightbyeight.irblaws.jsonobjects.Law;
 import com.eightbyeight.irblaws.jsonobjects.Laws;
 import com.eightbyeight.irblaws.jsonobjects.Section;
+import com.eightbyeight.irblaws.views.CustomVideoView;
 import com.eightbyeight.irblaws.views.ImageCaptionView;
 
 /**
@@ -40,6 +43,7 @@ public class ContentFragment extends Fragment{
 	private static final String SECTION_HEADER_TYPE = "sectionheader";
 	private static final String VIDEO_TYPE = "video";
 	private static final String AMENDMENT_TYPE = "amendment";
+	private static final String LAW_TITLE = "lawtitle";
 	private String mSectionHeader;
 	private int mLawNumber;
 	private ArrayList<VideoView> mVideoViews = new ArrayList<VideoView>();
@@ -113,6 +117,11 @@ public class ContentFragment extends Fragment{
 				TextView amendmentView = (TextView) createTextView(content);
 				amendmentView.setBackgroundResource(R.drawable.blue_rounded);
 				views.add(amendmentView);
+			} else if (content.getType().equalsIgnoreCase(LAW_TITLE)){
+				TextView titleView = (TextView) createTextView(content);
+				titleView.setBackgroundResource(R.drawable.dark_blue_rounded);
+				titleView.setTextColor(Color.WHITE);
+				views.add(titleView);
 			}
 		}
 		return views;
@@ -172,16 +181,23 @@ public class ContentFragment extends Fragment{
 	//For videoviews
 	//TODO create some error handling for buffering, no internet, etc
 	private View createVideoView(Content content){
-		VideoView videoView = new VideoView(getActivity());
+		CustomVideoView videoView = new CustomVideoView(getActivity());
 		videoView.setBackgroundResource(R.drawable.play);
 		//Set the parameters for the video
-		LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(LayoutParams.MATCH_PARENT,550);
+		LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(LayoutParams.MATCH_PARENT,LayoutParams.MATCH_PARENT);
 		params.gravity = Gravity.CENTER_HORIZONTAL;
 		params.bottomMargin = 20;
 		params.topMargin = 20;
 		videoView.setLayoutParams(params);
         //URI either from net
         videoView.setVideoURI(Uri.parse(content.getValue()));
+        
+        //Resize video
+		Display display = getActivity().getWindowManager().getDefaultDisplay();
+		Point size = new Point();
+		display.getSize(size);
+		videoView.resizeVideo(size.x-40, (int)((size.x - 40)*.5) );
+
         //TODO implement own version of videoview
         final VideoView constantVideoView = videoView;
         videoView.setOnErrorListener(new OnErrorListener(){

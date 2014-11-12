@@ -1,0 +1,325 @@
+{
+    "laws" : [
+        { "name" : "Law 22: - In-Goal",
+          "content" : [ {"section" : "Definitions",
+                         "sectioncontents": [
+                                    { "type" : "definition",
+                                      "value" : "<b>DEFINITIONS</b><br/><br/>In-goal is part of the ground as defined in Law 1 where the ball may be grounded by players from either team.<br/><br/>When attacking players are first to ground the ball in the opponents’ in-goal, the attacking players score a try.<br/><br/>When defending players are first to ground the ball in in-goal, the defending players make a touch down.<br/><br/>A defending player who has one foot on the goal line or in the in-goal who receives the ball is considered to have both feet in in-goal."
+                                    }]
+                         },
+                         {"section" : "22.1 Grounding the ball",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["grounding_the_ball"],
+                                      "extras" : "<b>Grounding the ball</b>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "There are two ways a player can ground the ball:<br/><br/>(a) <b>Player touches the ground with the ball.</b> A player grounds the ball by holding the ball and touching the ground with it, in in-goal. ‘Holding’ means holding in the hand or hands, or in the arm or arms. No downward pressure is required."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2366-grounding.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2367-grounding.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) <b>Player presses down on the ball.</b> A player grounds the ball when it is on the ground in the in-goal and the player presses down on it with a hand or hands, arm or arms, or the front of the player’s body from waist to neck inclusive."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2368-presses-down.mp4"
+                                    }]
+                         },
+                         {"section" : "22.2 Picking up the ball",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "Picking up the ball from the ground is not grounding it. A player may pick up the ball in the in-goal and ground it elsewhere in the in-goal."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2369-picking-up.mp4"
+                                    }]
+                         },
+                         {"section" : "22.3 Ball grounded by an attacking player",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Try.</b> When an attacking player who is onside is first to ground the ball in the opponents’ in-goal, the player scores a try. This applies whether an attacking or a defending player is responsible for the ball being in the in-goal."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2370-try.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) When an attacking player who has possession of the ball grounds the ball in in-goal and simultaneously contacts the touch-in-goal line or the dead-ball-line (or anywhere beyond), a 22m drop-out is awarded to the defending team."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2371-simul-grounding.mp4"
+                                    }]
+                         },
+                         {"section" : "22.4 Other ways to score a try",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Grounded on the goal line.</b> The goal line is part of the in-goal. If an attacking player is first to ground the ball on the opponents’ goal line, a try is scored."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2372-grounded-on-goal-line.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) <b>Grounded against a goal post.</b> The goal posts and padding surrounding them are part of the goal line, which is part of in-goal. If an attacking player is first to ground the ball against a goal post or padding, a try is scored."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2373-try-against-post.mp4"
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["try_against_post"],
+                                      "extras" : "<b>Scoring a try - grounded against the goal post</b>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) <b>Pushover try.</b> A scrum or ruck cannot take place in the in-goal. If a scrum or ruck is pushed into the in-goal, an attacking player may legally ground the ball as soon as the ball reaches or crosses the goal line and a try is scored."
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["pushover_try"]
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2345-scrum-in-in-goal.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) <b>Momentum try.</b> If an attacking player with the ball is tackled short of the goal line but the player’s momentum carries the player in a continuous movement along the ground into the opponents’ in-goal, and the player is first to ground the ball, a try is scored."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2244-momentum-try.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) <b>Tackled near the goal line.</b> If a player is tackled near to the opponents’ goal line so that this player can immediately reach out and ground the ball on or over the goal line, a try is scored"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2374-tackled-near-line.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(f) In this situation, defending players who are on their feet may legally prevent the try by pulling the ball from the tackled player’s hands or arms, but must not kick the ball."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2375-defenders-prevent-try.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(g) <b>Player in touch or touch-in-goal.</b> If an attacking player is in touch or in touch-in-goal, the player can score a try by grounding the ball in the opponents’ in-goal provided the player is not carrying the ball."
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["touch_in_goal_try_scored"],
+                                      "extras" : "<b>Player in touch-in-goal, not carrying the ball but grounding the ball and scoring a try</b>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(h) <b>Penalty try.</b> A penalty try is awarded if a try would probably have been scored but for foul play by the defending team. A penalty try is awarded if a try would probably have been scored in a better position but for foul play by the defending team."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2019-penalty-try.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(i) A penalty try is awarded between the goal posts. The defending team may charge the conversion kick after a penalty try."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2376-penalty-try-conversion.mp4"
+                                    }]
+                         },
+                         {"section" : "22.5 Ball grounded by a defending player",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Touch down.</b> When defending players are first to ground the ball in their in-goal, it results in a touch down."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2377-touch-down.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) <b>Player in touch or touch-in-goal.</b> If defending players are in touch-in-goal, they can make a touch down by grounding the ball in their in-goal provided they are not carrying the ball.<br/><br/>(c) <b>Grounded against a goal post.</b> The goal posts and padding surrounding them are part of the goal line. If a defending player is first to ground the ball against a goal post or padding, the result is a touch down."
+                                    }]
+                         },
+                         {"section" : "22.6 Scrum, ruck or maul pushed into in-goal",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "A scrum, ruck or maul can take place only in the field of play. As soon as a scrum, ruck or maul is pushed across the goal line, a player may legally ground the ball.This results in a touch down or try."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2378-pushed-into-in-goal.mp4"
+                                    }]
+                         },
+                         {"section" : "22.7 Restarting after a touch down",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) When an attacking player sends or carries the ball into the opponents’ in-goal and it becomes dead there, either because a defender grounded it or because it went into touch-in-goal or on or over the dead ball line, a drop-out is awarded."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2379-touch-down-restart.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) If an attacking player knocks-on or throws-forward in the field of play and the ball goes into the opponents’ in-goal and it is made dead there, a scrum is awarded where the knock-on or throw forward happened."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2380-knock-on-in-goal.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) If, at a kick-off or drop-out, the ball is kicked into the opponents’ in-goal without having touched or been touched by a player and a defending player grounds it there or makes it dead without delay, the defending team have two choices:<br/><br/>&emsp;- To have a scrum formed at the centre of the line from which the kick was taken and they throw in the ball; or<br/><br/>&emsp;- To have the other team kick off or drop out again.<br/><br/>(d) If a defending player threw or took the ball into the in-goal, and a defending player grounded it, and there has been no infringement, play is restarted by a 5-metre scrum. The position of the scrum is in line with where the ball has been touched down. The attacking side throws in the ball."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2381-defender-in-goal.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) If a defending team has put the ball into their own in-goal and a defending player kicks the ball so that is charged down in in-goal and then made dead, the attacking side is awarded a 5-metre scrum in line with where the ball is made dead and they throw in the ball."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2382-in-goal-charge-down.mp4"
+                                    }]
+                         },
+                         {"section" : "22.8 Ball kicked dead through in-goal",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2383-kick-dead.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2384-kick-dead.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "If a team kicks the ball through their opponents’ in-goal into touch-in-goal or on or over the dead ball line, except by an unsuccessful kick at goal or attempted dropped goal, the defending team has two choices:<br/><br/>&emsp;- To have a drop-out, or<br/><br/>&emsp;- To have a scrum at the place where the ball was kicked and they throw in."
+                                    }]
+                         },
+                         {"section" : "22.9 Defending player in in-goal",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) A defending player who has part of one foot in in-goal is considered to have both feet in in-goal.<br/><br/>(b) If a player with one or both feet on or behind the goal line, picks up the ball, which was stationary within the field of play, that player has picked up the ball in the field of play and thereby that player has taken the ball into in-goal.<br/><br/>(c) If a player with one or both feet on or behind the goal line picks up the ball, which was in motion within the field of play, that player has picked up the ball within in-goal."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2385-moving-ball-grounded.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) If a player with one or both feet on or behind the dead ball line, picks up the ball, which was stationary within in-goal, that player deemed has picked up the ball in in-goal and thereby that player has made the ball dead.<br/><br/>(e) If a player with one or both feet on or behind the dead ball line picks up the ball, which was in motion within in-goal, that player has picked up the ball outside the playing area."
+                                    }]
+                         },
+                         {"section" : "22.10 Ball held up in-goal",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "When a player carrying the ball is held up in the in-goal so that the player cannot ground the ball, the ball is dead. A 5-metre scrum is formed. This would apply if play similar to a maul takes place in in-goal. The attacking team throws in the ball."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2386-held-up.mp4"
+                                    }]
+                         },
+                         {"section" : "22.11 Ball dead in in-goal",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) When the ball touches the touch-in-goal line or the dead ball line, or touches anything or anyone beyond those lines, the ball becomes dead. If the ball was played into in-goal by the attacking team, a drop-out shall be awarded to the defending team. If the ball was played into in-goal by the defending team, a 5-metre scrum shall be awarded and the attacking team throws in the ball."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2387-dead-5m.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2388-dead-22m.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) When a player carrying the ball touches the touch-in-goal line, the dead ball line, or touches the ground beyond those lines, the ball becomes dead. If the ball was carried into in-goal by the attacking team, a drop-out shall be awarded to the defending team. If the ball was carried into in-goal by the defending team, a 5-metre scrum shall be awarded and the attacking team throws in the ball."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2389-dead-5m.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2390-dead-5m.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) When a player scores a try or makes a touch down, the ball becomes dead."
+                                    }]
+                         },
+                         {"section" : "22.12 Ball or player touching a flag or flag (corner) post",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "If the ball or a player carrying the ball touches a flag or a flag (corner) post at the intersection of the touch-in-goal lines and the goal lines or at the intersection of the touch-in-goal lines and the dead ball lines without otherwise being in touch or touch-in-goal the ball is not out of play unless it is first grounded against a flag post."
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["touches_corner_post"],
+                                      "extras" : "<b>Player touches corner post before ball is grounded</b>"
+                                    }]
+                         },
+                         {"section" : "22.13 Attacking infringement with scrum sanction",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "If an attacking player commits an infringement in in-goal, for which the sanction is a scrum, for example, a knock-on, play is restarted with a 5-metre scrum. The scrum is formed in line with the place of the infringement and the defending team throws in the ball."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2391-attacking-scrum.mp4"
+                                    }]
+                         },
+                         {"section" : "22.14 Defending infringement with scrum sanction",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "If a defending player infringes in in-goal, for which the sanction is a scrum, for example, a knock-on, play is restarted with a 5-metre scrum. The scrum is formed in line with the place of the infringement and the attacking team throws in the ball."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2392-defending-scrum.mp4"
+                                    }]
+                         },
+                         {"section" : "22.15 Doubt about grounding",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "If there is doubt about which team first grounded the ball in the in-goal, play is re-started by a 5-metre scrum, in line with the place where the ball was grounded. The attacking team throws in the ball."
+                                    }]
+                         },
+                         {"section" : "22.16 Infringements in in-goal",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "All infringements in the in-goal are treated as if they had taken place in the field of play.<br/><br/>A knock-on or a throw forward in the in-goal results in a 5-metre scrum, opposite the place of infringement.<br/><font color=\"red\"><b>Sanction:</b> For an infringement, the mark for a penalty kick or free kick cannot be in the in-goal. When a penalty kick or free kick is awarded for an infringement in the In-goal, the mark for the kick is in the field of play, 5 metres from the goal line, opposite the place of infringement.</font>"
+                                    }]
+                         },
+                         {"section" : "22.17 Misconduct or unfair play in in-goal",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Obstruction by the attacking team.</b> When a player charges or intentionally obstructs an opponent in the in-goal who has just kicked the ball, the opponent’s team may choose to take the penalty kick either in the field of play, 5 metres from the goal line opposite the place of infringement, or where the ball landed.<br/><br/>If they make the second choice and the ball lands in or near touch, the mark for the penalty kick is 15 metres from the touchline, opposite where the ball went into touch or where it landed.<br/><br/>A try is disallowed and a penalty kick awarded if a try would probably not have been scored but for foul play by the attacking team.<br/><br/>(b) <b>Foul play by the defending team.</b> The referee awards a penalty try if a try would probably have been scored but for foul play by the defending team.<br/><br/>The referee awards a penalty try if a try would probably have been scored in a better position but for foul play by the defending team.<br/><br/>A penalty try is awarded between the goal posts. The defending team may charge the conversion kick after a penalty try.<br/><br/>A player who prevents a try being scored through foul play must either be cautioned and temporarily suspended or sent off.<br/><br/>(c) <b>Any other foul play.</b> When a player commits any other foul play in the in-goal while the ball is out of play, the penalty kick is awarded at the place where the game would otherwise have re-started.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    }]
+                         }]
+        }
+    ]
+}
