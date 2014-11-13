@@ -1,0 +1,36 @@
+{
+   "refsignals" :
+      [
+         {
+            "name" : "Primary Signals",
+            "content" :
+               [
+                  {
+                     "image" : "thumb_1",
+                     "text" : "Penalty Kick",
+                     "video" : "http://www.irblaws.com/videos/signals/01.mp4"
+                  },
+                  {
+                     "image" : "thumb_2",
+                     "text" : "Free Kick",
+                     "video" : "http://www.irblaws.com/videos/signals/02.mp4"
+                  },
+                  {
+                     "image" : "thumb_3",
+                     "text" : "Try and Penalty Try",
+                     "video" : "http://www.irblaws.com/videos/signals/03.mp4"
+                  },
+                  {
+                     "image" : "thumb_4",
+                     "text" : "Advantage",
+                     "video" : "http://www.irblaws.com/videos/signals/04.mp4"
+                  },
+                  {
+                     "image" : "thumb_5",
+                     "text" : "Scrum Awarded",
+                     "video" : "http://www.irblaws.com/videos/signals/05.mp4"
+                  }
+               ]
+         }
+      ]
+}
