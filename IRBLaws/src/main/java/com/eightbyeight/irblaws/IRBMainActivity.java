@@ -2,6 +2,7 @@ package com.eightbyeight.irblaws;
 
 import java.util.ArrayList;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentTransaction;
@@ -100,7 +101,11 @@ public class IRBMainActivity extends ActionBarActivity{
 				ft.addToBackStack(null);
 				ft.commit();
 			} else if (v.getId() == R.id.refSigs){
-
+                Intent refSignalsIntent = new Intent(getActivity(),GridActivity.class);
+                Bundle extras = new Bundle();
+                extras.putString("filename","ref_signals.json");
+                refSignalsIntent.putExtras(extras);
+                startActivity(refSignalsIntent);
             }
 		}
 	}

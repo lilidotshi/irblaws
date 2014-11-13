@@ -15,13 +15,13 @@ import android.view.MenuItem;
 import com.eightbyeight.irblaws.jsonobjects.Laws;
 
 public class ReaderActivity extends ActionBarActivity implements
-		NavigationDrawerFragment.NavigationDrawerCallbacks {
+		ReaderNavigationDrawerFragment.NavigationDrawerCallbacks {
 
 	/**
 	 * Fragment managing the behaviors, interactions and presentation of the
 	 * navigation drawer.
 	 */
-	private NavigationDrawerFragment mNavigationDrawerFragment;
+	private ReaderNavigationDrawerFragment mReaderNavigationDrawerFragment;
 
 	/**
 	 * Used to store the last screen title. For use in
@@ -54,7 +54,7 @@ public class ReaderActivity extends ActionBarActivity implements
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_reader);
 		// Set up the drawer.
-		mNavigationDrawerFragment.setUp(R.id.navigation_drawer,
+		mReaderNavigationDrawerFragment.setUp(R.id.navigation_drawer,
 				(DrawerLayout) findViewById(R.id.drawer_layout));
         mPager = (ViewPager) findViewById(R.id.pager);
         mPagerAdapter = new ScreenSlidePagerAdapter(getSupportFragmentManager());
@@ -68,7 +68,7 @@ public class ReaderActivity extends ActionBarActivity implements
 		setUpVariablesForBundle(position);
 		mTitle = mLaws.getLaws().get(mLawNumber).getLawName();
 		
-		mNavigationDrawerFragment = (NavigationDrawerFragment) getSupportFragmentManager()
+		mReaderNavigationDrawerFragment = (ReaderNavigationDrawerFragment) getSupportFragmentManager()
 				.findFragmentById(R.id.navigation_drawer);
 
 		if (mPager != null)
@@ -100,7 +100,7 @@ public class ReaderActivity extends ActionBarActivity implements
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
-		if (!mNavigationDrawerFragment.isDrawerOpen()) {
+		if (!mReaderNavigationDrawerFragment.isDrawerOpen()) {
 			// Only show items in the action bar relevant to this screen
 			// if the drawer is not showing. Otherwise, let the drawer
 			// decide what to show in the action bar.
@@ -125,8 +125,8 @@ public class ReaderActivity extends ActionBarActivity implements
 	
 	@Override
 	public void onBackPressed() {
-		if (mNavigationDrawerFragment != null && mNavigationDrawerFragment.isDrawerOpen()){
-			mNavigationDrawerFragment.closeDrawer();
+		if (mReaderNavigationDrawerFragment != null && mReaderNavigationDrawerFragment.isDrawerOpen()){
+			mReaderNavigationDrawerFragment.closeDrawer();
 		} else {
 			super.onBackPressed();
 		}
