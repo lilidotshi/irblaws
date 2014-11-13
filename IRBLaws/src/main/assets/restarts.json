@@ -1,0 +1,980 @@
+{
+    "laws" : [
+        { "name" : "Law 19: - Touch and Lineout",
+          "content" : [ {"section" : "Definitions",
+                         "sectioncontents": [
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\"><b>TOUCH</b></font>"
+                                    },
+                                    { "type": "definition",
+                                      "value" : "<b>DEFINITIONS</b><br/><br/>'Kicked directly into touch' means that the ball was kicked into touch without landing on the playing area, and without touching a player or the referee.<br/><br/>'The 22' is the area between the goal line and the 22-metre line, including the 22-metre line but excluding the goal line.<br/><br/>The line of touch is an imaginary line in the field of play at right angles to the touchline through the place where the ball is thrown in.<br/><br/>The ball is in touch when it is not being carried by a player and it touches the touchline or anything or anyone on or beyond the touchline.<br/><br/>The ball is in touch when a player is carrying it and the ball carrier (or the ball) touches the touchline or the ground beyond the touchline. The place where the ball carrier (or the ball) touched or crossed the touchline is where it went into touch.<br/><br/>The ball is in touch if a player catches the ball and that player has a foot on the touchline or the ground beyond the touchline. If a player has one foot in the field of play and one foot in touch and holds the ball, the ball is in touch.<br/><br/>If the ball crosses the touchline or touch-in-goal line, and is caught by a player who has both feet in the playing area, the ball is not in touch or touch-in-goal. Such a player may knock the ball into the playing area.<br/><br/>If a player jumps and catches the ball, both feet must land in the playing area otherwise the ball is in touch or touch-in-goal.<br/><br/>A player in touch may kick or knock the ball, but not hold it, provided it has not crossed the plane of the touchline. The plane of the touchline is the vertical space rising immediately above the touchline."
+                                    }]
+                         },
+                         {"section" : "19.1 Throw-in",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\"><b>NO GAIN IN GROUND</b></font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Outside a team’s 22, a team member kicks directly into touch.</b> Except for a penalty kick, when a player anywhere in the field of play who is outside the 22 kicks directly into touch, there is no gain in ground. The throw-in is taken either at the place opposite where the player kicked the ball, or at the place where it went into touch, whichever is nearer that player’s goal line."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2283-touch-on-full.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) <b>When a team causes the ball to be put into their own 22.</b> When a defending player plays the ball from outside the 22 and it goes into that player’s 22 or in-goal area without touching an opposition player and then that player or another player from that team kicks the ball directly into touch before it touches an opposition player, or a tackle takes place or a ruck or maul is formed, there is no gain in ground. This applies when a defending player moves back behind the 22 metre line to take a quick throw-in and then the ball is kicked directly into touch."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2091-no-gain-22-passback.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2284-touch-on-full-inside-22.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2285-touch-on-full-inside-22.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) If a player with one or both feet inside the 22 metre line, picks up the ball which was stationary outside the 22 metre line, and kicks it directly into touch, then the player has taken the ball back inside the 22-metre line, so there is no gain in ground.<br/><br/>(d) <b>Defending team takes ball into their own 22 at a scrum or lineout.</b> When a defending team throws the ball into a scrum or lineout outside that team’s 22 and the ball then crosses into the team’s 22 without touching an opposition player and then a player from the defending team kicks the ball directly into touch before it touches an opposition player, or a tackle takes place or a ruck or maul is formed, there is no gain in ground."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2286-touch-from-scrum.mp4"
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["no_gain_in_ground"],
+                                      "extras" : "<b>No gain in ground</b>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\"><b>GAIN IN GROUND</b></font><br/><br/>(e) If a player with one or both feet inside the 22 metre line, picks up the ball which was in motion outside the 22 metre line, and kicks it directly into touch from within the 22 metre area, the throw-in is where the ball went into touch.<br/><br/>(f) <b>Player takes ball into their own 22.</b> When a defending player plays the ball from outside the 22 and it goes into that player’s 22 or in-goal area and it touches an opposition player, or a tackle takes place or a ruck or maul is formed and then the ball is kicked by a player of that team directly into touch, the throw-in is where the ball went into touch."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2287-touch-on-full-inside-22.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(g) <b>Ball put into a player’s 22 by the opposition.</b> When the ball is put into a team’s 22 by the opposition, without having touched (or been touched by) a player of the defending team before crossing the 22 and the ball is then kicked into touch by the defending team, the throw-in is where the ball went into touch."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2288-touch-on-full-inside-22.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(h) <b>Kicks indirectly into touch.</b> When a player anywhere in the playing area kicks indirectly into touch so that the ball bounces in the field of play the throw-in is taken where the ball went into touch."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2289-touch-indirectly.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "When a player anywhere in the playing area kicks the ball so that it touches or is touched by an opposition player and then goes indirectly into touch so that the ball bounces in the field of play the throw-in is taken where the ball went into touch."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2290-touch-indirectly.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "When a player anywhere in the playing area kicks the ball so that it touches or is touched by an opposition player and then goes directly into touch the throw-in is taken in line with where the opposition player touched the ball or where the ball crossed the touchline if that is nearer the opposition player’s goal line."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2291-touch-directly.mp4"
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["gain_in_ground"],
+                                      "extras" : "<b>Gain in ground</b>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\"><b>PENALTY KICK</b></font><br/><br/>(i) <b>Penalty kick.</b> When a player kicks to touch from a penalty kick anywhere in the playing area, the throw-in is taken where the ball went into touch."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2292-touch-from-penalty.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<font color=\"#008000\"><b>FREE KICK</b></font><br/><br/>(j) <b>Outside the kicker’s 22, no gain in ground.</b> When a free kick awarded outside the 22 goes directly into touch, the throw-in is in line with where the ball was kicked, or where it went into touch, whichever is nearer the kicker’s goal line."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2293-touch-from-free-kick.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(k) <b>Inside the kicker’s 22 or in-goal, gain in ground.</b> When a free kick is awarded in the 22 or in-goal and the kick goes directly into touch, the throw-in is where the ball went into touch."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2294-touch-from-free-kick.mp4"
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["touch_and_throw_in"],
+                                      "extras" : "<b>Touch and throw-in</b>"
+                                    }]
+                         },
+                         {"section" : "19.2 Quick throw-in",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2295-quick-throw-in.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) A player may take a quick throw-in without waiting for a lineout to form."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2092-quick-throw-in.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) For a quick throw in, the player may be anywhere outside the field of play between the place where the ball would be thrown in from a formed lineout and the player’s goal line.<br/><br/>(c) A player must not take a quick throw-in after the lineout has formed. If the player does, the quick throw-in is disallowed. The same team throws in at the lineout.<br/><br/>(d) For a quick throw-in, the player must use the ball that went into touch. A quick throw-in is not permitted if another person has touched the ball apart from the player throwing it in and an opponent who carried it into touch. The same team throws into the lineout."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2296-quick-throw-different-ball.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) An incorrect quick throw-in occurs when:<br/><br/>&emsp;- The ball is thrown towards the opponents goal line, or<br/><br/>&emsp;- The ball is thrown in ahead of the line of touch, or<br/><br/>&emsp;- The ball is thrown in on or behind the goal line, or<br/><br/>&emsp;- The ball touches the ground or a player before reaching the 5 metre line, or<br/><br/>&emsp;- The thrower steps into the field-of-play when throwing the ball.<br/><br/>The opposing team’s choices are to elect to throw in at either:<br/><br/>&emsp;- a lineout where the quick throw was attempted, or<br/><br/>&emsp;- a scrum on the 15-metre line at that place.<br/><br/>If they, too, throw in the ball incorrectly at the lineout, a scrum is formed on the 15 metre line. The team that first threw in the ball throws in the ball at the scrum<br/><br/>(f) At a quick throw-in a player may throw the ball in straight along the line of touch or towards that player’s goal line.<br/><br/>(g) At a quick throw-in, a player may come to the line of touch and leave without being penalised.<br/><br/>(h) At a quick throw-in, a player must not prevent the ball being thrown in 5 metres.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick on 15-metre line</font><br/><br/>(i) If a player carrying the ball is forced into touch, that player must release the ball to an opposition player so that there can be a quick throw-in.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on 15-metre line</font>"
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["quick_throw_in_post"],
+                                      "extras" : "<b>Quick throw-in</b>"
+                                    }]
+                         },
+                         {"section" : "19.3 Other throw ins",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "On all other occasions, the throw-in is taken where the ball went into touch."
+                                    }]
+                         },
+                         {"section" : "19.4 Who throws in",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) The throw-in is taken by an opponent of the player who last held or touched the ball before it went into touch. When there is doubt, the attacking team takes the throw-in.<br/><br/><b>Exception:</b> When a team takes a penalty kick, and the ball is kicked into touch, the throw-in is taken by a player of the team that took the penalty kick. This applies whether the ball was kicked directly or indirectly into touch.<br/><br/>(b) When the ball goes into touch from a knock-on, the non-offending team will be offered the choice of a lineout at the point the ball crossed the touch line; or a scrum at the place of the knock-on. The non-offending team may exercise this option by taking a quick throw-in."
+                                    }]
+                         },
+                         {"section" : "19.5 Player with foot in touch",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) If a player with one or both feet on or beyond the touch-line (or touch-in-goal line), picks up the ball, which was stationary within the playing area, that player has picked up the ball in the playing area and thereby that player has taken the ball into touch (or touch-in-goal).<br/><br/>(b) If a player with one or both feet on or beyond the touch-line (or touch-in-goal line), picks up the ball, which was in motion within the playing area, that player is deemed to have picked up the ball in touch (or touch-in-goal)."
+                                    }]
+                         },
+                         {"section" : "19.6 How the throw-in is taken",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "The player taking the throw-in must stand at the correct place. The player must not step into the field of play when the ball is thrown. The ball must be thrown straight, so that it travels at least 5 metres along the line of touch before it first touches the ground or touches or is touched by a player."
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["how_throw_in_takes_place"],
+                                      "extras" : "<b>How the throw-in takes place</b>"
+                                    }]
+                         },
+                         {"section" : "19.7 Incorrect throw-in",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) If the throw-in at a lineout is incorrect, the opposing team has the choice of throwing in at a lineout or a scrum on the 15-metre line. If they choose the throw-in to the lineout and it is again incorrect, a scrum is formed. The team that took the first throw-in throws in the ball."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2297-throw-not-straight.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) The throw-in at the lineout must be taken without delay and without pretending to throw.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2093-lineout-feigning.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) A player must not intentionally or repeatedly throw the ball in not straight.<br/><font color=\"red\"><b>Sanction: </b>Penalty kick on the 15-metre line</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<br/><font color=\"#008000\"><b>LINEOUT</b></font>"
+                                    },
+                                    { "type" : "definition",
+                                      "value" : "<b>DEFINITIONS</b><br/><br/>The purpose of the lineout is to restart play, quickly, safely and fairly, after the ball has gone into touch, with a throw-in between two lines of players.<br/><br/><b>Lineout players.</b> Lineout players are the players who form the two lines that make a lineout.<br/><br/><b>Receiver.</b> The receiver is the player in position to catch the ball when lineout players pass or knock the ball back from the lineout. Any player may be the receiver but each team may have only one receiver at a lineout.<br/><br/><b>Players taking part in the lineout known as participating players.</b> Players taking part in the lineout are the player who throws-in and an immediate opponent, the two players waiting to receive the ball from the lineout and the lineout players.<br/><br/><b>All other players.</b> All other players who are not taking part in the lineout must be at least 10 metres behind the line of touch, on or behind their goal line if that is nearer, until the lineout ends.<br/><br/><b>15-metre line.</b> The 15-metre line is 15 metres infield and parallel with the touchline.<br/><br/><b>Scrum after lineout.</b> Any scrum ordered because of an infringement or stoppage at the lineout is on the 15-metre line on the line of touch."
+                                    }]
+                         },
+                         {"section" : "19.8 Forming a lineout",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["lineout"],
+                                      "extras" : "<b>The lineout</b>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Minimum.</b> At least two players from each team must form a lineout.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) <b>Maximum.</b> The team throwing in the ball decides the maximum number of players in the lineout."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2298-lineout-maximum.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) The opposing team may have fewer lineout players but they must not have more.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2299-lineout-too-many-players.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) When the ball is in touch, every player who approaches the line of touch is presumed to do so to form a lineout. Players who approach the line of touch must do so without delay. Players of either team must not leave the lineout once they have taken up a position in the lineout until the lineout has ended.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2300-lineout-delay.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) If the team throwing in the ball put fewer than the usual number of players in the lineout, their opponents must be given a reasonable time to move enough players out of the lineout to satisfy this Law.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(f) These players must leave the lineout without delay. They must move to the offside line, 10 metres behind the line of touch. If the lineout ends before they reach this line, they may rejoin play.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(g) <b>Failure to form a lineout.</b> A team must not voluntarily fail to form a lineout.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(h) <b>Where the lineout players must stand.</b> The front of the lineout is not less than 5 metres from the touchline. The back of the lineout is not more than 15 metres from the touchline. All lineout players must stand between these two points.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2301-lineout-not-5.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(i) <b>Where the receiver must stand.</b> If a team uses a receiver, then that player, must be positioned at least 2m back from team mates in the lineout, and between the 5m and 15m lines, until the lineout begins.<br/><br/>Once the lineout has commenced, the receiver may move into the lineout and may perform all actions available to players in the lineout and is liable to related sanctions.<br/><font color=\"#008000\"><b>Sanction: </b>Free kick on the 15 metre line along the line of touch</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2302-receiver.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(j) <b>Player between touch and 5 metres.</b> The team not throwing in must have a player standing between the touchline and the 5-metre line on that team’s side of the line of touch when the lineout is formed. That player must stand <b>2 metres from the line of touch</b> and 2 metres from the 5-metre line.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2303-noone-in-channel.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(k) Participating players in a lineout may change places before the ball is thrown.<br/><br/>(l) <b>Two single straight lines.</b> The lineout players of both teams form two single parallel lines each at right angles to the touchline.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2304-two-single-straight-lines.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(m) Opposing players forming a lineout must keep a clear space between their inside shoulders. This space is determined when players are in an upright stance.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2305-clear-space.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(n) <b>Metre gap.</b> Each line of players must be half a metre on their side of the line of touch.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2306-gap.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(o) The line of touch must not be within 5 metres of the goal line.<br/><br/>(p) After the lineout has formed, but before the ball has been thrown in, a player must not hold, push, charge into, or obstruct an opponent.<br/><font color=\"red\"><b>Sanction: </b>Penalty kick on the 15-metre line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2307-lineout-barging.mp4"
+                                    }]
+                         },
+                         {"section" : "19.9 Beginning and ending a lineout",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Lineout begins.</b> The lineout begins when the ball leaves the hands of the player throwing it in."
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) <b>Lineout ends.</b> The lineout ends when the ball or a player carrying it leaves the lineout."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2308-lineout-ends-thrown.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2309-lineout-ends-5m-channel.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2310-lineout-thrown-beyond-15.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2311-lineout-ends-maul-formed.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "This includes the following:<br/><br/>&emsp;- When the ball is thrown, knocked or kicked out of the lineout, the lineout ends.<br/><br/>&emsp;- When the ball or a player carrying the ball moves into the area between the 5-metre line and the touchline, the lineout ends.<br/><br/>&emsp;- When a lineout player hands the ball to a player who is peeling off, the lineout ends.<br/><br/>&emsp;- When the ball is thrown beyond the 15-metre line, or when a player takes or puts it beyond that line, the lineout ends.<br/><br/>&emsp;- When a ruck or maul develops in a lineout, and all the feet of all the players in the ruck or maul move beyond the line of touch, the lineout ends.<br/><br/>&emsp;- When the ball becomes unplayable in a lineout, the lineout ends. Play restarts with a scrum."
+                                    }]
+                         },
+                         {"section" : "19.10 Options available in a lineout",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["lineout_actions"]
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Levering on an opponent.</b> A lineout player must not use an opponent as a support when jumping.<br/><font color=\"red\"><b>Sanction: </b>Penalty kick on the 15-metre line</font><br/><br/>(b) <b>Holding or shoving.</b> A lineout player must not hold, push, charge, obstruct or grasp an opponent not holding the ball except when a ruck or maul is taking place.<br/><font color=\"red\"><b>Sanction: </b>Penalty kick on the 15-metre line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2094-lineout-barging.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) <b>Illegal charging.</b> A lineout player must not charge an opponent except in an attempt to tackle the opponent or to play the ball.<br/><font color=\"red\"><b>Sanction: </b>Penalty kick on the 15-metre line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2312-lineout-charging.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) <b>Lifting and supporting.</b> Players may assist a team-mate in jumping for the ball by lifting and supporting that player providing that the lifting and/or supporting players do not support the jumping team-mate below the shorts from behind or below the thighs from the front.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line</font><br/><br/>(e) <b>Pre-gripping is permitted.</b> Players who are going to lift or support a team-mate jumping for the ball may pre-grip that team-mate providing they do not pre-grip below the shorts from behind and below the thighs from the front.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line</font><br/><br/>(f) <b>Jumping, supporting or lifting before the ball is thrown.</b> A player must not jump or be lifted or supported before the ball has left the hands of the player throwing in.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2095-lineout-early-lifting.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(g) <b>Lowering a Player.</b> Players who support a jumping team-mate must lower that player to the ground as soon as the ball has been won by a player of either team.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line</font><br/><br/>(h) Blocking the throw-in. A lineout player must not stand less than 5 metres from the touchline. A lineout player must not prevent the ball being thrown in 5 metres.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line</font><br/><br/>(i) When the ball has been thrown beyond a player in the lineout, that player may move to the space between the touchline and the 5-metre line. If the player moves into that space the player must not move towards that player’s goal line before the lineout ends, except in a peeling off movement.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line</font><br/><br/>(j) <b>Catching or deflecting.</b> When jumping for the ball, a player must use either both hands or the inside arm to try to catch or deflect the ball. The jumper must not use the outside arm alone to try to catch or deflect the ball. If the jumper has both hands above the head either hand may be used to play the ball.<br/><br/>(k) <b>Defending at a lineout.</b> A player who jumps and gains possession of the ball in the lineout may be tackled immediately upon returning to the ground.<br/><br/>A player who gains possession of the ball in a lineout without jumping may be tackled immediately.<br/><br/>In both cases, these actions must be commenced before a maul has formed.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on 15-metre line</font>"
+                                    }]
+                         },
+                         {"section" : "19.11 Player throwing-in",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "There are four options available to the player throwing in:<br/><br/>(a) The thrower may stay within 5 metres of the touchline.<br/><br/>(b) The thrower may retire to the offside line 10 metres behind the line of touch.<br/><br/>(c) The thrower may join the lineout as soon as the ball has been thrown in.<br/><br/>(d) The thrower may move into the receiver position if that position is empty. If the thrower goes anywhere else, the thrower is offside.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on 15-metre line</font>"
+                                    }]
+                         },
+                         {"section" : "19.12 Peeling off",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "definition",
+                                      "value" : "<b>DEFINITIONS</b><br/><br/>A lineout player 'peels off' when leaving the lineout to catch the ball knocked or passed back by a team-mate."
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>When:</b> A player must not peel off until the ball has left the hands of the player throwing it in.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line, in line with the line of touch.</font><br/><br/>(b) A player who peels off, must stay within the area from that player’s line of touch to 10 metres from the line of touch, and must keep moving until the lineout has ended.<br/><font color=\"#008000\"><b>Sanction: </b>Free Kick on the 15-metre line, in line with the line of touch.</font><br/><br/>(c) Players may change their positions in the lineout before the ball is thrown in."
+                                    }]
+                         },
+                         {"section" : "19.13 Offside lines at the lineout",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) When a lineout forms, there are two separate offside lines, parallel to the goal lines, for the teams.<br/><br/> (b) <b>Participating players.</b> One offside line applies to the players taking part in the lineout (usually some or all of the forwards, plus the scrum half and the player throwing in). Until the ball is thrown in, and has touched a player or the ground, this offside line is the line of touch. After that, the offside line is a line through the ball.<br/><br/>(c) <b>Players not taking part.</b> The other offside line applies to the players not taking part in the lineout (usually the backs). For them, the offside line is 10 metres behind the line of touch or their goal line, if that is nearer."
+                                    }]
+                         },
+                         {"section" : "19.14 Offside when taking part in the lineout",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Before the ball has touched a player or the ground.</b> A player must not overstep the line of touch. A player is offside if, before the ball has touched a player or the ground, that player oversteps the line of touch, unless doing so while jumping for the ball. The player must jump from that player’s side of the line of touch.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on 15-metre line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2097-lineout-offside.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) If a player jumps and crosses the line of touch but fails to catch the ball, that player is not penalised provided that player gets back onside without delay.<br/><br/>Players jumping for the ball may take a step in any direction providing they do not step across the line of touch.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on 15-metre line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2313-lineout-across-lot.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) <b>After the ball has touched a player or the ground.</b> A player not carrying the ball is offside if, after the ball has touched a player or the ground, that player steps in front of the ball, unless tackling (or trying to tackle) an opponent. Any attempt to tackle must start from that player’s side of the ball.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on 15-metre line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2096-lineout-offside.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) The referee must penalise any player who, intentionally or not, moves into an offside position without trying to win possession or tackle an opponent.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on 15-metre line</font><br/><br/>(e) No player of either team participating in the lineout may leave the lineout until it has ended.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on 15-metre line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2314-lineout-leaving.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(f) <b>Long throw-in.</b> If the player who is throwing in throws the ball beyond the 15-metre line, a player taking part in the lineout may run infield beyond the 15-metre line as soon as the ball leaves the hands of the player throwing in.<br/><br/>If this happens, an opponent may also run infield. If a player runs infield to take a long throw in, and the ball is not thrown beyond the 15-metre line, this player is offside and must be penalised.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on 15-metre line</font><br/><br/>(g) <b>Ruck and maul from a lineout.</b> When a ruck or a maul develops in a lineout the offside line for a player taking part in the lineout no longer runs through the ball. The offside line is now the hindmost foot of that player’s team in the ruck or maul.<br/><br/>(h) The lineout ends when the ruck or maul leaves the line of touch. For this to happen, all the feet of all the players in the ruck or maul must have left the line of touch.<br/><br/>(i) A player taking part in the lineout must either join the ruck or maul, or retire to the offside line and stay at that line, otherwise that player is offside.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on 15-metre line</font><br/><br/>(j) The rest of the Law of ruck or maul applies. A player must not join the ruck or maul from the opponents’ side.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font><br/><br/>(k) Players must not join it in front of the offside line. If they do, they are offside.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on 15-metre line</font>"
+                                    }]
+                         },
+                         {"section" : "19.15 Offside when not taking part in the lineout",
+                         "sectioncontents": [
+                                    { "type" : "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) A player who is not taking part in the lineout is offside if that player oversteps the offside line before the lineout has ended.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on the offending team’s offside line opposite the place of infringement, at least 15 metres from the touchline.</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2315-lineout-backline-offside.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) <b>Players not yet onside when the ball is thrown in.</b> A player may throw in the ball even if a team-mate has not yet reached the offside line. However, if this player is not trying to reach an onside position without delay, this player is offside.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on the offending team’s offside line opposite the place of infringement, at least 15 metres from the touchline</font><br/><br/>(c) <b>Long throw in.</b> If the player who is throwing in throws the ball beyond the 15-metre line, a player of the same team may run forward to take the ball as soon as the ball leaves the hands of the player throwing in. If that player does so, opponents may also run forward. If a player runs forward to take a long throw in, and the ball is not thrown beyond the 15-metre line, this player is offside and must be penalised.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on the offending team’s offside line opposite the place of infringement, at least 15 metres from the touchline</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2316-lineout-offside.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) <b>Ruck and maul from a lineout.</b> When a ruck or maul develops in a lineout, the lineout has not ended until all the feet of all the players in the ruck or maul have moved beyond the line of touch.<br/><br/>Until then, the offside line for players not taking part in the lineout is still 10 metres behind the line of touch, or the goal line if that is nearer. A player who oversteps this offside line is offside.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on the offside line, at least 15 metres from the touchline</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2317-lineout-ruck-offside.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2318-lineout-maul-offside.mp4"
+                                    }]
+                         }]
+        },
+        { "name" : "Law 20: - Scrum",
+          "content" : [ {"section" : "Definitions",
+                         "sectioncontents": [
+                                    { "type": "definition",
+                                      "value" : "<b>DEFINITIONS</b><br/><br/>The purpose of the scrum is to restart play quickly, safely and fairly, after a minor infringement or a stoppage.<br/><br/>A scrum is formed in the field of play when eight players from each team, bound together in three rows for each team, close up with their opponents so that the heads of the front rows are interlocked. This creates a tunnel into which a scrum half throws the ball so that front row players can compete for possession by hooking the ball with either of their feet.<br/><br/>The middle line of a scrum must not be within 5 metres of the goal line. A scrum cannot take place within 5 metres of a touchline.<br/><br/>The tunnel is the space between the two front rows.<br/><br/>The player of either team who throws the ball into the scrum is the scrum half.<br/><br/>The middle line is an imaginary line on the ground in the tunnel beneath the line where the shoulders of the two front rows meet.<br/><br/>The middle player in each front row is the hooker.<br/><br/>The players on either side of the hooker are the props. The left side props are the loose head props. The right side props are the tight head props.<br/><br/>The two players in the second row who push on the props and the hooker are the locks.<br/><br/>The outside players who bind onto the second or third row are the flankers.<br/><br/>The player in the third row who usually pushes on both locks is the No.8. Alternatively, the No. 8 may push on a lock and a flanker."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2319-scrum-definition.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2320-scrum-5m.mp4"
+                                    }]
+                         },
+                         {"section" : "20.1 Forming a scrum",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Where the scrum takes place.</b> The place for a scrum is where the infringement or stoppage happened, or as near to it as is practicable in the field of play, unless otherwise stated in Law."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2321-scrum-location.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) If this is less than 5 metres from a touchline, the place for the scrum is 5 metres from that touchline. A scrum can take place only in the field of play. The middle line of a scrum must not be within 5 metres of the goal line when it is formed."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2322-scrum-5m-from-touch.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) If there is an infringement or stoppage in in-goal, the place for the scrum is 5 metres from the goal-line. The scrum is formed in line with the infringement or stoppage."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2323-scrum-in-goal.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) <b>No delay.</b> A team must not intentionally delay forming a scrum.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2324-scrum-not-coming-together.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) <b>Number of players: eight.</b> A scrum must have eight players from each team. All eight players must stay bound to the scrum until it ends. Each front row must have three players in it, no more and no less. Two locks must form the second row.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2351-backrow-offside.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<b>Exception:</b> When a team is reduced to fewer than fifteen for any reason, then the number of players of each team in the scrum may be similarly reduced. Where a permitted reduction is made by one team, there is no requirement for the other team to make a similar reduction. However, a team must not have fewer than five players in the scrum.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2325-scrum-seven-players.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(f) <b>Front rows coming together.</b> First, the referee marks with a foot the place where the scrum is to be formed. Before the two front rows come together they must be standing not more than an arm’s length apart. The ball is in the scrum half’s hands, ready to be thrown in. The front rows must crouch so that when they meet, each player’s head and shoulders are no lower than the hips. The front rows must interlock so that no player’s head is next to the head of a team-mate.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2324-scrum-not-coming-together.mp4"
+                                    },
+                                    { "type" : "amendment",
+                                      "value" : "<font color=\"red\"><b><i>LAW AMENDMENT TRIAL</i></b></font><br/><br/>(g) The referee will call \"crouch\" and then \"bind\". The front rows crouch and using their outside arm each prop must bind. A loose-head prop must bind on the opposing tight-head prop by placing the left arm inside the right arm of the tight head and gripping the tight-head prop’s jersey on the back or side. A tight-head prop must bind on the opposing loose-head prop by placing the right arm outside the left upper arm of the opposing loose-head prop and gripping the loose-head prop’s jersey with the right hand only on the back or side. The props must not grip the opponent’s chest, arm, sleeve or collar. Following a pause, the referee will then call \"set\" when the front rows are ready. The front rows may then engage. The \"set\" call is not a command but an indication that the front rows may come together when ready. The sanction for any infringement will be a free kick.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(h) A crouched position is the extension of the normal stance by bending the knees sufficiently to move into the engagement without a charge.<br/><br/>(i) <b>Charging.</b> A front row must not form at a distance from its opponents and rush against them or pull them. This is dangerous play.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font><br/><br/>(j) <b>Stationary and parallel.</b> Until the ball leaves the scrum half’s hands, the scrum must be stationary and the middle line must be parallel to the goal lines. A team must not shove the scrum away from the mark before the ball is thrown in.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2327-scrum-not-stationary.mp4"
+                                    }]
+                         },
+                         {"section" : "20.2 Front-row players’ positions",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>All players in a position to shove.</b> When a scrum has formed, the body and feet of each front row player must be in a normal position to make a forward shove.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) This means that the front row players must have both feet on the ground, with their weight firmly on at least one foot. Players must not cross their feet, although the foot of one player may cross a team-mate’s foot. Each player’s shoulders must be no lower than the hips.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) <b>Hooker in a position to hook.</b> Until the ball is thrown in, the hooker must be in a position to hook the ball. The hookers must have both feet on the ground, with their weight firmly on at least one foot. A hooker’s foremost foot must not be in front of the foremost foot of that team’s props.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    }]
+                         },
+                         {"section" : "20.3 Binding in the scrum",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "definition",
+                                      "value" : "<b>DEFINITIONS</b><br/><br/>When a player binds on a team-mate that player must use the whole arm from hand to shoulder to grasp the team-mate’s body at or below the level of the armpit. Placing only a hand on another player is not satisfactory binding."
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Binding by all front row players.</b> All front row players must bind firmly and continuously from the start to the finish of the scrum.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) <b>Binding by hookers.</b> The hooker may bind either over or under the arms of the props. The props must not support the hooker so that the hooker has no weight on either foot.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) <b>Binding by loose head props.</b> A loose head prop must bind on the opposing tight head prop by placing the left arm inside the right arm of the tight head and gripping the tight head prop’s jersey on the back or side. The loose head prop must not grip the chest, arm, sleeve or collar of the opposition tight head prop. The loose head prop must not exert any downward pressure.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["binding_by_props"],
+                                      "extras" : "<b>Binding by props</b>" 
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) <b>Binding by tight head props.</b> A tight head prop must bind on the opposing loose head prop by placing the right arm outside the left upper arm of the opposing loose head prop. The tight head prop must grip the loose head prop’s jersey with the right hand only on the back or side. The tight head prop must not grip the chest, arm, sleeve or collar of the opposition loose head prop. The tight head prop must not exert any downward pressure.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2328-scrum-th-binding.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) Both the loose head and tight head props may alter their bind providing they do so in accordance with this Law.<br/><br/>(f) <b>Binding by all other players.</b> All players in a scrum, other than front-row players, must bind on a lock’s body with at least one arm prior to the scrum engagement. The locks must bind with the props in front of them. No other player other than a prop may hold an opponent.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2329-scrum-binding.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(g) <b>Flanker obstructing opposing scrum half.</b> A flanker may bind onto the scrum at any angle, provided the flanker is properly bound. The flanker must not widen that angle and so obstruct the opposing scrum half moving forward.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2332-flanker-obstructing.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(h) <b>Scrum collapse.</b> If a scrum collapses, the referee must blow the whistle immediately so that players stop pushing."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2330-scrum-collapse.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(i) <b>Player forced upwards.</b> If a player in a scrum is lifted in the air, or is forced upwards out of the scrum, the referee must blow the whistle immediately so that players stop pushing."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2331-player-forced-upwards.mp4"
+                                    }]
+                         },
+                         {"section" : "20.4 The team throwing the ball into the scrum",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) After an infringement, the team that did not cause the infringement throws in the ball."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2321-scrum-location.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) Scrum after ruck. Refer to Law 16.7."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2270-ruck-ends-unsuccessfully.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) Scrum after maul. Refer to Law 17.6."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2085-maul-collapse.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) <b>Scrum after any other stoppage.</b> After any other stoppage or irregularity not covered by Law, the team that was moving forward before the stoppage throws in the ball. If neither team was moving forward, the attacking team throws in the ball."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2323-scrum-in-goal.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) When a scrum remains stationary and the ball does not emerge immediately a further scrum is ordered at the place of the stoppage. The ball is thrown in by the team not in possession at the time of the stoppage.<br/><br/>(f) When a scrum becomes stationary and does not start moving immediately, the ball must emerge immediately. If it does not a further scrum will be ordered. The ball is thrown in by the team not in possession at the time of the stoppage.<br/><br/>(g) If a scrum collapses or lifts up into the air without sanction a further scrum will be ordered and the team who originally threw in the ball will throw the ball in again."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2334-scrum-collapse.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "If a scrum has to be reformed for any other reason not covered in this Law the team who originally threw in the ball will throw the ball in again."
+                                    }]
+                         },
+                         {"section" : "20.5 Throwing the ball into the scrum",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "<b>No Delay.</b> As soon as the front rows have come together, the scrum half must throw in the ball without delay. The scrum half must throw in the ball when told to do so by the referee. The scrum half must throw in the ball from the side of the scrum first chosen.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2335-feed-delay.mp4"
+                                    }]
+                         },
+                         {"section" : "20.6 How the scrum half throws in the ball",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["throw_in_to_scrum_1","throw_in_to_scrum_2"],
+                                      "extras" : "<b>Throw-in at the scrum</b>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) The scrum half must stand one metre from the mark on the middle line so that player’s head does not touch the scrum or go beyond the nearest front row player.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) The scrum half must hold the ball with both hands, with its major axis parallel to the ground and to the touchline over the middle line between the front rows, mid-way between knee and ankle.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) The scrum half must throw in the ball at a quick speed. The ball must be released from the scrum half’s hands from outside the tunnel.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) The scrum half must throw in the ball straight along the middle line, so that it first touches the ground immediately beyond the width of the nearer prop’s shoulders.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2336-crooked-feed.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) The scrum half must throw in the ball with a single forward movement. This means that there must be no backward movement with the ball. The scrum half must not pretend to throw the ball.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    }]
+                         },
+                         {"section" : "20.7 When the scrum begins",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) Play in the scrum begins when the ball leaves the hands of the scrum half.<br/><br/>(b) If the scrum half throws in the ball and it comes out at either end of the tunnel, the ball must be thrown in again unless a free kick or penalty has been awarded.<br/><br/>(c) If the ball is not played by a front row player, and it goes straight through the tunnel and comes out behind the foot of a far prop without being touched, the scrum half must throw it in again."
+                                    }]
+                         },
+                         {"section" : "20.8 Front-row players",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Striking before the throw-in ('foot up').</b> All front row players must place their feet to leave a clear tunnel. Until the ball has left the scrum half’s hands, they must not raise or advance a foot. They must not do anything to stop the ball being thrown in to the scrum correctly or touching the ground at the correct place.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2337-hooker-foot-up.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) <b>Striking after the throw-in.</b> Once the ball touches the ground in the tunnel, any front row player may use either foot to try to win possession of the ball.<br/><br/>(c) <b>Kicking-out.</b> A front row player must not intentionally kick the ball out of the tunnel in the direction from which it was thrown in.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font><br/><br/>(d) If the ball is kicked out unintentionally, the same team must throw it in again.<br/><br/>(e) If the ball is repeatedly kicked out, the referee must treat this as intentional and penalise the offender.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font><br/><br/>(f) <b>Swinging.</b> A front row player must not strike for the ball with both feet. No player may intentionally raise both feet from the ground, either when the ball is being thrown in or afterwards.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font><br/><br/>(g) <b>Twisting, dipping or collapsing.</b> Front row players must not twist or lower their bodies, or pull opponents, or do anything that is likely to collapse the scrum, either when the ball is being thrown in or afterwards.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2338-collapsing.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(h) Referees must penalise strictly any intentional collapsing of the scrum. This is dangerous play.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2339-collapsing.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(i) <b>Lifting or forcing an opponent up.</b> A front row player must not lift an opponent in the air, or force an opponent upwards out of the scrum, either when the ball is being thrown in or afterwards. This is dangerous play.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2340-pushing-up.mp4"
+                                    }]
+                         },
+                         {"section" : "20.9 Scrum - general restrictions",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>All players: Collapsing.</b> A player must not intentionally collapse a scrum. A player must not intentionally fall or kneel in a scrum. This is dangerous play.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2341-collapsing.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) <b>All players: Handling in the scrum.</b> Players must not handle the ball in the scrum or pick it up with their legs.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2342-hands-in-scrum.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) <b>All players: Other restrictions on winning the ball.</b> Players must not try to win the ball in the scrum by using any part of their body except their foot or lower leg.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) <b>All players: When the ball comes out, leave it out.</b> When the ball has left the scrum, a player must not bring it back in to the scrum.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2343-scrum-ball-back-in.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) <b>All players: No falling on the ball.</b> A player must not fall on or over the ball as it is coming out of the scrum.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font><br/><br/>(f) <b>Locks and flankers:</b> Staying out of the tunnel. A player who is not a front row player must not play the ball in the tunnel.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font><br/><br/>(g) <b>Scrum half: Kicking in the scrum.</b> A scrum half must not kick the ball while it is in the scrum.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font><br/><br/>(h) <b>Scrum half: Dummying.</b> A scrum half must not take any action to make the opponents think that the ball is out of the scrum while it is still in the scrum.<br/><font color=\"#008000\"><b>Sanction:</b> Free Kick</font><br/><br/>(i) <b>Scrum half: Holding opposing flanker.</b> A scrum half must not grasp an opposing flanker.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    }]
+                         },
+                         {"section" : "20.10 Ending the scrum",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>The ball comes out.</b> When the ball comes out of the scrum in any direction except the tunnel, the scrum ends."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2344-scrum-ends-ball-out.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) <b>Scrum in the in-goal.</b> A scrum cannot take place in the in-goal. When the ball in a scrum is on or over the goal line, the scrum ends and an attacker or a defender may legally ground the ball for a try or a touch down."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2345-scrum-in-in-goal.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) <b>Hindmost player unbinds.</b> The hindmost player in a scrum is the player whose feet are nearest the team’s own goal line. If the hindmost player unbinds from the scrum with the ball at that player’s feet and picks up the ball, the scrum ends."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2346-scrum-ends-player-unbinds.mp4"
+                                    }]
+                         },
+                         {"section" : "20.11 Scrum wheeled",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) If a scrum is wheeled through more than 90 degrees, so that the middle line has passed beyond a position parallel to the touchline, the referee must stop play and order another scrum.<br/><br/>(b) This new scrum is formed at the place where the previous scrum ended. The ball is thrown in by the team not in possession at the time of the stoppage. If neither team win possession, it is thrown in by the team that previously threw it in."
+                                    }]
+                         },
+                         {"section" : "20.12 Offside at the scrum",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) When the scrum is set, the scrum half not throwing the ball into the scrum must take up a position either at the same side of the scrum as the scrum half throwing in the ball or behind the offside line defined for other players."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2347-scrum-half-position.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) <b>Offside for scrum-halves.</b> When a team has won the ball in a scrum, the scrum half of that team is offside if both feet are in front of the ball while it is still in the scrum. If the scrum half has only one foot in front of the ball, the scrum half is not offside.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2348-offside-scrum-halves.mp4"
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["scrum_offside"],
+                                      "extras" : "<b>Scrum offside</b>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) When a team has won the ball in a scrum, the scrum half of the opposing team is offside if that scrum half steps in front of the ball with either foot while the ball is still in the scrum.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(d) The scrum half whose team does not win possession of the ball must not move to the opposite side of the scrum and overstep the offside line. For that scrum half that runs through the hindmost foot of that player’s team in the scrum.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) The scrum half whose team does not win possession of the ball must not move away from the scrum and then remain in front of the offside line. For that scrum half that runs through the hindmost foot of that player’s team in the scrum.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(f) Any player may be scrum half, but a team can have only one scrum half at each scrum.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on the offside line</font>"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(g) <b>Offside for players not in the scrum.</b> Players who are not in the scrum and who are not the team’s scrum half, are offside if they remain in front of their offside line or overstep the offside line which is a line parallel to the goal lines and 5 metres behind the hindmost player of each team in a scrum.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on the offside line</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2349-scrum-offside.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2350-scrum-offside.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(h) If the hindmost foot of a team is on or behind that team’s goal line, the offside line for scrum halves and non-participants is the goal line.<br/><br/>(i) <b>Loitering.</b> When a scrum is forming, players not taking part in it must retire to their offside line without delay. If they do not, they are loitering. Loiterers must be penalised.<br/><font color=\"red\"><b>Sanction:</b> Penalty kick on the offside line</font>"
+                                    }]
+                         },
+                         {"section" : "20.13 Under 19 variations in adult matches",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "A Union may implement the Under 19 Scrum Law Variations at defined levels of the Game within its jurisdiction."
+                                    }]
+                         }]
+        },
+        { "name" : "Law 21: - Penalty and Free Kicks",
+          "content" : [ {"section" : "Definitions",
+                         "sectioncontents": [
+                                    { "type": "definition",
+                                      "value" : "<b>DEFINITIONS</b><br/><br/>Penalty kicks and free kicks are awarded to the non-offending team for infringements by their opponents."
+                                    }]
+                         },
+                         {"section" : "21.1 Where penalty and free kicks are awarded",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "Unless a Law states otherwise, the mark for a penalty or free kick is at the place of infringement."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2352-penalty-where.mp4"
+                                    }]
+                         },
+                         {"section" : "21.2 Where penalty and free kicks are taken",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) The kicker must take the penalty or free kick at the mark or anywhere behind it on a line through the mark. If the place for a penalty or free kick is within 5 metres of the opponents’ goal line, the mark for the kick is 5 metres from the goal line, opposite the place of infringement.<br/><br/>(b) When a penalty or free kick is awarded in in-goal, the mark for the kick is in the field of play, 5 metres from the goal line, in line with the place of infringement.<br/><font color=\"red\"><b>Sanction:</b> Any infringement by the kicker’s team results in a scrum 5 metres from the goal line in line with the mark. The opposing team throws in the ball.</font><br/><br/>(c) If a quickly taken penalty kick or free kick is taken from the wrong place the referee will order the kick to be taken again."
+                                    }]
+                         },
+                         {"section" : "21.3 How the penalty and free kicks are taken",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) Any player may take a penalty or free kick awarded for an infringement with any type of kick: punt, drop kick or place kick. The ball may be kicked with any part of the lower leg from knee to the foot, excluding the knee and the heel.<br/><br/>(b) Bouncing the ball on the knee is not taking a kick.<br/><font color=\"red\"><b>Sanction:</b> Any infringement by the kicker’s team results in a scrum at the mark. The opposing team throws in the ball.</font><br/><br/>(c) The kicker must use the ball that was in play unless the referee decides it was defective.<br/><font color=\"red\"><b>Sanction:</b> Any infringement by the kicker’s team results in a scrum at the mark. The opposing team throws in the ball.</font>"
+                                    }]
+                         },
+                         {"section" : "21.4 Penalty and free kick options and requirements",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Scrum alternative.</b> A team awarded a penalty or free kick may choose a scrum instead. They throw in the ball."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2353-scrum-alternative.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) <b>Lineout alternative.</b> A team awarded a penalty or a free kick at a lineout may choose a further lineout into which they throw in. This is in addition to the scrum option.<br/><br/>(c) <b>No delay.</b> If a kicker indicates to the referee the intention to kick a penalty kick at goal, the kick must be taken within one minute from the time the player indicates the intention to kick at goal. The intention to kick is signalled by the arrival of the kicking tee or sand, or when the player makes a mark on the ground. The player must complete the kick within one minute even if the ball rolls over and has to be placed again. If the one minute is exceeded, the kick is disallowed, a scrum is ordered at the place of the mark and the opponents throw in the ball. For any other type of kick, the kick must be taken without undue delay.<br/><br/>(d) <b>A clear kick.</b> The kicker must kick the ball a visible distance. If the kicker is holding it, it must clearly leave the hands. If it is on the ground, it must clearly leave the mark."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2354-clear-kick.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) <b>Place kicking for touch.</b> The kicker may punt or drop kick for touch but must not place kick for touch."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2355-kick-for-touch.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(f) <b>Kicker’s freedom of action.</b> The kicker is free to kick the ball in any direction and may play the ball again.<br/><br/>(g) <b>Kick taken in the in-goal.</b> If a player retires into in-goal to take a penalty or free kick awarded in the field of play and a defending player by foul play prevents an opponent from scoring a try a penalty try is awarded.<br/><br/>(h) <b>Out of play in the in-goal.</b> If a player retires into in-goal to take a penalty or free kick awarded in the field of play and following the kick the ball goes into touch-in-goal, or on or over the dead ball line, or a defending player makes the ball dead before it has crossed the goal line, a 5-metre scrum is awarded. The attacking team throws in the ball.<br/><br/>(i) <b>Behind the ball.</b> All the kicker’s team at a penalty or free kick must be behind the ball until it has been kicked, except the placer for a place kick."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2356-behind-ball.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(j) <b>Kick taken quickly.</b> If the penalty or free kick is taken so quickly that players of the kicker’s team are still in front of the ball, they are not penalised for being offside. However, they must retire immediately. They must not stop retiring until they are onside. They must not take part in the game until they are onside. This applies to all players of that team, whether they are inside or outside the playing area."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2358-tap-penalty.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(k) In this situation, players become onside when they run behind the team-mate who took the penalty or free kick, or when a team-mate carrying the ball runs in front of them, or when a team-mate who was behind the ball when it was kicked runs in front of them.<br/><br/>(l) An offside player cannot be put onside by any action of an opponent.<br/><font color=\"red\"><b>Sanction:</b> Unless otherwise stated in Law any infringement by the kicker’s team results in a scrum at the mark. The opposing team throw in the ball.</font>"
+                                    }]
+                         },
+                         {"section" : "21.5 Scoring a goal from a penalty kick",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2357-penalty-goal.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) A penalty goal can be scored from a penalty kick.<br/><br/>(b) If the kicker indicates to the referee the intention to kick at goal, the kicker must kick at goal. Once the kicker has made the intention clear, there can be no change of the intention. The referee may enquire of the kicker as to the intention.<br/><br/>(c) If the kicker indicates to the referee the intent to kick at goal, the opposing team must stand still with their hands by their sides from the time the kicker starts to approach to kick until the ball is kicked.<br/><br/>(d) If the kicker has not indicated an intention to kick at goal but takes a drop kick and scores a goal, the goal stands.<br/><br/>(e) If the opposing team infringes while the kick is being taken but the kick at goal is successful, the goal stands. A further penalty is not awarded for the infringement.<br/><br/>(f) The kicker may place the ball directly on the ground or on sand, sawdust or a kicking tee approved by the Union.<br/><font color=\"red\"><b>Sanction:</b> Unless otherwise stated in Law any infringement by the kicker’s team results in a scrum at the mark. The opposing team throw in the ball.</font>"
+                                    },
+                                    { "type" : "image",
+                                      "images" : ["penalty_kick_at_goal"],
+                                      "extras" : "<b>Penalty kick at goal</b>"
+                                    }]
+                         },
+                         {"section" : "21.6 Scoring from a free kick",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) A goal cannot be scored from a free kick.<br/><br/>(b) The team awarded a free kick cannot score a dropped goal until after the ball next becomes dead, or until after an opponent has played or touched it, or has tackled the ball carrier. This restriction applies also to a scrum or lineout taken instead of a free kick."
+                                    }]
+                         },
+                         {"section" : "21.7 What the opposing team must do at a penalty kick",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Must run from the mark.</b> The opposing team must immediately run towards their own goal line until they are at least 10 metres away from the mark for the penalty kick, or until they have reached their goal line if that is nearer the mark."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2360-run-from-mark.mp4"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2359-run-from-mark.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) <b>Must keep running.</b> Even if the penalty kick is taken and the kicker’s team is playing the ball, opposing players must keep running until they have retired the necessary distance. They must not take part in the game until they have done so."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2361-keep-running.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) <b>Kick taken quickly.</b> If the penalty kick is taken so quickly that opponents have no opportunity to retire, they will not be penalised for this. However, they must continue to retire as described in 21.7(b) above or until a team-mate who was 10 metres from the mark has run in front of them, before they take part in the game.<br/><br/>(d) <b>Interference.</b> The opposing team must not do anything to delay the penalty kick or obstruct the kicker. They must not intentionally take, throw or kick the ball out of reach of the kicker or the kicker’s team mates.<br/><font color=\"red\"><b>Sanction:</b> Any infringement by the opposing team results in a second penalty kick, 10 metres in front of the mark for the first kick. This mark must not be within 5 metres of the goal line. Any player may take the kick. The kicker may change the type of kick and may choose to kick at goal. If the referee awards a second penalty kick, the second penalty kick is not taken before the referee has made the mark indicating the place of the penalty.</font>"
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2362-interference.mp4"
+                                    }]
+                         },
+                         {"section" : "21.8 What options the opposing team have at a free kick",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) <b>Must run from the mark.</b> The opposing team must immediately run towards their own goal line until they are at least 10 metres away from the mark for the free kick, or until they have reached their goal line if that is nearer the mark. If the free kick is in a defending teams in-goal area, the opposing team must immediately run towards their own goal line until they are at least 10 metres away from the mark and not nearer than 5 metres from the goal line."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2363-run-from-mark.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(b) <b>Must keep running.</b> Even if the free kick is taken and the kicker’s team is playing the ball, opposing players must keep running until they have retired the necessary distance. They must not take part in the game until they have done so."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2364-keep-running.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(c) <b>Kick taken quickly.</b> If the free kick is taken so quickly that opponents have no opportunity to retire, they will not be penalised for this. However, they must continue to retire as described in 21.8(b) above or until a team-mate who was 10 metres from the mark has run in front of them, before they take part in the game.<br/><br/>(d) <b>Interference.</b> The opposing team must not do anything to delay the free kick or obstruct the kicker. They must not intentionally take, throw or kick the ball out of reach of the kicker or the kicker’s team mates."
+                                    },
+                                    { "type" : "video",
+                                      "value" : "http://www.irblaws.com/videos/laws/2365-interference.mp4"
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(e) <b>Charging the free kick.</b> Once they have retired the necessary distance, players of the opposing team may charge and try to prevent the kick being taken. They may charge the free kick as soon as the kicker starts to approach to kick.<br/><br/>(f) <b>Preventing the free kick.</b> If the opposing team charge and prevent the free kick being taken, the kick is disallowed. Play restarts with a scrum at the mark. The opposing team throw in the ball.<br/><br/>(g) <b>Free kick taken in the in-goal.</b> If a free kick has been awarded and the player retires into in-goal to take it and the opponents charge and prevent the kick from being taken, a 5-metre scrum is ordered. The attacking team throws in the ball. If a free kick is taken in the in-goal, an opponent who legitimately plays it there can score a try.<br/><br/>(h) <b>Charged down.</b> If opponents charge down a free kick in the playing area, play continues.<br/><font color=\"red\"><b>Sanction:</b> Any infringement by the opposing team results in a second free kick, awarded 10 metres in front of the mark for the first kick. This mark must not be within 5 metres of the goal line. Any player may take the kick. If the referee awards a second free kick, the second free kick is not taken before the referee has made the mark indicating the place of the free kick.</font>"
+                                    }]
+                         },
+                         {"section" : "21.9 Contrived infringements at the penalty kick",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "If the referee believes that the kicker’s team has contrived an infringement by their opponents, the referee does not award a further penalty but allows play to continue."
+                                    }]
+                         },
+                         {"section" : "21.10 Contrived infringements at the free kick",
+                         "sectioncontents": [
+                                    { "type": "sectionheader",
+                                      "value" : ""
+                                    },
+                                    { "type" : "text",
+                                      "value" : "(a) The kicker must not pretend to kick. As soon as the kicker makes a move to kick, the opponents may charge.<br/><br/>(b) If the referee believes that the kicker’s team has contrived an infringement by their opponents, the referee does not award a further free kick but allows play to continue."
+                                    }]
+                         }]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\MPU\AndroidstudioProjects\irblaws\IRBLaws\build\intermediates\pre-dexed\test\debug\classes-f5742c49d05988710e4eb9e2678d0ec10442b63a.jar"
+        jar="C:\Users\MPU\AndroidstudioProjects\irblaws\IRBLaws\build\intermediates\bundles\debug\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f7a1c7174a1d4127795748d3e54d451218ba31f7"/>
+    <item
+        dex="C:\Users\MPU\AndroidstudioProjects\irblaws\IRBLaws\build\intermediates\pre-dexed\test\debug\classes-f7cbee0a0c977952676476842fe3af41326eb019.jar"
+        jar="C:\Users\MPU\AndroidstudioProjects\irblaws\IRBLaws\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="C:\Users\MPU\AndroidstudioProjects\irblaws\IRBLaws\build\intermediates\pre-dexed\test\debug\gson-2.3-5e1c7251a2abc4b76598dd1bc04df685f6ad6b13.jar"
+        jar="C:\Users\MPU\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce"/>
+    <item
+        dex="C:\Users\MPU\AndroidstudioProjects\irblaws\IRBLaws\build\intermediates\pre-dexed\debug\support-v4-19.1.0-780028e01c96a386c3fbdb60fde92a2a7e1efd1c.jar"
+        jar="C:\Users\MPU\Documents\Android\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Users\MPU\AndroidstudioProjects\irblaws\IRBLaws\build\intermediates\pre-dexed\debug\gson-2.3-5e1c7251a2abc4b76598dd1bc04df685f6ad6b13.jar"
+        jar="C:\Users\MPU\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce"/>
+    <item
+        dex="C:\Users\MPU\AndroidstudioProjects\irblaws\IRBLaws\build\intermediates\pre-dexed\test\debug\support-v4-19.1.0-780028e01c96a386c3fbdb60fde92a2a7e1efd1c.jar"
+        jar="C:\Users\MPU\Documents\Android\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Users\MPU\AndroidstudioProjects\irblaws\IRBLaws\build\intermediates\pre-dexed\debug\classes-f7cbee0a0c977952676476842fe3af41326eb019.jar"
+        jar="C:\Users\MPU\AndroidstudioProjects\irblaws\IRBLaws\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+
+</pre-dex-items>
