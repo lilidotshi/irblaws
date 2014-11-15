@@ -4,14 +4,14 @@
     tools:context="com.eightbyeight.irblaws.RefereeSignalsFragment">
 
     <GridView
-        android:id="@+id/gridview"
+        android:id="@+id/grid_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:columnWidth="90dp"
-        android:numColumns="auto_fit"
-        android:verticalSpacing="10dp"
+        android:numColumns="3"
+        android:gravity="center_horizontal"
         android:horizontalSpacing="10dp"
-        android:stretchMode="columnWidth"
-        android:gravity="center" />
+        android:verticalSpacing="10dp"
+        android:padding="10dp"
+        />
 
 </FrameLayout>

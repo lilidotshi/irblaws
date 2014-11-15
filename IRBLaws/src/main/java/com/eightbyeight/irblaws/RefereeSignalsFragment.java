@@ -55,7 +55,7 @@ public class RefereeSignalsFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View rootView = inflater.inflate(R.layout.fragment_referee_signals, container, false);
-        GridView gridview = (GridView) rootView.findViewById(R.id.gridview);
+        GridView gridview = (GridView) rootView.findViewById(R.id.grid_view);
         int sectionNumber = getArguments().getInt("sectionnumber");
         RefSignals signals = (RefSignals) getArguments().getSerializable("signals");
         if (sectionNumber == -1){
