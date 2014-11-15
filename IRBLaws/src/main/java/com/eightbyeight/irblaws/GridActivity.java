@@ -56,7 +56,7 @@ public class GridActivity extends ActionBarActivity
             getIntent().putExtra("refsignals",refSignals);
         }
         fragmentManager.beginTransaction()
-                .replace(R.id.container, RefereeSignalsFragment.newInstance(position-1, refSignals))
+                .replace(R.id.container, RefereeSignalsFragment.newInstance(position, refSignals))
                 .commit();
     }
 

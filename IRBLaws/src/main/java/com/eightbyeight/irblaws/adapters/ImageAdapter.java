@@ -35,7 +35,6 @@ public class ImageAdapter extends BaseAdapter{
 
     @Override
     public int getCount() {
-        Log.d("lili's test", "size is " + signals.size());
         return signals.size();
     }
 

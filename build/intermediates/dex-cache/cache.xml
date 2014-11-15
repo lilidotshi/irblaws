@@ -8,17 +8,17 @@
         revision="21.1.1"
         sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
     <item
-        dex="C:\Users\MPU\AndroidstudioProjects\irblaws\IRBLaws\build\intermediates\pre-dexed\debug\classes-d6afdb3c10bf8afa20ab1bdfaf493590bc7059b0.jar"
-        jar="C:\Users\MPU\AndroidstudioProjects\irblaws\IRBLaws\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.0\classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="95fd37732ec852e99f07eeb516a3650172f1d136"/>
-    <item
         dex="C:\Users\MPU\AndroidstudioProjects\irblaws\IRBLaws\build\intermediates\pre-dexed\debug\gson-2.3-5e1c7251a2abc4b76598dd1bc04df685f6ad6b13.jar"
         jar="C:\Users\MPU\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce"/>
+    <item
+        dex="C:\Users\MPU\AndroidstudioProjects\irblaws\IRBLaws\build\intermediates\pre-dexed\debug\classes-d6afdb3c10bf8afa20ab1bdfaf493590bc7059b0.jar"
+        jar="C:\Users\MPU\AndroidstudioProjects\irblaws\IRBLaws\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136"/>
     <item
         dex="C:\Users\MPU\AndroidstudioProjects\irblaws\IRBLaws\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-3ec5ff2d6eeec403c3c7510bca9b04512c795f17.jar"
         jar="C:\Users\MPU\AndroidstudioProjects\irblaws\IRBLaws\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"

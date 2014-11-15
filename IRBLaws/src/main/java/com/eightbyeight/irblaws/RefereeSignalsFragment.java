@@ -1,18 +1,32 @@
 package com.eightbyeight.irblaws;
 
 import android.app.Activity;
+import android.app.Service;
 import android.net.Uri;
 import android.os.Bundle;
+import android.support.v4.app.DialogFragment;
 import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
+import android.widget.Button;
 import android.widget.GridView;
+import android.widget.LinearLayout;
+import android.widget.MediaController;
+import android.widget.PopupWindow;
+import android.widget.TextView;
 import android.widget.Toast;
+import android.widget.VideoView;
 
 import com.eightbyeight.irblaws.adapters.ImageAdapter;
 import com.eightbyeight.irblaws.jsonobjects.RefSignals;
+import com.eightbyeight.irblaws.jsonobjects.Signal;
+import com.eightbyeight.irblaws.jsonobjects.Signals;
+
+import java.util.ArrayList;
 
 
 /**
@@ -23,10 +37,10 @@ import com.eightbyeight.irblaws.jsonobjects.RefSignals;
  * Use the {@link RefereeSignalsFragment#newInstance} factory method to
  * create an instance of this fragment.
  */
-public class RefereeSignalsFragment extends Fragment {
+public class RefereeSignalsFragment extends Fragment implements AdapterView.OnItemClickListener{
 
     private OnFragmentInteractionListener mListener;
-
+    private ArrayList<Signal> curFrgmtSignals;
     /**
      * Use this factory method to create a new instance of
      * this fragment using the provided parameters.
@@ -58,17 +72,16 @@ public class RefereeSignalsFragment extends Fragment {
         GridView gridview = (GridView) rootView.findViewById(R.id.grid_view);
         int sectionNumber = getArguments().getInt("sectionnumber");
         RefSignals signals = (RefSignals) getArguments().getSerializable("signals");
-        if (sectionNumber == -1){
-            gridview.setAdapter(new ImageAdapter(getActivity(),signals.getAllRefSignals()));
+
+        if (sectionNumber == 0){
+            curFrgmtSignals = signals.getAllRefSignals();
+            gridview.setAdapter(new ImageAdapter(getActivity(),curFrgmtSignals));
         } else {
-            gridview.setAdapter(new ImageAdapter(getActivity(),signals.getRefsignals().get(sectionNumber).getContent()));
+            curFrgmtSignals = signals.getRefsignals().get(sectionNumber).getContent();
+            gridview.setAdapter(new ImageAdapter(getActivity(),curFrgmtSignals));
         }
 
-        gridview.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            public void onItemClick(AdapterView<?> parent, View v, int position, long id) {
-                //Toast.makeText(HelloGridView.this, "" + position, Toast.LENGTH_SHORT).show();
-            }
-        });
+        gridview.setOnItemClickListener(this);
 
         return rootView;
     }
@@ -95,6 +108,17 @@ public class RefereeSignalsFragment extends Fragment {
     public void onDetach() {
         super.onDetach();
         mListener = null;
+    }
+
+    @Override
+    public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+        FragmentManager fm = getActivity().getSupportFragmentManager();
+
+        VideoDialogFragment videoDialogFragment = new VideoDialogFragment();
+        Bundle args = new Bundle();
+        args.putSerializable("cursignal",this.curFrgmtSignals.get(position));
+        videoDialogFragment.setArguments(args);
+        videoDialogFragment.show(fm,curFrgmtSignals.get(position).getText());
     }
 
     /**

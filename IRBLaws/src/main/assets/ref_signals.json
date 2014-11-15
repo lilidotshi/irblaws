@@ -1,6 +1,9 @@
 {
    "refsignals" :
       [
+         { "name" : "All Signals",
+           "content" : []
+         },
          {
             "name" : "Primary Signals",
             "content" :
@@ -8,26 +11,31 @@
                   {
                      "image" : "thumb_1",
                      "text" : "Penalty Kick",
+                     "description" : "Shoulders parallel with touchline. Arm angled up, pointing towards non-offending team.",
                      "video" : "http://www.irblaws.com/videos/signals/01.mp4"
                   },
                   {
                      "image" : "thumb_2",
                      "text" : "Free Kick",
+                     "description" : "Shoulders parallel with touchline. Arm bent square at elbow, upper arm pointing towards non-offending team.",
                      "video" : "http://www.irblaws.com/videos/signals/02.mp4"
                   },
                   {
                      "image" : "thumb_3",
                      "text" : "Try and Penalty Try",
+                     "description" : "Referee’s back to dead ball line. Arm raised vertically.",
                      "video" : "http://www.irblaws.com/videos/signals/03.mp4"
                   },
                   {
                      "image" : "thumb_4",
                      "text" : "Advantage",
+                     "description" : "Arm outstretched, waist high, towards non-offending team, for a period of approximately five seconds.",
                      "video" : "http://www.irblaws.com/videos/signals/04.mp4"
                   },
                   {
                      "image" : "thumb_5",
                      "text" : "Scrum Awarded",
+                     "description" : "Shoulders parallel with touch-line. Arm horizontal pointing towards team to throw in the ball.",
                      "video" : "http://www.irblaws.com/videos/signals/05.mp4"
                   }
                ]
@@ -39,181 +47,217 @@
                   {
                      "image" : "thumb_7",
                      "text" : "Throw Forward/Pass Forward",
+                     "description" : "Hands gesture as if passing an imaginary ball forward.",
                      "video" : "http://www.irblaws.com/videos/signals/07.mp4"
                   },
                   {
                      "image" : "thumb_8",
                      "text" : "Knock-on",
+                     "description" : "Arm out-stretched with open hand above head, and moves backwards and forwards.",
                      "video" : "http://www.irblaws.com/videos/signals/08.mp4"
                   },
                   {
                      "image" : "thumb_9",
                      "text" : "Not releasing ball immediately in the tackle",
+                     "description" : "Both hands are close to the chest, as if holding an imaginary ball.",
                      "video" : "http://www.irblaws.com/videos/signals/09.mp4"
                   },
                   {
                      "image" : "thumb_10",
                      "text" : "Tackler not releasing tackled player",
+                     "description" : "Arms brought together as if grasping a player and then opening as if releasing a player.",
                      "video" : "http://www.irblaws.com/videos/signals/10.mp4"
                   },
                   {
                      "image" : "thumb_11",
                      "text" : "Tackler or tackled player not rolling away",
+                     "description" : "A circular movement with the finger and arm moving away from the body.",
                      "video" : "http://www.irblaws.com/videos/signals/11.mp4"
                   },
                   {
                      "image" : "thumb_12",
                      "text" : "Entering tackle from wrong direction",
+                     "description" : "Arm held horizontal then sweep of the arm in a semi-circle.",
                      "video" : "http://www.irblaws.com/videos/signals/12.mp4"
                   },
                   {
                      "image" : "thumb_13",
                      "text" : "Intentionally falling over on player",
+                     "description" : "Curved arm makes gesture to imitate action of falling player. Signal is made in direction in which offending player fell.",
                      "video" : "http://www.irblaws.com/videos/signals/13.mp4"
                   },
                   {
                      "image" : "thumb_14",
                      "text" : "Diving to ground near tackle",
+                     "description" : "Straight arm gesture, pointing downwards to imitate diving action.",
                      "video" : "http://www.irblaws.com/videos/signals/14.mp4"
                   },
                   {
                      "image" : "thumb_15",
                      "text" : "Unplayable ball in ruck or tackle",
+                     "description" : "Award of scrum to team moving forward at time of stoppage. Shoulders parallel with the touch-line, arm horizontal pointing towards the team to throw in the ball, then pointing the arm and hand towards the other team’s goal line whilst moving it backwards and forwards.",
                      "video" : "http://www.irblaws.com/videos/signals/15.mp4"
                   },
                   {
                      "image" : "thumb_16",
                      "text" : "Unplayable ball in maul",
+                     "description" : "Arm out to award scrummage to side not in possession at maul commencement. Other arm out as if signalling advantage and then swing it across body with hand ending on opposite shoulder.",
                      "video" : "http://www.irblaws.com/videos/signals/16.mp4"
                   },
                   {
                      "image" : "thumb_17",
                      "text" : "Joining a ruck/maul in front of the back foot and from the side",
+                     "description" : "The hand and arm are held horizontally moving sideways.",
                      "video" : "http://www.irblaws.com/videos/signals/17.mp4"
                   },
                   {
                      "image" : "thumb_18",
                      "text" : "Intentionally collapsing ruck or maul",
+                     "description" : "Both arms at shoulder height as if bound around opponent. Upper body is lowered and twisted as if pulling down opponent who is on top.",
                      "video" : "http://www.irblaws.com/videos/signals/18.mp4"
                   },
                   {
                      "image" : "thumb_19",
                      "text" : "Prop pulling down opponent",
+                     "description" : "Clenched fist and arm bent. Gesture imitates pulling opponent down.",
                      "video" : "http://www.irblaws.com/videos/signals/19.mp4"
                   },
                   {
                      "image" : "thumb_20",
                      "text" : "Prop pulling opponent on",
+                     "description" : "Clenched fist and arm straight, at shoulder height. Gesture imitates pulling opponent on.",
                      "video" : "http://www.irblaws.com/videos/signals/20.mp4"
                   },
                   {
                      "image" : "thumb_21",
                      "text" : "Wheeling scrum more than 90 degrees",
+                     "description" : "Rotating index finger, above the head.",
                      "video" : "http://www.irblaws.com/videos/signals/21.mp4"
                   },
                   {
                      "image" : "thumb_22",
                      "text" : "Foot-up by front-row player",
+                     "description" : "Foot raised, foot touched.",
                      "video" : "http://www.irblaws.com/videos/signals/22.mp4"
                   },
                   {
                      "image" : "thumb_23",
                      "text" : "Throw in at scrum not straight",
+                     "description" : "Hands at knee level imitating action of throw in not straight.",
                      "video" : "http://www.irblaws.com/videos/signals/23.mp4"
                   },
                   {
                      "image" : "thumb_24",
                      "text" : "Failure to bind fully",
+                     "description" : "One arm out-stretched as if binding. Other hand moves up and down arm to indicate the extent of a full bind.",
                      "video" : "http://www.irblaws.com/videos/signals/24.mp4"
                   },
                   {
                      "image" : "thumb_25",
                      "text" : "Handling ball in ruck or scrum",
+                     "description" : "Hand at ground level, making sweeping action, as if handling the ball.",
                      "video" : "http://www.irblaws.com/videos/signals/25.mp4"
                   },
                   {
                      "image" : "thumb_26",
                      "text" : "Throw in at lineout not straight",
+                     "description" : "Shoulders parallel with touch-line. Hand above head indicates the path of the ball, not straight.",
                      "video" : "http://www.irblaws.com/videos/signals/26.mp4"
                   },
                   {
                      "image" : "thumb_27",
                      "text" : "Closing gaps in lineout",
+                     "description" : "Both hands at eye level, pointing up, palms inward. Hands meet in squeezing action.",
                      "video" : "http://www.irblaws.com/videos/signals/27.mp4"
                   },
                   {
                      "image" : "thumb_28",
                      "text" : "Barging in lineout",
+                     "description" : "Arm horizontal, elbow pointing out. Arm and shoulder move outwards as if barging opponent.",
                      "video" : "http://www.irblaws.com/videos/signals/28.mp4"
                   },
                   {
                      "image" : "thumb_29",
                      "text" : "Leaning on player in lineout",
+                     "description" : "Arm horizontal, bent at elbow, palm down. Downward gesture.",
                      "video" : "http://www.irblaws.com/videos/signals/29.mp4"
                   },
                   {
                      "image" : "thumb_30",
                      "text" : "Pushing opponent in lineout",
+                     "description" : "Both hands at shoulder level, with palms outward, making pushing gesture.",
                      "video" : "http://www.irblaws.com/videos/signals/08.mp4"
                   },
                   {
                      "image" : "thumb_31",
                      "text" : "Early lifting and lifting in lineout",
+                     "description" : "Both fists clenched in front, at waist level, making lifting gesture.",
                      "video" : "http://www.irblaws.com/videos/signals/31.mp4"
                   },
                   {
                      "image" : "thumb_32",
                      "text" : "Offside at lineout",
+                     "description" : "Hand and arm move horizontally across chest, towards offence.",
                      "video" : "http://www.irblaws.com/videos/signals/32.mp4"
                   },
                   {
                      "image" : "thumb_33",
                      "text" : "Obstruction in general play",
+                     "description" : "Arms crossed in front of chest at right angles to each other, like open scissors.",
                      "video" : "http://www.irblaws.com/videos/signals/33.mp4"
                   },
                   {
                      "image" : "thumb_34",
                      "text" : "Offside at scrum, ruck or maul",
+                     "description" : "Shoulders parallel with touchline. Arm hanging straight down, swings in arc along offside line.",
                      "video" : "http://www.irblaws.com/videos/signals/34.mp4"
                   },
                   {
                      "image" : "thumb_35",
                      "text" : "Offside choice: penalty kick or scrum",
+                     "description" : "One arm as for penalty kick. Other arm points to place where scrum may be taken instead of kick.",
                      "video" : "http://www.irblaws.com/videos/signals/35.mp4"
                   },
                   {
                      "image" : "thumb_36",
                      "text" : "Offside under 10-metre Law/not 10 metres",
+                     "description" : "Both hands held open above head.",
                      "video" : "http://www.irblaws.com/videos/signals/36.mp4"
                   },
                   {
                      "image" : "thumb_37",
                      "text" : "High Tackle (foul play)",
+                     "description" : "Hand moves horizontally in front of neck.",
                      "video" : "http://www.irblaws.com/videos/signals/37.mp4"
                   },
                   {
                      "image" : "thumb_38",
                      "text" : "Stamping (foul play: illegal use of boot)",
+                     "description" : "Stamping action or similar gesture to indicate the offence.",
                      "video" : "http://www.irblaws.com/videos/signals/38.mp4"
                   },
                   {
                      "image" : "thumb_39",
                      "text" : "Punching (foul play)",
+                     "description" : "Clenched fist punches open palm.",
                      "video" : "http://www.irblaws.com/videos/signals/39.mp4"
                   },
                   {
                      "image" : "thumb_40",
                      "text" : "Dissent (disputing referee’s decision)",
+                     "description" : "Outstretched arm with hand opening and closing to imitate talking.",
                      "video" : "http://www.irblaws.com/videos/signals/40.mp4"
                   },
                   {
                      "image" : "thumb_41",
                      "text" : "Award of drop-out on 22-metre line",
+                     "description" : "Arm points to centre of 22-metre line.",
                      "video" : "http://www.irblaws.com/videos/signals/41.mp4"
                   },
                   {
                      "image" : "thumb_42",
                      "text" : "Ball held up in in-goal",
+                     "description" : "Space between hands indicates that ball was not grounded.",
                      "video" : "http://www.irblaws.com/videos/signals/42.mp4"
                   }
                ]
@@ -225,46 +269,55 @@
                   {
                      "image" : "thumb_6",
                      "text" : "Forming a scrum",
+                     "description" : "Elbows bent, hands above head fingers touching.",
                      "video" : "http://www.irblaws.com/videos/signals/06.mp4"
                   },
                   {
                      "image" : "thumb_43",
                      "text" : "Physiotherapist needed",
+                     "description" : "One arm raised indicates physiotherapist is needed for injured player.",
                      "video" : "http://www.irblaws.com/videos/signals/43.mp4"
                   },
                   {
                      "image" : "thumb_44",
                      "text" : "Doctor needed",
+                     "description" : "Both arms raised above head indicates a doctor and/or a stretcher is needed for injured player.",
                      "video" : "http://www.irblaws.com/videos/signals/44.mp4"
                   },
                   {
                      "image" : "thumb_45",
                      "text" : "Bleeding wound",
+                     "description" : "Arms crossed above head indicates player has bleeding injury and may be temporarily replaced.",
                      "video" : "http://www.irblaws.com/videos/signals/45.mp4"
                   },
                   {
                      "image" : "thumb_46",
                      "text" : "Timekeeper to stop and start watch",
+                     "description" : "Arm held up in air and whistle blown when watch should be stopped or started.",
                      "video" : "http://www.irblaws.com/videos/signals/46.mp4"
                   },
                   {
                      "image" : "thumb_50",
                      "text" : "Head injury assessment required",
+                     "description" : "Abducted arm flexes and extends to touch head.",
                      "video" : "http://www.irblaws.com/videos/signals/50.mp4"
                   },
                   {
                      "image" : "thumb_51",
                      "text" : "Time off",
+                     "description" : "Arms form a T shape.",
                      "video" : "http://www.irblaws.com/videos/signals/51.mp4"
                   },
                   {
                      "image" : "thumb_52",
                      "text" : "Referee consults TMO",
+                     "description" : "Extended index fingers draw a rectangle to represent a television screen.",
                      "video" : "http://www.irblaws.com/videos/signals/52.mp4"
                   },
                   {
                      "image" : "thumb_53",
                      "text" : "TMO decision: no try",
+                     "description" : "Arms crossed then uncrossed in front of the body.",
                      "video" : "http://www.irblaws.com/videos/signals/53.mp4"
                   }
                ]
@@ -276,16 +329,19 @@
                   {
                      "image" : "thumb_47",
                      "text" : "Kick at goal successful",
+                     "description" : "Raises flag to indicate that the ball has gone over the crossbar and between the posts.",
                      "video" : "http://www.irblaws.com/videos/signals/47.mp4"
                   },
                   {
                      "image" : "thumb_48",
                      "text" : "Touch and team to throw in",
+                     "description" : "Raises flag with one arm, moves to place of throw in and stands there, pointing with other arm towards the team entitled to throw in.",
                      "video" : "http://www.irblaws.com/videos/signals/48.mp4"
                   },
                   {
                      "image" : "thumb_49",
                      "text" : "Foul play",
+                     "description" : "Holds flag horizontally and points infield at right angles to the touchline.",
                      "video" : "http://www.irblaws.com/videos/signals/49.mp4"
                   }
                ]

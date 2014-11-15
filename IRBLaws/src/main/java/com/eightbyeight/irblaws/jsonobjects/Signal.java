@@ -9,6 +9,7 @@ public class Signal implements Serializable {
 
     private String image;
     private String text;
+    private String description;
     private String video;
 
     public String getImage() {
@@ -21,5 +22,9 @@ public class Signal implements Serializable {
 
     public String getVideo() {
         return video;
+    }
+
+    public String getDescription(){
+        return description;
     }
 }
